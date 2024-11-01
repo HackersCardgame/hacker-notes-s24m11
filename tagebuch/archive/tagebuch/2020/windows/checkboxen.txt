@@ -1,0 +1,37 @@
+
+
+
+
+☐
+U+2610
+Stimmkästchen
+☑
+U+2611
+Stimmkästchen mit Häkchen
+☒
+U+2612
+Stimmkästchen mit X
+✗
+U+2717
+Stimmkästchen-X
+✘
+U+2718
+Kräftiges Stimmkästchen-X
+⮽
+U+2BBD
+Stimmkästchen mit leichtem X,
+🗴
+U+1F5F4
+Stimmkästchen-Schreibschrift-X
+🗵
+U+1F5F5
+Stimmkästchen mit Schreibschrift-X
+🗶
+U+1F5F6
+Kräftiges Stimmkästchen-Schreibschrift-X
+🗷
+U+1F5F7
+Stimmkästchen mit kräftigem Schreibschrift-X
+🗹
+U+1F5F9
+Stimmkästchen 

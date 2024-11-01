@@ -1,0 +1,28 @@
+So far just paranoid speculation of a crazy person:
+WACOM BUG: CyberWAR Territory
+Can be activated with the Stimulus-Response-Habit "You now need to do handwrinting for blah blah"
+-&gt; object oriente (but oop not in the sense of programming language)
+"use that product where they (Satan; for not saying military dictatorship) know that they have cyber-booby-traps available..."
+
+- I Reported [1]
+- wacom did not answer
+- takes maybe money for ignoring that
+- behavioral sciences malware possibly distributed over different channels than the driver
+
+Further, again they seem to go against the library not directly against the product, it would be possible that they rendered DBS Malware on unique keywords of the library, Selector, Selector Combination, Natural Language Processing...
+Mitigation: (but maybe fallback solution)
+
+**use ~2015 Inksacpe**
+- Generate Config file
+- import (tablet section of) Config to newer Inkscape
+works for me...
+(i twittered that mitigation but they deleted this tweet or shadowbanned it, and now the **search function** does not show the issue on gitlab anymore... hmmmmm.....
+
+[1] https://twitter.com/FailDef/status/1321325519518998528
+things that could work would be open tablet driver, or open hardware...
+
+
+maybe just because of my stupidity to the fact that there are two issues pools:
+
+https://gitlab.com/groups/inkscape/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=wacom
+https://gitlab.com/inkscape/inkscape/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=wacom

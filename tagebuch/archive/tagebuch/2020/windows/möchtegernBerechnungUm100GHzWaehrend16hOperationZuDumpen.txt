@@ -1,0 +1,25 @@
+
+100'000'000'000 Hz
+200'000'000'000 Abtastrate
+   G   M   k
+
+200GB / sek
+
+12TB / Minute
+
+
+
+
+da bräuchte man eh ein massives array von DSP's das mit einem massiven Array von 
+
+antenne mit veschiedenen längen so die tannenbaum antennen für breitband, aber vermutlcih auch mehrere davon
+
+-> aluminium folie wäre vermtulich die einfachere variante...
+
+bzw. was man könnte wäre mit dem DSP schauen wo jetzt plötzlich was ändert und dann einfahc das aufzeichnen, bzw. wäre das auch mit alufolie ausgekleidetem OP einfacher, udn wenn irgend ein gerät im OP irgend zu viel noise macht würde das dann simpsons mässig heilig gesprochen...
+
+Trägerwelle -> disasseblieren 
+
+
+
+

@@ -1,0 +1,23 @@
+>>> Meinung <<<
+
+Bei FröderungsProejkten sollte auch auf die Gefahren hingewiesen werden.
+
+z.B. gibt es ja Behavioral "Sciences" oder Dinge wie Stimulus-Response-Habits (Psychologie), da kann mann echt untolle Dinge mit Menschen machen. Das lässt sich im Computer oder auch Computer-Games relativ einfach implementieren, Formel: [1]
+
+Häufig hörtz man ja in der Presse: "Computerspiele produzieren Amokläufer" aber eigentlich ist des das Betreibssystem und die Hardware.
+
+So würde man mit dem Computer wenn man nicht auf die Gefahren hinweisen einen "Paperclip Maximizer" [2] produzieren
+
+[1] https://en.wikipedia.org/wiki/Clark_L._Hull#Behavior
+[2] http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html
+
+
+Stream hackt permanent, meine Lernkarten und Adresse:
+
+http://hackerscardgame.ch
+bzw. mirror:
+https://0x8.ch/HackersCardgame22
+
+
+
+

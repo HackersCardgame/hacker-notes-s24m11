@@ -1,0 +1,86 @@
+Als Addon für Eure Sendung gedacht. Work in progress...
+
+...ihr seid paar Jahre älter, also kann ich meinen <font color=yellow>Autotext:</font> <b>jüngere dürfen auch weniger wissen</b> nicht bellen.
+
+<font size="1">
+<pre>
+marc@Desktop-Musik:/mnt/c/Users/marc/hackerscardgame.ch$ figlet was ist Bildung
+                     _     _     ____  _ _     _
+__      ____ _ ___  (_)___| |_  | __ )(_) | __| |_   _ _ __   __ _
+\ \ /\ / / _` / __| | / __| __| |  _ \| | |/ _` | | | | '_ \ / _` |
+ \ V  V / (_| \__ \ | \__ \ |_  | |_) | | | (_| | |_| | | | | (_| |
+  \_/\_/ \__,_|___/ |_|___/\__| |____/|_|_|\__,_|\__,_|_| |_|\__, |
+                                                             |___/
+marc@Desktop-Musik:/mnt/c/Users/marc/hackerscardgame.ch$
+
+<font color=lightblue>Psychologie HackerJeopardy</font>:
+ähm man will Kindern nicht unbedingt beibringen belegen zu können, dass die Eltern Arschköpfe (Euphemismus) sind, also wird da mal ein Blind Spot im Thema Psychologie generiert und einen auf ObjektFixierung gemacht mit super duper <font color=white>Spezialist</font> auf $Fachgebiet. Ausserdem Dinge wie RechtSchreibNaziTum wäre auch etwas das man im Sinne von Behavioral "Sciences" missbrauchen ähm einsetzen könnte, was mit einem zusätzlichen KommunikationsKanal oder Stimulus-Reaktions-Habits deterministisch "einsentzen" können. Narzisstischer Machtmissbrauch durch Eltern würde zu tiefen selbstwert führen, was man dann mit der SpezialExperten (siehe CCC) Rolle kompensieren könnte. Bzw. Kinder würden darüber als Sklave verwendet bzw. "die Kinder sind angetrieben(Neusprech: VictimBashing)"
+
+
+Faktenwissen. Gerüst von Wissen = Stimulus Reaktions Habits? "Bitching" in der Schule, jetzt nicht sexuelle aber sonst?
+
+
+SpezialExperte sein, sich auf ein Fachgebiet beschränken:
+
+Pro:
+- man ist da wirklich super
+ - tiefen selbstwert kompensieren
+ - man hätte Zeit dann auch mal Tensoren oder Finitie Elemente (Mathe) genauer anzuschauen, set ca 10 Jahren auf meiner Todo Liste
+
+Con:
+- auf allen anderen Fachgebieten ist man dann eher nicht so super, was im Umgang mit Andern dann wieder mehr tiefen Selbstwert erzeugt
+- alle deren Spezial Fachgebiet nicht Psychologie ist sind einfach manipulierbar (deshalb meine Meinung wäre, das sowohl Digitale-Selbstverteidigung als auch Psychologische-Selbstverteidigung schon in der Grundschule gelehrt werden sollte)
+
+
+Im Informatik Markt kann man oft beobachten, wie sich Menschen in Richtung des Aaaaaaaaadministrators (Microsoft Marketing; a = wohlklingender Buchstabe und ich Zynismus) hocharbeiten wollen. Auf die Lehrer Rolle oder den Offizierstitel zu ist so artverwandt
+
+"neue Hardware für Schule"; meine Erfahrung:
+Auftragsvergabe: Fetternwirtschaft (Schulpüräsident gibt Auftrag an seinen Sohn)
+-> Sohn ist kein Informatik-Pro, somit allenfalls Sündenbock für "Bitching" über den Computer wie z.B. die HTML Behavioral "Sciences" Malware die die letzten 2h gegen mich aktiviert war. Von den SchulComputern auf die Computern der Kindern kommen <font color=tomato>Deep Packet Injection Satans: dann auf die der Eltern zu kommen? LawFare? </font> <- nö da gehts darum den Kindern z.B. Taten wie Pornographie oder High Orbit Ion Cannon anzufüttern, im Wissen, dass ein Kind eh keine Chance hat mit Operational Security, dann werden diese Taten nicht eingeklagt sondern landen in BigData (z.B. DataRetention Center in Utha). Somit zusätzliches Druckmittel um das Kind zu bitchen ähm zu versklaven. Verpetzt man solche institutionellen Probleme wird man virtuell ge-headshottet [1]
+
+Lehrer Bashing:
+- allenfalls ein institutionelles Problem:
+- - Lehrer hat die Rolle eines Vorgesetzten (Ist Vater z.B. des Kindes z.B. öfters mal "gemein", würde es die Rolle / Archetypen mindestens unterbewusst allenfalls als Revictimizing empfinden)
+- - Die Chef-Rolle des Lehrers würde ihn (ausser er ist sich dessen bewusst) hochmütig machen
+- - Lehrer bekommen afaik in der Schweiz eher viel Lohn -> überfressen, arriviert, ignorant, Revictimizing ebd.
+- - Lehrer wäre ein Single Point of Failure
+(aber ich hatte auch gute Lehrer, z.B. Prof. Tacier der mir vorsätzlich in der FH ein F- gemacht hat was mich angetrieben Mathe nachzuarbeiten)
+
+
+Besseres Beispiel wäre z.B. der Stefan Ott, Marc Weber, Philippe Kurz und ich, die eigentlich eine "distributet Lerngruppe" im Kontext Informatik waren, dies wurde vermutlich mit etwas wie Autismus-Früherkennung (Euphemismus) erkannt, ca. im Alter von 14 Jahren wurden wir motiviert "warnen" gehen, was so viel heisst wie bei den Offizieren im Obligatorischen Schiessen (Schweiz) die Punkte des Schützen aufzuschreiben. Rebuild des Lerngrüpppchens ist mit Disassembly Protection (Schuld,Scham,Angst,LawFare) gesichert, bei der Autismus-Früherkennung geht es meiner Meinung nach um Machterhalt. Problem Satans, Autisten haben tiefe Ambiguitäts-Toleranz, erkennen das auch bei anderen Linux Pinguinen und aggregieren sich automatisch wieder zu neuen Lerngrüppchen oder zu etwas wie der Unsichtbare Universität (global, distributed, redundant, Angeber) von Terry Pratchett. [1]
+
+Stell-Schraube:
+ich vermute Satan kennt die Stellschrauben, es wäre eine Art State-Machine, die dafür sorgt, dass die Summe der Fehler konstant bleibt und man das Problem nicht beheben kann [1]
+
+
+Informatik Studenten mit Medizin Studentin paaren:
+würde dann zu Überlegungen in Richtung t1, t40, t41, t42, t43, t44, t45, n2, n3 führen [1]
+
+
+Methoden Wissen:
+ich finde KonzeptWissen besser, z.B. kann man viel Infromatik Konzepte auch z.B. auf Psychologie Anwenden, bzw. Informatik könnte man oft auch Synonym SystemTheorie nennen ⇨ Niklas Luhmann
+
+
+Hanrstoff Experiment Geschichte (29:00):
+Konditionierter Reflex / Autotext / Szene / Webisoder für die Lebens-Timeline? <- Deine Mudder über irgend einen eher schlecht nachvollziehbaren Kommunikations-Kanal? (nicht böse gemeint, thing in question)
+
+<font color=cyan>HackerCardgame.ch greets Hoaxillas</font><br><br><br>
+<font style="font-size: 40px; font-family: monospace;color: white">☪</font><font style="font-size: 40px; font-family: monospace;color: green">☸</font><font style="font-size: 40px; font-family: monospace;color: red">e</font><font style="font-size: 40px; font-family: monospace;color: blue">✡</font><font style="font-size: 40px; font-family: monospace;color: yellow">i</font><font style="font-size: 40px; font-family: monospace;color: orange">☯</font><font style="font-size: 40px; font-family: monospace;color: cyan">†</font><br>
+<font style="font-size: 40px; font-family: monospace;color: white">coexist</font>
+</pre>
+</font>
+
+
+"Headshot" / "Gedanken-Krebs" (sorry hab keine bessreen Wörter)
+- Angefütterte Sünden aus US BigData als Druckmittel (zB. co4 Karte, mindestens seit 1980 wird solches gesammelt und in Datenbanke eingetragen, die Sünde werden aber nicht aus der Datenbank entfernt, siehe Text co4 Karte)
+- Trigger Themen/Wörter allenfalls mit implizitem divide et impera
+ - Nazi
+ - Jude
+ - Polizei
+ - blm
+ - ...
+- Sexuelle Integrität <font color=tomato>Satan: Deep Packet Injection: nicht den benutzeraccount tab77 auf youporn anschauen</font> ⇦ <font color=cyan>"Lieber" Satan, wir 1980er sind ja zu blöd zu merken dass das umgekehrte Psycholgoie ist? Eine Objektfixierung auf mein/ihr ... naja ihr wisst schon was ...</font>
+- Pädo Zeugs
+- Sprengfallen (jeweils Einblendung der Waffenkiste von Urs Bl., gepflantzt 2002)
+- BioTerror (jeweils Einblendung des Biologie Studenten, gepflanzt 2002)
+- m98 malware, mir Körperverletzungen zufügen, Behavioral "Sciences", der 1940er Satan ψ ähm Psychiater? Und die 1980er Psychiater/Psychologien wären öfters mal Sündenböcke, ev. Ken Thompson Hack für Psycholgoie Wissen?

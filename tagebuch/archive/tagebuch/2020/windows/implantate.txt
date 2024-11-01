@@ -1,0 +1,13 @@
+
+Hacker Jeopardy:
+Wie lange hält die Batterie eines Tamagotchis?
+Welchen CPU hat ein Tamagotchi?
+Welcher Computer hat den Selben CPU wie ein Tamagotchi?
+Wie gross ist der CPI in einem Tamagotchi?
+
+Elektronik Hacker Jeopardy:
+Was ist Induktion?
+
+Medizin Hacker Jeopardy:
+Was ist eine Blut/Bio Brennstoffzelle?
+https://de.wikipedia.org/wiki/Bio-Brennstoffzelle

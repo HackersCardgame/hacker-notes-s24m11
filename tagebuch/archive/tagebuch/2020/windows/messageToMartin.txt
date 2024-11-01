@@ -1,0 +1,130 @@
+
+Hello Martin
+
+You really dont want to know that, but better i tell you what i found out. But i also think it is related to Gtk3. They shoot again linux libraries, even if the people that develop the library are friendly penguins, maybe satan annoys them too so that they make more mistakes. Tested so far on windows, i will also test on linux...
+
+
+i guess that specific thing is some sort of a Gordian knot for cyber. Normally people think "Gordian knot" cannot be unknot, but that's maybe not true, see Maths::Topology::Knots...
+
+
+i think they have a specific annoying evil blackhat state machine that adapts to Gtk3 Input Library
+
+
+findings so far
+
+state machine 
+-------------
+random loop
+{
+ - offset problem  => only if you dont reboot twice after uninstall and reinstall the chinese driver
+    =>blaming the user card i guess
+ - pressure problem
+ - ???  - button does not work ???
+}
+
+
+gimp
+- no offset
+- button does not work
+  =>eighter the button of mouse oder the button of tablet works, both inkscape and gimp
+
+
+
+Chinese Tablet:
+==============
+
+Button function
+---------------
+
+Tablet  -----
+             \
+              >  Gtk3 -> inkscape
+             /
+Mouse   -x---
+
+
+
+x/y function
+
+Tablet  -----
+             \
+              >  Gtk3 -> inkscape
+             /
+Mouse   -x---
+
+
+
+
+Wacom Tablet:
+============
+Button function
+---------------
+
+Tablet  -----
+             \
+              >  Gtk3 -> inkscape
+             /
+Mouse   -----
+
+
+
+x/y function
+
+Tablet  -----
+             \
+              >  Gtk3 -> inkscape
+             /
+Mouse   -----
+
+
+
+State machine system aggregated pointer
+
+1. mouse
+2. chinese tablet
+switches to 2, disables 1
+
+1. mouse
+2. wacom tablet
+-> both can be used
+*blaming the chinese* card <- but i bought the chinese tablet because of trouble with wacom
+3. chinese tablet
+switches to 3 and disables 2 && 1
+
+
+================================================================================
+quick fix:
+really aggregate all input devices and route through all als pressure
+================================================================================
+
+
+documentation or more some sort of battle-log of the last days:
+there is another video, it's just a vidoo logfile. if you are intersted have a look at it, but it's maybe not your core busines, so i will try to unknot this thing further... so dont invest to much time in my battle log bzw. gimp has some similar issues...
+
+and you definitely really really really dont want to know that:
+https://gitlab.com/HackersCardgame/tablet-debug-session-PsyCyberWar-disassembly
+
+
+early follower -> cuting edge -> bleeding edge -> me [1,2,3,4,5] and reason why [6]
+
+=> having two teams is maybe a good thing
+
+- some people for bleeging edge things (dont ask them for proper documentation)
+- early follower
+
+
+[1] https://0x8.ch/HackersCardgame23/jpg/EN/#m32
+[2] https://0x8.ch/HackersCardgame23/jpg/EN/#m41
+[3] https://0x8.ch/HackersCardgame23/jpg/EN/#m44
+[4] https://0x8.ch/HackersCardgame23/jpg/EN/#m167
+[5] https://0x8.ch/HackersCardgame23/jpg/EN/#m92
+[6] https://0x8.ch/HackersCardgame23/jpg/EN/#m173
+
+m41: i have questions:
+1. how could julian manipulate the condom so that it does not gets defective when he pulls it over
+2. how many gifted computerscientists or hacker have been declared rapist terrorists except me, julian, and jacob applebaum?
+3. again m173: if you know that move [m41] already they can not play that "move" (Euphemismu)
+
+
+same text in gitlab:
+https://gitlab.com/HackersCardgame/hackerscardgame.ch-notes/-/blob/master/new3/messageToMartin.txt

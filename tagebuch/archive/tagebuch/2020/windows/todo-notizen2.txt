@@ -1,0 +1,258 @@
+cc c, s, prozessor
+
+
+work in progress, definitiv nicht ignorant:
+~04:27 20.10.2020
+.
+.
+.
+.
+08:41 20.10.2020
+09:46 20.10.2020
+
+Halli Hallo Kay
+
+Gut, dann kann ich Dich ja jetzt auch schlecht cancelCulturen (das Verb von Cancel Cultur).
+
+->dieser ganze Text wird jetzt halt ein bisschen wie z.B. "Soziale Systeme" von "Niklas Luhmann" wo man fast jedes dritte fucking Wort nachschlagen muss damit man mindestens die ersten 60 Seiten versteht, aber im Nachhinein bereue ich die Zeit die dafür drauf gegangen ist nicht.
+
+Wir können das hier auf der Liste austragen (austragen: ArrayList <offensive_Wörter> allenfalls >> vorsätzlich << suboptimal gewählt), bzw. bist Du vermutlich jünger als ich (1978) also überlasse ich Dir und der Liste die Entscheidung, ob hier oder mal per Skype, denn Leute zu zwingen auch Content Bitch zu sein wäre dann wieder ArrayList<GEWALT> und weniger ArrayList<PAIN>.
+
+Falls man da jetzt allenfalls einen zweiten solchen Fall findet im Kontext der Menschen, die eine Begabung auf "EDV" haben und wo ähnliches passiert ist (SozioPsychologie-DesignPattern / HUMINT-DesignPattern), hätte man vermutlich einen gültigen Rechtsfall, einen Präzedenzfall (<- ist eine EventTrigger / Selektor) und vermutlich das halbe Rechtssystem der Schweiz zer-cyber't. (scg6 Karte). Mir geht es aber nicht darum das Rechtssystem selber vor Gericht zu stellen, sondern ich will einfach, dass Gleichaltrige und Jüngere nicht wie ich duzende Male auf der Notaufnahme oder gar der Intensivstation landen wie ich oder regelmässig virtuell geköpft werden mit intelligenzmindernder Psychopharmaka nach untergeschobenem StGB 180, StGB 59... Sollte mir aber zu Ohren kommen, dass jüngeren Solches angetan wird, wäre es dann halt doch ALTERNATIVLOS da den Rechtsweg gegen den Staat zu beschreiten, der vermutlich nicht stattfinden würde, weil mich Urs Blum dann erschissen müsste; "zu Schutz des [Staates|MND|NDB|Staatsanwlatschaft|KapoAargau|andere Mittäter]" (Futurama::Günther::StudiertNICHTjura)
+
+Also hoffen wir, dass das nur eine Psychologie "Vorlesung" bleibt
+(bzw. sagen wir besser mal Social Engineering)
+
+
+- Content Bitch zu sein ist für [ Psychologie | HUMINT | Politik ] eigentlich die Mitigation für's Security through obscurity und das könnte sogar auf einem "Nash Gleichgewicht" zu Gunsten der WhiteHat's enden so wie es ausseiht.
+(John Forbes Nash, einziger "Schizo-Spinner" der je einen Nobelpreis erhalten hat ist meiner Meinung nach ein Autist und kein Schizo, der Film "A Beautiful Mind" lohnt sich aber dennoch)
+
+- Es ist öfter mal üblich im PsychatrieWesen, dass man den Patienten mit (ungehört: behinderter Mongo-Volldepp-)Patienten anspricht
+ -> man will aber nicht Patient sein, man will z.B. Hacker, Einhorn-Pony, Spike der BabyDrachen und/oder Super Held sein [1]
+
+- Im Patienten "das Objekt", "das Subjekt", "den Problemfall", "den Alkaida-Vergewaltiger-Terroristen [3]", "das Ding an sich" zu sehen hilft vorallem den sündigen [ Ärzten | Pflegern | Therapeuten | Eltern | ... ] dabei nicht selber eingestehen zu müssen, dass sie nicht ganz so super duper sind [1]. "Hochmut wird (aktiv nicht passiv) vor den Fall gestellt". Würde man den Sündern aber mit der bösen bösen Wahrheit, Leaks, Whistleblowing helfen wollen Fehler zu beheben, hätte diese unbequeme Wahrheit eine Kognitive Dissonanz zur Folge. Als überfressener 1970er oder älterer Arschkopf (Euphemismus) natürlich gerne vermeiden möchte und ist man wie Donkey Kong (1981) in einer Machtposition, würde man vermutlich anfangen mit Fässern zu werfen. Diejenigen ältern Menschen, die nicht triggern und mit Fässern zu werfen beginnen bei berechtigter Kritik sind logischerweise nicht gemeint.
+
+(Ihr kennt das ja: Retohrischer Automatismus: "Der Psychiater ist der mit dem grössten Dachschaden")
+ -> Spoiler, Kogntivie Dissonanzen sind gut um das eigene Weltbild zu erweitern, Vollständigkeit.
+
+- hat man wie ich z.B. im Alter von 20 Jahren ein 50-100 Mann Windows NT [2] geschmissen (ohne EDV Ausbildung, ohne Rückhalt und ohne Jemanden den man hätte um Hilfe fragen können und das auch noch besser als der Typ mit dem FH Titel der damals für die EDV verantwortlich war, den Explorer.exe [nicht den File Explorer sondern die (afaik selbe) Binary für den Desktop / Start Button...] aus der Registry geschmissen und da einfach ein cmd.exe hin gemacht weil ich das Gefühl hatte, dass das irgnedwie angenehmer ist), könnte es sein, dass man so irgendwie die Aufmerksamkeit (HUMINT) auf sich gezogen hat bei ABB ZH.
+
+marc@Desktop-Musik:/mnt/c/Users/marc/hackerscardgame.ch$ figlet helfen
+ _          _  __
+| |__   ___| |/ _| ___ _ __
+| '_ \ / _ \ | |_ / _ \ '_ \
+| | | |  __/ |  _|  __/ | | |
+|_| |_|\___|_|_|  \___|_| |_|
+(siehe ccc.de Congress && Psychiatrie)
+
+Habt Ihr Gleichaltrige oder Jüngere im Umfeld denen z.B. auch statt Autismus z.B. Schizophrenie, Borderline, Terrorismus, Täterrolle, ... aufgedrückt worden ist und ihr habt schon genügen eigene Erfahrung, Psychologie Wissen, nehmt die [ Schizo | Täter | Patienten ]-Rolle auf Euch. Das führt dann beim Patienten dazu, dass er schon mal nicht triggert wird wegen der aufgedrückten Diagnose (Zwang->Trigger) und das Problem als unbeteiligter Dritter sachlicher, analytischer betrachten kann und so schneller wieder gesund wird. Bei mir belastet das mein "Karma" deshalb geht das bei mir nur für Gleichaltrige und Jüngere, sonst lande ich wieder in der Notaufnahme.
+
+Weitere Dinge die bei mir triggern sind
+- Faulheit
+- Ignoranz [4]
+- Zwang
+(aber nur wenn sie durch ältere Menschen oder Menschen in einer Machtposition verübt werden, wenn Jüngere mir reale Plüschtiere oder virtuelle Konzertflügel an den Kopf schmeissen ist das komplett i.O. für mich)
+
+Mathematisch gesprochen ist meine Variante und die "übliche Variante der Psychiatrie" ein "Antagonierender Dogmenraum" (Dogmenraum im Sinne von Felix@Alternativlos):
+Und zum Glück Stalken nicht grad irgendwelche älteren Psychiatoren meinen Endpoint, sonst würden die jetzt noch berechtigt Selbsthass entwicken gegen sich entwickeln && Fässer,ebd...
+
+
+[1] Kontrast Effekt auf Deprivation nach z.B. 20 Jahren Narzisstischen Machtmissbrauch (z.B. durch Eltern, Lehrer, Therapeuten)
+[2] ja, sorry Asche über mein Haupt für's Windows
+[3] General-Warrant "Schachzug" der Kantonalen Behörden Aargau, nach dem man nach den Snowden Leaks gemerkt hat, dass irgendwelche "russischen" Dienste einfach diejenigen die was gemerkt haben als täter und hacker beschriftet haben? "Das Problem beinhaltet die Lösung schon"
+[4] ich hab 13 Jahre vor Snowden rum-genölt, man wollte nicht auf mich hören, auch z.B. wenn ein 10 jähriges Kind "nölt" (insbesondere wenn es Autismus hat) nehmt das Ernst, allenfalls ist etwas dran, selbst wenn es falsch ist habt ihr das dem Kinde erklärt weshalb es da jetzt etwas falsch interpretiert hat, ihr habt Zeit mit ihm/ihr verbracht was dann dem Kind auch dabei hilft später nicht einen tiefen Selbstwert (PräRequisite "Marketing") zu entwickeln und mit dem tiefen Selbstwert dazu getrieben kann irgendwelchen Ramsch auf Kosten des CO2's zu kaufen den es gar nicht braucht
+
+marc@Desktop-Musik:/mnt/c/Users/marc/hackerscardgame.ch$ figlet Kay
+ _  __
+| |/ /__ _ _   _
+| ' // _` | | | |
+| . \ (_| | |_| |
+|_|\_\__,_|\__, |
+           |___/
+Ich hasse es, wenn ich Menschen nicht in eine Schublade packen kann wie Dich... das geht mir komplett gegen den Strich, allenfalls Dir auch. Also hab ich zumindest mal Deine Email Provider Webseite gestalkt ähm überprüft, bzw judenfreundlicher Christianist (auch wenn ich gemäss einem Vogelschäuchen-Gestell-Anbeters [Flanders Szene benühend] der UniBE so ein doofer "Güggeli-Anbeter" bin) ist Faulheit für mich eine "Todsünde" bzw. vermute ich als "Güggeli-Anbeter" es es nur eine "Sünde" (üble Ausrede für's Stalken der webseite Deines Mail-Accounts)
+
+Man findet Dich eher schlecht im Netz, ich hätte sogar gesagt, dass Google da noch interaktiv dabei hilft. Ich selber stehe hin mit meinem KlarNamen z.B. wenn man die Domain ${Vorname}${Nachname}.ch reserviert [kommt|kam] das eigentlich meist ganz oben in Google. Wenn Du jünger bist als ich ist das eigentlich auch gut, wenn das so ist. Ich selber habe mir das Constraint auferlegt mich gegenüber Jüngeren immer mit meinem Klarnamen und Adresse zu zeigen. Geheimhaltung ist ein Machtmittel, Machtmittel tendieren dazu missbraucht zu werden, sic transit gloria mundi.
+
+Böse: t42 Gut: t42b (hackerscardgame.ch variante von Cyber-EinwegSpiegeln)
+
+Ich bin mit dem Umstand dass ich auf ca 30km um Aarau reduziert wurde zu wenig nahe am CCC-BE, dass ich Deinen Namen einem Gesicht zuteilen könnte. In letzter Zeit passiert es öfter mal dass ich in Richtung Jüngerer kläffe die das gar nicht verdient haben, weil sie unfreiwilliger NPC der üblichen Täterscahft aus Aarau mit Jahrgang 1970 und älter sind.
+
+Wie Menschen zu unfreiwilligen NPC's gemacht werden können ist eigentlich Gegenstand der 370 Karten des HackersCardgame.ch bzw. wie man mindestens die Jüngeren wieder befreien kann. Da kommen sowohl Psychologsiche Papers als auch Technische Papers "zur Anwendung". Unfreiwillige Hahnen-Kämpfe die dann zum Selbstläufer würden basierend auf preloaded antagonierenden DogmenRäumen finden die alten Leute auch sau komisch. Ich wurde dann so mir der Abrichtung durch $ihreFamilie auch missbraucht Terrordrohungen zu twittern, bzw. war ich genug schlau die Terrordrohung so zu formulieren wie sie übermittelt wurde:
+
+$Shrink sagt: "Marc jr Landolt bewaffnen und $ihreFamilie abräumen"
+->die KantonsPolizei hat dann diese Drohung die eigentlich schon eher wie ein Zitat ausgesehen hat so abgeändert, dass der Polizist das "$Shrink sagt:" einfach nicht ins Protokoll geschrieben hat. Als ich dann angefragt habe, weshalb er das Protokoll gefälscht hat hat er gemäss meiner Psychiaterin ihr angerufen und ihr gesagt man solle mir mehr intelligenzmindernde Psychopharmaka reindrücken. Und Protokolliert habe ich es, weil ich $dieEine warnen wollte dass man versucht mich gegen sie auszuspielen. Das war kurz nach den Snowden Leaks, wo klar war, dass nicht ich ich der BlackHat bin, also ist dort scheinbar in deren Handbuch: "Macht den jetzt irgendwie zum Alkaida-Vergewaltiger-Terroristen" um ihn "legitim" zu head-shotten.
+
+Falls Du gleichaltrig oder jünger bist stehe ich gerne Rede und Antwort.
+
+Falls Du jünger bist, pass mit umgekehrter Psychologie auf. Man kann sowohl umgekehrte Psychologie als auch Zynismus als "Geheimsprache" verwenden. Aber z.B. vor einem Gericht würde ich das unterlassen, denn das sieht man dann dem Protokoll nicht an ob das jetzt genau anders herum gemeint ist.
+
+Stimulus-Response-Habit tron bit istZynismus [0|1]
+Polizei doof [0|1]
+nazis doof [0|1]
+antifa doof [0|1]
+
+
+
+#BugReport https://www.immerda.ch/assets/flyer.pdf
+
+Wenn ich wählen müsste zwischen Nazi und Antifa wäre ich ganz klar ein Antifa wähler, ABER es ist eigentlich pointless und kontraproduktiv egal welche Seiten noch mehr gegeneinander auszuspielen, egal ob Ponies VS BabyDrachen, Links gegen Rechts, Mändlein VS Weiblein.
+
+Perfektes Beispiel ist da der Bruder meiner [ Besitzerin |Sklaventreiberin | Zuhälterin | Nervensäge mit mehr Wertesystem | Besserwisserin mit angeber-Dr.-Titel ] ähm gleichatrigen Herrin
+
+Er ist der älteste Sohn in ihrer Familie, ist meines Wissens in der Rechts-Radikalen Szene gelandet, nicht weil er böse ist, sondern weil $ihrVater natürich triebgesteuert nicht unbedingt den Töchtern die TäterRolle aufdrücken kann, und dem kleinsten Sohn die Täterrolle aufzudrücken ist auch irgendwie Selbstbeschädigung, also trifft es oft den ältesten Sohn. So eine Rolle zu Hause bei der Familie ist dann nicht etwas was man lange aushält, also sucht man sich eine Ersatzfamilie, z.B. eine Kiffer-Klicke, wo es gar nicht primär ums Kiffen geht sondern darum ein liebevolles Umfeld zu haben dass einem wegen $geisteskrankenEltern verwehrt blieb.
+
+Auch generell gegen die Poliziei zu wettern ist nicht zu 100% korrekt. Vermutlich wird die Statistik, dass Häusliche Gewalt durch Polizisten USA massiv erhöht ist stimmen, aber es sind nicht alle Polizisten böse, wenn ihr z.B. den Film L.A. Crash schaut, gibt es da einen jungen Polizisten der das Richtige machen möchte, der veruscht die Misstände auf seiner Wache zu beheben, der Film ist aber leider ein Drama, er wird dann irgendwann von den Tätern bei der Polizei selber zum Täter gemacht. Um das zu verhindern sollten wir alle diese Polizisten die noch nicht zu Tätern geworden sind unterstützen. Und klar, das ist nur ein Film, ABER ich konnte bei der KAPO Aargau genau das selbe beobachten. Ein junger Polizist hat mir geglaubt dass ich kein Terrorist bin, er ist dann zu seinem Vorgesetzten gegangen, hat das beanstandet und wurde vom Vorgesetzten runter gekanzelt, und der Vorgesetzte wusste vermutlich dass es sich nicht um eine legitime Festnahme handelt. Der Euphemismus dazu fefe.de ist "Weisungsgebunden"
+
+
+
+
+marc@Desktop-Musik:/mnt/c/Users/marc/hackerscardgame.ch$ figlet richtiges Hacking
+      _      _     _   _                   _   _            _    _
+ _ __(_) ___| |__ | |_(_) __ _  ___  ___  | | | | __ _  ___| | _(_)_ __   __ _
+| '__| |/ __| '_ \| __| |/ _` |/ _ \/ __| | |_| |/ _` |/ __| |/ / | '_ \ / _` |
+| |  | | (__| | | | |_| | (_| |  __/\__ \ |  _  | (_| | (__|   <| | | | | (_| |
+|_|  |_|\___|_| |_|\__|_|\__, |\___||___/ |_| |_|\__,_|\___|_|\_\_|_| |_|\__, |
+                         |___/                                           |___/
+
+Ich hab bei Brack eine Acer Predator Helios 300 gekauft, Gamer Laptop, somit eher ein Produkt für Kinder, Jungendliche und Junge Erwachsene, Mittlerweile habe ich
+- die PCIe Wifi Karte ausgebout (@ioerror: they repurpose your wifi-gear)
+
+- verwende statt der eingebauten EthernetKarte eine USB Ethernet Karte (PcI Bus -> Zugriff auf halbe Hardware?)
+
+- hab das Betriebssystem auf einem USB-Stick (Spekulation M.2 mit EquationGroup mit EyeFi Funktion, SouthBridge -> Halbe Hardware, ebd?)
+
+==> schon zwei mal habe ich bei der FHNW gefragz ob ich Timeslots auf dem ElektronenMikroskop haben könnte gegen Bezahlung, die würden ja sogar Geld verdienen, bereits zwei mal bin ich kurz danach in die Psychiatrie verschleppt worden (die grad neben der FHNW in Brugg ist) und mit intelligenzmindernder Psychopharmaka ge-head-shotted worden. Ist noch kein Beweis aber irgendwie doch eher merkwürdig.
+
+LG und sorry dass ich keine besseren (aber auch keine schlechteren) News habe
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+
+
+AQ: 36 (leichter / hochfunktionaler Autismus)
+IQ: 127
+Alter: 42
+Grösse: 173
+Gewicht: C64
+Geschlecht: 51% Männchen
+Titel: eidg. dipl. Informatiker HF
+Besitzerin: weiblich, gleichaltrig
+n-Semester Studiert: ~10 (inoffiziell 40)
+Für Autisten / Aspies stehe ich gerne Rede & Antwort...
+
+...und für Gleichaltrige und Jüngere auch
+
+8:34 PM · Dec 28, 2019·Twitter Web App
+
+#HackersCardgame #Bitching
+Hacking spawns Justice to integrate the Käckse[r] into Satans Black World
+
+i give hereby the permission to equal aged & younger people to hack my stuff
+
+Maybe It would be less of a crime?
+#CCC #36c3 
+
+Please don't kill me or us!
+
+->fragt aber dennoch zuerst einen Jus-Spezialisten bei dem Ihr wisst, dass er Euch nicht das Messer in den Rücken stecken wird, apropos weniger tollen Dingen wie dem HackerParagraphen (DE)
+
+
+
+Apropos 175 Jahre: (Das wird jetzt dann in der Nummerologie vermutlich das Trigger"Wort" gegen WhiteHat's)
+
+Jüngere wenn ihr wollt und eher nicht so tolle Infos gefunden habt und das lieber nicht selber twittern möchtet, schmiesst das mir ins "3D Modell" meiner Wohung, Breifkasten, Mail, Twitter, ................., ACHTUNG, wenn ich rausfinden kann wers rein geschmissen hat, wird Satan es auch rausfinden...
+
+
+
+Ich wurde auf ca. 30 km um Aarau eingeschränkt
+
+-> es geht schon auch mit dem Velo nach Bern zu fahren, nachts, bei schnee und regen, bei minus graden, ohne richtige Handschue, komplett druchnässt, um an der Bünzli RebootPart ein viertel Stück Pizza zu ergattern (somit vermutlich das viertel Stück Pizza dass ich mir am härtesten erarbietet habe), ABER ich würds wieder tun, hab da einen freundlichen Autisten kennen gelernt der auch mal zwischendurch an der COSIN vorkommt.
+
+
+
+Sklaventreiberin, Zuhälterin, Nervensäge mit mehr Wertesystem, Besserwisserin mit angeber-Dr.-Titel ähm Herrin
+
+
+
+Autisten haben scheinbar ein integriertes Natural Language Processing Modul in ihrem Gehirn
+
+
+Meiner Meinung 
+
+
+
+ich wurde benutzt als content spammer
+
+
+
+jasmin schneider
+
+->ihm würden falsche anklage akten ausgehändigt die er aufklären muss
+
+
+beschuildigter vergewaltiger terrorist 1980
+ermittler terrorist 1980
+
+bzw beides npc
+
+Sigm m = 0, sucht stöckchen ihr zwei
+
+
+weltiblder portfolio / antagnoierende weltbilder
+
+
+
+
+
+alles umgekehrt oder zynismus -> spätestens wenn die aussagen-logik konstrukte komplexer werden führt das zu matematischen wiedersprüchen
+
+für eine einzelne aussage geht das, 
+
+
+prof von mir hat gesagt "das muss laut und lebendig sein" (<Zynismus>war so ein komischer typ aus dem osten</Zynismus>) im kontext von jüngeren und kindern, <kein Zynismus> und das finde ich auch<Zynismus> um die Simpsons Szene "wie haltet ihr die kinder ruhig" zu bemühen (Spolier: mit medis)
+
+wenn ich eine Seite wählen müsste NAZI oder ANTIFA würde ich ganz klar auf die Antifa seite gehen, ABER
+
+zu viel antifa -> Kontraproduktiv
+zu viel gegen die Polizei wettern -> Kontraproduktiv -> L.A. Crash, aber stattgegeben statistik häuslicher gewalt mindestens unter us polizisten massiv erhöht
+-> und um da ncohmals den Rückbezug zu machen "Häusliche GEWALT" impliziert nicht PAIN sonst müsste es in der Statistik unter "Häuslichem PAIN" erfasst werden und impliziert sicher komplett nicht etwas wie Diskmag PAIN
+
+
+
+
+
+z.B. der Bruder meiner Vergewaltigerin wurde richtig schlecht behandelt von 
+
+
+
+175 Jahre Haft, Damokles, kann man mitigaten
+ich vermute (bis auf wenige
+
+ich bin nicht genug blode "red team" zu machen, 
+
+
+https://twitter.com/FailDef/status/1211007590358011910
+8:34 PM · Dec 28, 2019·Twitter Web App
+Maybe It would be less of a crime?  <-- aber klärt das wegen so unnetten Dingen bitte zuerst noch mit euer Rechtsverdreher (der ein bisschen abnehmen könnte, kein body shaming sondern ein bugreport mit verbesserungspotential, allenfalls wäre da eine Endokrinologie Häckse level 5000 nützlich um das oft bemühte "DrühesenProblem" zu bemühen.
+
+ich war als Kind immer dsa dickste Kind, 
+
+
+military dicatotrship
+
+"zufällig" der schulkommandant des waffenplatzes wangen da materialisiert wo ihr immer rauchen geht...
+
+if you mess, it messes with oyu anyway
+
+maximale physikalische reichweite
+30 km um aarau -> Panzer Billet zer-cybert, auto billet zercybert, jetzt noch velofahrer
+
+keine single points of failure, aber single point of content honeypot allenfalls sinnvoll
+
+
+
+drohne, npc, ignoranz, mitch altman zeteco
+
+
+
+
+ab dem zeitpunkt wo ich eine ganze abteilung zusammen-gemöst habe weil die alle eher nicht so freundlcih zum 16 jährigen autisten waren und den 17 jährigen nebenstift von ihm auch noch angestiftet haben auch gegen den autisten zu mötzel... klar autismus

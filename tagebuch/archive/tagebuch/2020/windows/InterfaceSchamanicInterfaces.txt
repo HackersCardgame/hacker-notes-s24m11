@@ -1,0 +1,67 @@
+
+
+Mon Jan  4 23:29:17 CET 2021
+Dann apropos "Töpfli Hexe" und Astrid Blum die 2002 irgend bei einem Sturm irgend etwas aus einer Dose ausschüttet, da gäbe es somit eine Schamanisches Interface
+
+
+interface SchamischesInterface
+{
+
+  Task
+  Objekt
+  ...
+
+}
+
+
+abstract class SchamischesInterface
+=> bzw. abstract class bzw. beides, vermutlich clusterfuck
+
+public class töpfliHexe implements SchamanischesInterface
+{
+
+  public Object Töpfli 
+  public Object Inhalt
+  public Object ...
+
+  public Task Ausschütten
+  public Task Auffüllen
+  public Task irgendEtwasSexuelles
+  public Task ...
+
+
+}
+
+=> game engine?
+
+yay, endlich mal leute die nicht einen kompletten dachschaden haben.... :D
+
+
+=> apropos, youporn oder so will mir unbedingnt porno mit menschen aus meinem umfeld reindrücken
+
+1. desi
+2. sandra stephens
+
+=> apropos der sache mit dem solche-seiten-such-algi...
+
+und nö, so zeugs klick ich dann gar nicht an, weder von jüngeren noch ältern solchen
+
+
+
+unknown:
+diskussion über java interfaces und dann wieder thema sex?
+
+ich:
+stimmt, das wirkt ja schon fast so, als ob da system dahinter ist, ähm "lieber" NSA bzw. NATO Porn - room...
+
+und apropos herleitungs-zensur:
+http://www.edwardsnowdennews.com/gchq/gchq-karma-spies-on-porn-watching-private-life/
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+
+Bzw. könnten da ja auch die beiden Gottis allenfalls selber Karten hin-häcksen für Tiptoi enhanced Lernkarten für z.B.
+
+- Buchstaben lernen
+- Rechnen lernen
+- Mengenlehre Lernen
+- Aussagen und Prädikaten Logik lernen
+(bzw. ist das vermutlich etwas zu früh)
+- Anatomie Lernkarten
+- ein interaktives Cluedo
+- Häcksing Lernkarten
+
+da gibt's sicher noch tausende andere Ideen die vielleicht noch besser sind als meine.
+
+
+https://tttool.readthedocs.io/de/latest/erste-schritte.html
+(und ja sorry, dafür braucht Ihr Linux, bzw. WSL/WSL2 auf Windows && [ xMing | 
+VcXsrv ] geht vermutlich auch)
+
+https://de.wikipedia.org/wiki/Digitales_Papier
+Technisch funktioniert das Tiptoi wie ein Strichcode bzw QR-Code, einfach viel kleiner
+
+Karten kann man z.B. mit Inkscape machen:
+https://github.com/braindef/Minion-Memory/tree/master/cards/DE
+

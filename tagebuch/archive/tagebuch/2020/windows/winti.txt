@@ -1,0 +1,33 @@
+
+
+
+Marc Jr Landolt
+Halli Hallo Winter Stephan
+
+sei vorsichtig mit solchen Äusserungen. Mein Onkel hatte eine Treuhand Firma für Leigenschaften und immer Probleme mit Sprayereien. Er hat dann sogar einen Verein gegründet [1], um dem entgegen zu wirken. ABER wie z.B. in Afghanistan z.B. an Häusern sind Graffiti oft auch ein Marker, der z.B. Anzahl Tote, Anzahl Verletzte, Anzahl Vergewaltigungsopfer... kenntzeichnen. Diejenigen die die Tagger-Meta-Sprache kennen und noch alle Tassen im Schrank haben würden dann dort vorallem versuchen zu helfen, denn ein Tag macht man erst dann, wenn man selber nicht mehr weiter kommt. In Computer Science ausgedrückt ist es also so etwas wie eine Semaphor [2]. Und klar wird es auch einige Idioten geben, die einfach aus Sadismus oder Geltungssucht schöne Häuser versprayen. Aber z.B. wenn z.B. Bansky ein Graffiti an Dein Haus sprayen würde, dann hätte es danach nicht den halben Wert sondern den doppelten... da kann man wirklich nicht alle in den selben Topf werfen.
+
+Mathematisch::Fallunterscheidung:
+A) Hilferuf (Semaphor, Notstand)
+B) GeltungsSucht (Idiot, Tag-Spammer)
+C) Kunstwerk (z.B. Bansky)
+
+[1] http://sprayex.ch/con/cms/front_content.php
+[2] https://de.wikipedia.org/wiki/Semaphor_(Informatik)
+
+Ich will Dich nicht überfordern, ABER "audiatur et altera pars"
+In der Allgemeinen Erklärung der Menschenrechte wäre verankert, dass alle Menschen gleich sind. Das ist aber oft nicht so. Auch in der Schweiz gibt es Menschen die am oder unter dem ExistenzMinimum leben. Oft nicht mal selbstverschuldet, sondern weil sie z.B. als Informatiker die #Verantwortung einer bereits vor der Anstellung installieren Software Lösung im UKBB #aufgedrückt #bekommen. Dann hat man da sein "Amt" und die Verantwortung für diese Lösung, sieht dann, dass diese Lösung das Leben von Kindern in der Klink gefährdet und ist natürlich auch so #eingebildet #wie #ich und will nicht seinen Ruf als Informatiker HF schrotten. Folglich geht man zum Chef, sagt dass meiner Meinung nach diese Lösung (wo man mich damals als 30 Jährigen vorallem als Sündenbock angestellt hat) das Leben von Kindern gefährdet.
+
+Schwups, schon hat man wieder keinen Job mehr, wieder ganz viel Ärger am Hals so dass der Konkrete Vorfall mit der UKBB in Vergessenheit gerät ähm "Gras darüber wächst" (Euphemismus)...
+
+Oder Väter die ihre Söhne als ArbietsSklaven oder Soldaten "erziehen" bzw abrichten, sie dann für den Profit der 60 Jährigen und günstiges Öl in blutige Kriege schicken, ohne dass die Söhne das vielleicht überhaupt merken weil sie das "Don't do this don't do that" [3] von Älteren und Vorgesetzten vielleicht gar nicht anders kennen.
+
+Oder anderes Problem ist z.B. dass wir/einige Männer devote (=unterwürfige) Frauen lieben, aber devote Frauen mögen allenfalls selber auch devote Männer (Gleich und Gleich), also würde man z.B. als Offizier mit der Üblichen Waffenkiste die man von der Schweizer Armee aufdrückt beokmmt... Science Cat
+
+Genau aus solchen Gründen schreiben Menschen wie F.A.R.D. solche Songtexte: "Doch ich sehe eure Zeichen, ihr könnt mich nicht täuschen, Politik heißt Verrat und Lügen, Von fettgefressenen Schweinen in Maßanzügen, Einigkeit, Recht und Freiheit – Nein Scheinheiligkeit, Unrecht und Feigheit" und unrecht hat er nicht, verwendet aber exzessiv die a14 Karte.
+
+Ich bin so irgendwie zwischen den beiden Seiten, nicht reich, nicht arm. Ich identifiziere mich in Teilen mit beide Seiten. Ich bin auch genug intelligenz-schlau nicht generell die eine oder andere Seite zu verurteilen, sondern versuche mir immer ein eigenes Bild zu machen vom Individuum. Klar hat es evolutionäre Vorteile als Neandertaler generell Angst vor SäbelzahnTigern zu haben, auch wenn nüchtern statistisch nur 90% der besagten Viecher grade hunger haben. Ich hab mich vom Orang-Utans, zum Neandertaler, zum irgend etwas zwischen Neandertaler und HomoS@piens hochgearbeitet.
+Ich komme zum Schluss, dass das einzig vernünftige Verhalten deeskalieren und helfen ist. "#in #the #kiss #of #the #two #worlds" [4]
+[3] https://www.youtube.com/watch?v=-1CE4P8qqPE (that backfired)
+[4] https://www.youtube.com/watch?v=MdC3e_H53nY
+
+während des schreibens kotzt pfistrerer auf formulierungen von mir nicht einfach einzelne kotz wort haufen, sondern jeweils schon mehrere arrayList<mansplaining kotzhaufen>

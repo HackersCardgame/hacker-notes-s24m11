@@ -1,0 +1,53 @@
+
+
+EXKLUSIV: Der Sturm auf die Straßennamen [Dietz Bering]
+
+marc@Desktop-Musik:~$ figlet Dietz Bering
+ ____  _      _         ____            _
+|  _ \(_) ___| |_ ____ | __ )  ___ _ __(_)_ __   __ _
+| | | | |/ _ \ __|_  / |  _ \ / _ \ '__| | '_ \ / _` |
+| |_| | |  __/ |_ / /  | |_) |  __/ |  | | | | | (_| |
+|____/|_|\___|\__/___| |____/ \___|_|  |_|_| |_|\__, |
+                                                |___/
+marc@Desktop-Musik:~$
+
+
+
+kommunikatives alltagsgedächtnis                    \
+                                                     > StrassenNamen  -> überladen von Operatoren bzw Symbolen (C++)
+institutionell gelenktem kulturellem gedächtnis     /                    ->technisch: RFID -> Stream das was man höhren will?
+                                                                                      ausser die die merken was läuft, die bekommen
+                                                                                      den stream der anderen seite, Divide et Impera, aktivierung
+                                                                                      += EventTrigger -> Rescue Mission, nach rescue wollen allenfalls mithelfen, mutmasslich intelligent
+
+Hochmut für beide Seiten, sowohl Links als auch Rechts, dann würde man für beide Seiten die blaue dy/dt Karte "spielen" können
+->möglicher Hack, stream der für alle Stakeholder zwar nicht super duper aber akzeptabel ist...
+
+marc@Desktop-Musik:~$ figlet Feinde
+ _____    _           _
+|  ___|__(_)_ __   __| | ___
+| |_ / _ \ | '_ \ / _` |/ _ \
+|  _|  __/ | | | | (_| |  __/
+|_|  \___|_|_| |_|\__,_|\___|
+
+impliziert Krieg, suboptimale Formulierung, 
+
+besser der sprachliche Hack von Joseph Weizenbaum: "Krieg ist der >>>Feind<<<" 
+
+also weder Russland noch Amerika ist der Feind, sondern der Vorgang auf einander los zu gehen ist der Feind.
+
+
+
+
+ _  __     _              _     _         _
+| |/ /_ __(_) ___  __ _  (_)___| |_    __| | ___ _ __
+| ' /| '__| |/ _ \/ _` | | / __| __|  / _` |/ _ \ '__|
+| . \| |  | |  __/ (_| | | \__ \ |_  | (_| |  __/ |
+|_|\_\_|  |_|\___|\__, | |_|___/\__|  \__,_|\___|_|
+                  |___/
+______  _____    _           _  ______
+\ \ \ \|  ___|__(_)_ __   __| |/ / / /
+ \ \ \ \ |_ / _ \ | '_ \ / _` / / / /
+ / / / /  _|  __/ | | | | (_| \ \ \ \
+/_/_/_/|_|  \___|_|_| |_|\__,_|\_\_\_\
+ 

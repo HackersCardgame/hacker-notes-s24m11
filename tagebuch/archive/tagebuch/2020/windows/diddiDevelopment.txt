@@ -1,0 +1,33 @@
+
+
+Python Kurs
+-----------
+
+Mac:
+---
+https://www.youtube.com/watch?v=jqNH0j3tw_Q&list=PL_tdPUem3eE_k40i65IdRPWrAZxoHcN4o
+
+
+
+Windowos:
+--------
+https://www.youtube.com/playlist?list=PL5bFwGzHA_6kH79dst9SCEz2j99IaDNv9
+
+
+
+
+
+Am besten mit Linux arbeiten:
+============================
+
+Installation Ubuntu:
+-------------------
+https://www.heise.de/tipps-tricks/Wie-installiert-man-Ubuntu-auf-seinem-PC-3877156.html
+
+
+Am einfachsten ist es, wenn man einen Occasion Computer kauft, z.B. i3, i5 oder i7, dann kann man ganz viel falsch machen ohne dass man seinen Hauptrechner verliert, sich dann unnötig und aufgibt (aber das wäre dann eine Psychologie Vorlesung)
+
+
+
+
+

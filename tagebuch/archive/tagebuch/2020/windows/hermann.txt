@@ -1,0 +1,18 @@
+Hallo @Hermann 
+
+"Philiosophie nicht so" NICHT "Mathe nicht so", eigentlich nur ein Spass auf kosten von Gunnar der ein "Philosophie hilft bei der Psychisachen Gesundheit" an einer anderen Stelle referenzieren soll. 
+
+"StatistikManipulation" kan man ab einem gewissen Niveau z.B. mit https://de.wikipedia.org/wiki/P-Hacking erklären, aber eigentlich sollte man den Schülern beibringen, dass man wachsam sein soll, immer etwas für Notizen griffbereit haben soll und alles hinterfragen. Terry Pratchet: “Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life.” 
+
+Mathe = Sinnvoll, ist aber eher schwierig, weil Schulunterricht vorallem dazu dient den Schülern das Lernen zu verderben:
+
+- Kurvendisskussion verstehen
+- Nummerisches Integral wäre super einfach als Aufgabe z.B. in der Informatik
+- Dann so Dinge wie Matrix-Multiplikation die sich in meinem Kopf erst nicht installieren liess
+(Eselsbrücke: Schreib Dich nicht ab, lerne "Zeile mal Spalte")
+- fängt man dann an mit z.B. dem Spatprodukt den Abstand zwischen zwei windschiefen Geraden berechnen zu wollen und würde man das mit einem Intervall von 0.1 Sekunden tun hätte man schon mal einen Teil des Mathe für ein Raketen-Abwehrsystem, und dann auch schon wieder eher mehr als weniger Ärger oder gar eine NATOderfahrung, obwohl Raketen abwehren ja etwas sinnvolles wäre
+
+https://github.com/braindef/HackersCardgame12/blob/master/TODO/autism/autism.JPG
+
+Gruss
+Marc jr.

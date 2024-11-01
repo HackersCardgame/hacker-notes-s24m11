@@ -1,0 +1,127 @@
+
+ 
+apropos #OFFTOPIC
+
+Man muss nicht unbedingt Java nehmen, sondern kann zB JavaScript nehmen:
+
+https://0x8.ch/mandelbrot.js/ 
+(das Zoomen geht auf dem Tablett nur so halb)
+
+Ein möglicher toller Kurs ist der hier [1], der ist aber dann schon für die Fortgeschrittenen Kinder oder "Kinder". Da lernt man nicht "Programmieren Lernen" (1), sondern da lernt man eine "Programmiersprache(n) Programmieren Lernen" (2)
+
+Ich selber brauche immer die Herleitung um mir etwas gut merken zu können. z.B. würde man beim "Programmieren Lernen" (1) hören:
+
+"Ein Lexem ist ein Lexem weil es ein Lexem ist"
+
+Wenn man jetzt aber eine "Programmiersprache Programmieren Lernt" (2) muss man das ja das Lexem selber programmieren, also begreift man besser was das ist. Ich hab aber noch keine Rückmeldung, ob das nicht eine zu grosse Hürde ist für Einsteiger. Anybody? @iPau ?
+
+[1] https://craftinginterpreters.com/
+
+
+
+Hallo Bianca
+
+Moderatorin meldet sich, das ist super. Facebook wollte die Nachricht nicht durchlassen, das ist eher nicht so super... Ich bin jetzt seit fast 3h an diesem Text, hat leider immer noch Lücken und Schrechtreibfehler.
+
+Ich bin Sonder-Behindert (also Autist [0]) und in einem Sonder-Setting (also nicht wie der Carlos, ich bin körperlich nicht so der stärkste, hab neulich gegen eine 16 Jährige Kanti Schülerin verloren nach dem ich ca 1h erfolgreich vor ihr flüchten konnte). Das wäre nicht so super peinlich wenn ich nicht schon 42 Jahre alt wäre.
+
+Für mich (allenfalls auch für andere Autisten) ist alles ein Puzzle. Die Reihenfolge von Buchstaben in Wörter oder die Reihenfolge von Wörtern in Sätzen sind nicht wichtig. Autisten-Gehirne puzzeln die Information (nicht die Form) meist selber richtig oder sogar richtiger zusammen: https://0x8.ch/wordRandomizer.js/
+
+Um das jetzt am Beispiel zu demonstrieren halte ich Dir den Spiegel für das "Leider wiederholen sich deine Beiträge oft." vor und und und und Dein "und" wiederholt sich auch (Screenshot)
+
+Eigentlich ein Geschenk mit dem Hinweis auf https://wordcounter.net/ dass gratis Informatik-Psychologie-Hinweis, dass man mit Worthäufigkeitsanalyse auch aus kurzen Texten z.B. schon das Motiv herleiten kann oder stilistische Fehler. Möchtest Du mehr darüber wissen empfiehlt sich das Video von unserem Cyber-Mönch Josh "Überwachen und Sprache" [1]
+
+Diese Sprachanalyse Algorithmen sind überall. Diese Überwachungsinfrastruktur greift auch nicht nur lesend zu. "c'est la merde" wie der Italiener sagen würde. Solange Du Dich auf denen von Satan vorgesehenen Wegen bewegst ist alles super, mindestens die ersten Lebensjahre [2]. Im Part 2 merkt man dann aber, dass es eine Falle war.
+
+Ist man aber genug Intelligenz-schlau kann man einigermassen nachweisen, dass das meiste von den Eltern untergeschoben wurde. z.B. meine nicht-mehr-Mutter hat mir und meiner 1 Jahre jüngeren Schwester so Plastik Windeln im Alter von 5 & 6 Jahren ins Zimmer gelegt zum "spielen". Was machen Kinder in diesem Alter mit neuem Spielzeug, Kinder versuchen das natürlich richtig zu bedienen. Folglich fokussiert das Kind auf den Genitalbereich des anderen Kindes. Das wäre soweit kein Problem, wenn meine mongo-nicht-mehr-mutter das nicht irgendwie noch protokolliert hätte und diese Szene immer dann gegen uns missbraucht wird, wenn wir "an einer grossen Sache dran sind".
+
+Mir ist klar, dass die Formulierung "an einer grossen Sache dran sein" so eine typische Formulierung eines Spinners wäre, Ich hab aber auch kein Problem damit mich "Sonder-Behindert" zu nennen oder sonst irgendwie als Spinner zu geben. Beim einzigen offiziellen IQ Test den ich gemacht habe hatte ich 127, Sprachlich bisschen weniger, Mathe, Technik ein bisschen mehr.
+
+Ich vermute jetzt, dass das Wort "Phallussymbol" <-> TipToi allenfalls einige von Euch getriggert [6] hat. Die ersten 20-30 Jahre gehen die Eltern Generationen nicht unter die Gürtellinie, bzw. verhindert das System / Mainframe das in den meisten Fällen, danach geht die Eltern-Generation eigentlich nur noch unter die Gürtellinie weil man sich als junger Mensch die ersten 20 Jahre dran gewöhnt hat, dass man mindestens im Bett nicht überwacht und terrorisiert wird.
+
+Wenn man begabt, intelligent, gebildet oder autistisch ist gehen die irgendwann nur noch unter die Gürtellinie als deren "super duper Waffe für Psychologische Kriegsführung". Ist zB. das gleichaltrige Mädchen das Genie wird z.B. die Geschichte mit den Katzen und Gurken [3,4,5] in ihrem ganzen Umfeld an gleichaltrige Jungs verteilt (die meist gar nicht ma schnallen worum es eigentlich geht) und das machen die aber auch bei Jungs mit ein bisschen anderen Symbolen (Siehe Snowden auf dem 2. Bild)
+
+Ich bin seit 20 Jahren körperlich meiner ein Jahr jüngeren Besitzerin sowieso treu, meiner Meinung nach sollte man im Beziehungsnetzwerk solchen Content (egal über welchen Kommunikations-Kanal er übertragen wird) eh nur mit dem/der Partner/in (und das ist den jeweiligen Partner überlassen ob m-m m-f f-f..., da hat meiner Meinung nach niemand rein zu reden, vorallem nicht die Eltern-Generation) teilen. Diese Art von Webseiten scheinen aber vorsätzlich genau das gegenteil zu tun. Damit spielen einige der Eltern-Generation Menschen gegeneinander aus also versuche ich die miesen Schachzüge (Euphemismus) den noch jüngeren zu verpetzen.
+
+Schaffen wir das nicht kann die Wirtschaft und das Militär das "Foucaultsche Sexualitäts Dispositiv" [8] auch bei Euch "installieren"
+
+1. Gleichaltriges in den Suizid treiben oder ihm das Angebot machen dass es einen neuen Namen bekommt und in einen anderen Kanton geht
+2. Allen anderen Gleichaltrigen vorwürfe deswegen machen (Statistisch weltweit gesehen sind das jeweils 79 Kinder)
+3. Mit diesem "Starter Kit" (Euphemismus) immer mehr und noch mehr fordern von der Kinder Generation
+4. Trieb unterbinden, obwohl es für Frauen dabei helfe besser einzuschlafen wenn man ... sagt zumindest ein Angeber Endokrinologie Häckse Level 5000 also meine gleichaltrige Besitzerin die Medizin an der Uni Basel studiert
+5. Trieb unterbunden braucht man eine Ersatzbefriedigung
+ - Consumerism
+ - Alk
+ - Drogen
+ - Jüngere Quälen
+ - Kinder wegen dem Vorwürfe machen
+...
+...
+...
+
+Somit wäre es wichig, dass Ihr alle Hacking lernt, und zwar nicht "Red Team" das wäre Angriff und der Straftatbestand "Eindringen in fremde Computersysteme" sondern "Blue Team" also deffence. Zur Zeit haben die noch nicht alle der 1980er Generation in ihrem Zwangsmassnahmen-System, bekommen das mit der Verteidigung im CyberWAR einigermassen hin, aber wenn (ob "if" oder "when" ist noch unklar) die letzten von uns 1980er auch in deren Zwangsmassnahmen System sind müsst Ihr Euch und Eure Generation und die Jüngeren alleine verteidigen können.
+
+
+Dann um mein wahres Ich zu zeigen, das hier habe ich für meine zwei kleinen Nichten gemacht [10], beide sind noch richtig klein, können aber schon reden.
+
+
+Gruss
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF (und Klassenbester)
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+
+[0] https://www.stupidedia.org/stupi/Autismus (I like to MOV IT\MOV IT)
+=>ich hab mit 14 Jahren ein Assembler Buch gekauft...
+
+[1] https://media.ccc.de/v/30C3_-_5377_-_de_-_saal_6_-_201312271245_-_uberwachen_und_sprache_-_josch/related
+
+[2] https://github.com/braindef/HackersCardgame11/blob/master/TODO/its_a_trap.jpeg
+
+[3] https://0x8.ch/HackersCardgame22/jpg/EN/#e5 falls der Link nicht geht unter https://github.com/braindef/HackersCardgame22/blob/main/png/EN/e5.png ist das original Repository und da musst Du am Windows Computer nochmals mit der rechten Maustaste "Grafik anzeigen" damit das nicht abgeschnitten ist.
+
+[4] https://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor/
+(unten das Video)
+
+[5] https://www.youtube.com/watch?v=bsfNBz1BXgI
+
+[6] https://www.youtube.com/watch?v=ftFR4ljW8hA
+
+[7] https://marclandolt.ch/ml_buzzernet/2016/01/18/mousetracker/
+
+[8] https://de.wikipedia.org/wiki/Sexualit%C3%A4tsdispositiv
+
+[9] https://www.research-collection.ethz.ch/handle/20.500.11850/95482mous
+
+[10] https://www.youtube.com/watch?v=za-T_m9IFF8 (Link bitte nicht weitergeben)
+
+
+
+
+
+-----------------
+[5] meine fast gleichaltrige 41 Jährige Besitzerin findet ich solle jetzt diese Quelle noch nennen, aber ich der mich als etwas wie ein Füchsli sieht (Körper eher männlich, Seele / Charakter eher weiblich) finde, man sollte das Jüngeren gegenüber eher unterlassen:
+
+(also ich übersetze jetzt meine gleichaltrige Besitzerin: ich muss jetzt "ausnahmsweise" wieder mich zur Psychologie Laborratte machen, da ich aber nicht eingestehen will dass es mindestens auch Füchsli gibt die zum Thema Gurke keine Stellungnahme machen möchte 
+
+
+
+127
+
+
+
+
+
+Titelbild vom 8. August 2015
+
+
+
+
+
+
+
+8. aAtuhSeSpSuegusfdt osns2edo01s5

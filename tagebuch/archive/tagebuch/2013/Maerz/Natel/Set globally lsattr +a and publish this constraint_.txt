@@ -1,0 +1,1 @@
+/home/marc/hacker-notes-s24m09/tagebuch/chaos/Set globally lsattr +a and publish this constraint_.txt

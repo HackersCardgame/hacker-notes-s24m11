@@ -1,0 +1,10 @@
+
+
+P4:   9726000000
+C64: 	200000
+
+
+50'000 c64 cores on a P4
+
+tamagotchi has a MOS6502 CPU as c64 does
+

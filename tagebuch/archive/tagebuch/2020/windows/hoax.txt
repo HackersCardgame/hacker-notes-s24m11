@@ -1,0 +1,8 @@
+EgoState :: KindICH:
+"...ich werde die Weltherrschaft übernehmen..." = FAIL
+
+EgoState :: AdultEgoState: 
+weil Single Point of Failure...
+
+EgoState :: ParenmtEgoState:
+"Seid ihr eigentlich doof"
