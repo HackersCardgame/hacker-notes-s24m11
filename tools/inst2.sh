@@ -208,21 +208,28 @@ then
   usermod -aG libvirt marc
 fi
 
+apt-get install jigdo-file
 
-echo "printer installieren"
-echo ""
-echo "printer installieren"
-echo ""
-echo "printer installieren"
-echo ""
-echo "printer installieren"
-echo ""
-echo "printer installieren"
-echo ""
-echo "printer installieren"
-echo ""
 #apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
 apt-get install espeak espeak-ng
 
 cp /usr/share/xsessions/*xorg* /usr/share/xsessions/TEST.desktop
 apt-get purge libcupsfilters2*
+
+
+red="\e[91m"
+red2="\e[95m"
+default="\e[39m"
+
+echo -e "${red}printer installieren"
+echo ""
+echo -e "${red2}printer installieren"
+echo ""
+echo -e "printer installieren"
+echo ""
+echo -e "${red}printer installieren"
+echo ""
+echo -e "${red2}printer installieren"
+echo ""
+echo -e "printer installieren${default}"
+echo ""
