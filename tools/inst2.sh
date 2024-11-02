@@ -86,6 +86,10 @@ echo nmcli connection up CONNECTION_NAME
 echo nmcli device status
 echo nmcli device set eth1 managed yes
 
+echo nmcli device status
+
+echo systemctl restart NetworkManager
+
 #udevadm control --reload-rules
 #udevadm trigger
 
