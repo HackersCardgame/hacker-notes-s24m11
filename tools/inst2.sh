@@ -61,6 +61,36 @@ fi
 }
 #==============================================================================
 
+ip addr add 192.168.123.214/24 dev interface
+
+ip link set interface up
+
+ip route add default via 192.168.123.1
+
+echo apt-get install resolvconf
+echo apt-get install systemd-resolved
+echo apt-get install network-manager
+vim /etc/resolv.conf
+ echo nameserver 192.168.123.1
+
+
+nmcli connection add type ethernet ifname eth1 con-name USB1
+nmcli connection up USB1
+
+echo ACTIION=="add", SUBSYTEM=="net", SUBSYSTEM=="usb", NAME="usb-eth%n"
+
+echo nmcli connection show
+echo nmcli connection modify CONNECTION_NAME ipv4.method auto
+echo nmcli connection up CONNECTION_NAME
+
+echo nmcli device status
+echo nmcli device set eth1 managed yes
+
+#udevadm control --reload-rules
+#udevadm trigger
+
+read
+
 apt-get update -y
 apt-get upgrade -y
 apt-get install -y screen
