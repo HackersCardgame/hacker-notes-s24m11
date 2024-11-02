@@ -4,7 +4,13 @@
 
 dann gibt es menschen aus der oberschicht welche richtig SHITTY code schreiben, aber die haben cyberwaffen, und diese cyberwaffen haben die gekauft weil sie das selber sowieso nicht hin bekommen würde, cyberwaffen wären strafatbestand kriegswaffen gesetzt oder so etwas auch wenn die gedeckt getarnt sind
 
-WICHTIGER:
+marc@am-00e04c360aee:~/hacker-notes-s24m11/tools$ figlet WICHTIGER
+__        _____ ____ _   _ _____ ___ ____ _____ ____  
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___| ____|  _ \ 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _|  _| | |_) |
+  \ V  V /  | | |___|  _  | | |  | | |_| | |___|  _ < 
+   \_/\_/  |___\____|_| |_| |_| |___\____|_____|_| \_\
+                                                      
 
 ich habe jetzt rausgefunden weshalb sich diese CyberWaffen für die User erst dann aktivieren lassen, wenn sie mir eine "blaming the user Karte" unterschieben konnten.
 
