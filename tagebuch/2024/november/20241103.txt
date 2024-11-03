@@ -17,5 +17,25 @@ Dann frage an UBS, wissen sie grad, ob das die jeweilige Bank oder eher so der F
 
 danach wird ruedi müller im kokain Rausch in meine Raumüberwachung geschaltet oder ein 3D modell von ihm um diese Anfrage weg-zu-spammen
 
+--======[Sun Nov 3 10:44:17 AM CET 2024]======--
+55ee03c05a41c0a42fd6ca4c9066aa64d9e39f6b
+--======[Sun Nov 3 10:44:17 AM CET 2024]======--
 
+Dann VERMUTE ich, dass wenn es INTEL default Hardware Backdoors oder ein remote debug interface gibt was auf anderen Frequenzen sendet als Wifi oder Bluetooth und wirst case frequenz-hopping hat damit man das nicht mal mit einem Jamming-Device aussperren kann, dann gäbe es dazu auch einen TOOLKIT
+
+also z.B pattern wie:
+
+1. spezifischen Specherbereich oder PID eines Tasks finden
+-> das ist bei mir meist das Musik Programm Mixxx was der sündenbock ist, aber nutze ich mpg123 dann ist einfach ein anderer task welcher in der Open Source Community entwickelt wurde der Sündenbock ähm der "Täter"
+
+2. dann vermutlich möglichkeiten wie im der PCB (Process Context Block) herumfummeln und etwas einen nice-wert von 1000000 geben (jajaja ich weiss man kann nur glaub bis 20)
+
+3. oder den task dann crashen
+
+die 2. wäre vermutlich um mich odre andere autisten oder nerds am computer ferstzubinden, damit die super duper kokain konsumenten offizieren unterdessen auf meine psyche drein schlagen können
+
+
+--======[Sun Nov 3 10:48:45 AM CET 2024]======--
+55ee03c05a41c0a42fd6ca4c9066aa64d9e39f6b
+--======[Sun Nov 3 10:48:45 AM CET 2024]======--
 

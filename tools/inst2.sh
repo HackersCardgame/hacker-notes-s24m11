@@ -237,6 +237,17 @@ then
 #  dann virt-manager starten
 fi
 
+if YESNO "add bridge"
+then
+echo "  
+allow-hotplug virbr1
+iface virbr1 inet static
+  address 10.20.31.32
+  netmask 255.255.255.0
+  " >> /etc/network/interfaces
+
+fi
+
 if YESNO "user zur libvirt gruppe hunzufügen?"
 then
   usermod -aG libvirt marc
@@ -267,3 +278,10 @@ echo -e "${red2}printer installieren"
 echo ""
 echo -e "printer installieren${default}"
 echo ""
+
+echo brctrl show
+brctl addbr virbr1
+ip link set virbr1 up
+
+journalctl -xe |grep network -i
+
