@@ -15,7 +15,7 @@ for sentence in "${sentences[@]}"
 	echo
 
 	#speak-ng -v de -s 399 "$sentence"
-	echo "$sentence" |espeak-ng -v mb-de1 -s 399
+	echo "$sentence" |espeak-ng -v en -s 399
 
 	#sleep 1
 	
