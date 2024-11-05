@@ -19,7 +19,7 @@ handle_sigint() {
 	  first_interrupt=true
 	  killall espeak
 	  let count=count+1
-	  sleep 1
+	  sleep 0.2
   fi
 }
 
@@ -43,9 +43,13 @@ for sentence in "${sentences[@]}"
   fi
   if [ "$mark" == "1"  ]
   then
-    speak-ng -v en -s 399 "$sentence"
+    echo TEXT:
+    #speak-ng -v en -s 399 "$sentence" --stdout |aplay
+    aplay <(speak-ng -v en -s 399 "$sentence" --stdout)
+    echo ================
 
-    wait $!
+
+    #wait $!
     #sleep 1
     first_interrupt=false
   fi
