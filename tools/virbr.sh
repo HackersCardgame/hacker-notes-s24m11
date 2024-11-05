@@ -61,11 +61,11 @@ fi
 }
 #==============================================================================
 
-ip addr add 192.168.123.214/24 dev interface
+echo ip addr add 192.168.123.214/24 dev interface
 
-ip link set interface up
+echo ip link set interface up
 
-ip route add default via 192.168.123.1
+	echo ip route add default via 192.168.123.1
 
 echo apt-get install resolvconf
 echo apt-get install systemd-resolved
@@ -74,8 +74,8 @@ vim /etc/resolv.conf
  echo nameserver 192.168.123.1
 
 
-nmcli connection add type ethernet ifname eth1 con-name USB1
-nmcli connection up USB1
+echo nmcli connection add type ethernet ifname eth1 con-name USB1
+echo nmcli connection up USB1
 
 echo ACTIION=="add", SUBSYTEM=="net", SUBSYSTEM=="usb", NAME="usb-eth%n"
 
@@ -90,13 +90,13 @@ echo nmcli device status
 
 echo systemctl restart NetworkManager
 
-#udevadm control --reload-rules
-#udevadm trigger
+echo udevadm control --reload-rules
+echo udevadm trigger
 
 read
 
-#apt-get install -y git vim sudo gnome-boxes figlet inkscape gedit mixxx 
-apt-get install -y qemu-system qemu-kvm libvirt-daemon bridge-utils virt-manager 
+echo apt-get install -y git vim sudo gnome-boxes figlet inkscape gedit mixxx 
+echo apt-get install -y qemu-system qemu-kvm libvirt-daemon bridge-utils virt-manager 
 echo apt cpu-checker
 
 
@@ -131,9 +131,9 @@ default="\e[39m"
 
 
 echo brctrl show
-brctl addbr virbr1
-ip link set virbr1 up
+echo brctl addbr virbr1
+echo ip link set virbr1 up
 
-journalctl -xe |grep network -i
+echo journalctl -xe |grep network -i
 
 brctl show && brctl addbr virbr1 && brctl show && ip link set virbr1 up && brctl show && ip addr
