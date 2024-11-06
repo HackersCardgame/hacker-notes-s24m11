@@ -37,7 +37,7 @@ for sentence in "${sentences[@]}"
   echo "$sentence".
   echo
   count=0
-  if [[ "$sentence" == *"the reigning world-view was that liberal"* ]];
+  if [[ "$sentence" == *"assistant secretary of state Philip Gordon"* ]];
   then
     mark=1
   fi
@@ -55,3 +55,6 @@ for sentence in "${sentences[@]}"
   fi
   
 done
+
+
+  #if [[ "$sentence" == *"the reigning world-view was that liberal"* ]];
