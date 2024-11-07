@@ -1,0 +1,26 @@
+calibre, version 7.20.0
+ERROR: Loading book failed: Failed to open the book at /home/marc/Calibre Library/Unknown/eBanking-20241107 (2)/eBanking-20241107 - Unknown.ps. Click "Show details" for more info.
+
+Failed to convert book: /home/marc/Calibre Library/Unknown/eBanking-20241107 (2)/eBanking-20241107 - Unknown.ps with error:
+Failed to run pipe worker with command: from calibre.srv.render_book import viewer_main; viewer_main()
+Traceback (most recent call last):
+  File "/usr/bin/calibre-parallel", line 21, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/usr/lib/calibre/calibre/utils/ipc/worker.py", line 196, in main
+    exec(sys.argv[-1])
+  File "<string>", line 1, in <module>
+  File "/usr/lib/calibre/calibre/srv/render_book.py", line 847, in viewer_main
+    render_for_viewer(*args)
+  File "/usr/lib/calibre/calibre/srv/render_book.py", line 838, in render_for_viewer
+    return render(
+           ^^^^^^^
+  File "/usr/lib/calibre/calibre/srv/render_book.py", line 815, in render
+    book_fmt, opfpath, input_fmt = extract_book(pathtoebook, output_dir, log=default_log)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/calibre/calibre/ebooks/oeb/iterator/book.py", line 55, in extract_book
+    plumber = Plumber(pathtoebook, tdir, log, view_kepub=view_kepub)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/calibre/calibre/ebooks/conversion/plumber.py", line 772, in __init__
+    raise ValueError('No plugin to handle input format: '+input_fmt)
+ValueError: No plugin to handle input format: ps
