@@ -72,6 +72,26 @@ Thu Nov  7 09:04:25 AM CET 2024
 229d6676b4c1516c5c54b41941d31959390b9475
 -----------------------
 
+-----------------------
+Thu Nov  7 09:14:18 AM CET 2024
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+9373e93465ff69ffa677f3c965fa6f5d304e2978
+-----------------------
+
+dann nächste Bautelle
+
+die Cyber-Sprengfalle welche permanent im dümmsten Zeitpunk meine computer crasht, neuerdings auch die virtmanager qemu machines ist VERMUTLICH im gdm3 drin, und irgendwie auslösbar wenn die herren offiziere wieder mal zu fest aufgeflogen sind
+
+MITIGATION:
+lightdm, xfwm4, andere display manager...
+
+-----------------------
+Thu Nov  7 09:15:18 AM CET 2024
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+9373e93465ff69ffa677f3c965fa6f5d304e2978
+-----------------------
+
+
 
 
 
