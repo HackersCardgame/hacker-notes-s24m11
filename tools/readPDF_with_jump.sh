@@ -37,7 +37,8 @@ for sentence in "${sentences[@]}"
   echo "$sentence".
   echo
   count=0
-  if [[ "$sentence" == *"assistant secretary of state Philip Gordon"* ]];
+  #if [[ "$sentence" == *"assistant secretary of state Philip Gordon"* ]];
+  if [[ "$sentence" == *"meeting with a US congressional delegation, for example, links them "* ]];
   then
     mark=1
   fi
@@ -45,7 +46,7 @@ for sentence in "${sentences[@]}"
   then
     echo TEXT:
     #speak-ng -v en -s 399 "$sentence" --stdout |aplay
-    aplay <(speak-ng -v en -s 399 "$sentence" --stdout)
+    aplay <(espeak-ng -v en -s 399 "$sentence" --stdout)
     echo ================
 
 
