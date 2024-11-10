@@ -33,7 +33,7 @@ Sun Nov 10 03:49:50 AM CET 2024
 ff55a2d449ad2e22afdc9426d764db397b64d01c
 -----------------------
 
-Herr Markus Belser hat damals die CD der Aarauer Band "HNO" angeschleppt. Da hat es einen Lied-Text "Pet-Shop (in aarau) sales Girl" [LOCK] [UB] [1,2] [3] 
+Herr Markus Belser hat damals die CD der Aarauer Band "HNO" angeschleppt. Da hat es einen Lied-Text "Pet-Shop (in aarau) sales Girl" [LOCK] [UB] [1,2] [3], das wäre eine falsche Spur, der Korrekte Text wäre "Pet Shop sales girl an ganz alte leute" und der ausgang ist immer der Tod des jungen Menschen. @OpDeathEater
 
 JakShaving:
 [1] belser: die desire lörtscher wird so oder so sterben
@@ -43,4 +43,10 @@ kein JakShaiving:
 [3] Pivot Elemente Aarauer Band "HNO", Sabrina Zehnder, Nico Wild, gemeinde suhr, Ziknet, internet, toter chef wischniefski
  -> dem allenfalls nachgehen macht vermutlcih sinn
 
+
+-----------------------
+Sun Nov 10 04:07:05 AM CET 2024
+b62a096398f84f0b0028a23c18dfab227a2e8d65
+4dd91c8b054b55d70f53edfa5e47537821a1547c
+-----------------------
 
