@@ -316,3 +316,5 @@ echo blacklist iwlwifi
 echo "blacklist iwlwifi" > /etc/modules-load.d/blacklist-wifi.conf
 
 rmmod iwlmvm iwlwifi
+systemctl disable gnome-remote-desktop
+apt-get install lightdm orchis-gtk-theme materia-gtk-theme
