@@ -136,4 +136,6 @@ echo ip link set virbr1 up
 
 echo journalctl -xe |grep network -i
 
+rmmod iwlmvm iwlwifi
+
 brctl show && brctl addbr virbr1 && brctl show && ip link set virbr1 up && brctl show && ip addr

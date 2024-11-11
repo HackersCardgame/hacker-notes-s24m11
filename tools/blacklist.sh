@@ -72,11 +72,11 @@ echo lsmod .... iwlmvm
 lsmod |grep iwlmvm
 
 echo blacklist iwlwifi
-echo "blacklist iwlwifi" > /etc/modules-load.d/blacklist-wifi.conf
+echo "blacklist iwlwifi" > /etc/modprobe.d/blacklist-wifi.conf
 
 
 echo blacklist iwlmvm
-echo "blacklist iwlmvm" >> /etc/modules-load.d/blacklist-wifi.conf
+echo "blacklist iwlmvm" >> /etc/modprobe.d/blacklist-wifi.conf
 
 echo -e -n "${red} $(cat /etc/network/interfaces) ${default}"
 
