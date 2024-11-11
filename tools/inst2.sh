@@ -61,6 +61,26 @@ fi
 }
 #==============================================================================
 
+echo "rmmod iwlmvm iwlwifi"
+
+rmmod iwlmvm iwlwifi
+
+echo lsmod .... iwlwifi
+lsmod |grep iwlwifi
+
+echo lsmod .... iwlmvm
+lsmod |grep iwlmvm
+
+echo blacklist iwlwifi
+echo "blacklist iwlwifi" > /etc/modules-load.d/blacklist-wifi.conf
+
+echo -e -n "${red} $(cat /etc/network/interfaces) ${default}"
+
+echo AnyKEY
+read
+
+ip addr
+
 ip addr add 192.168.123.214/24 dev interface
 
 ip link set interface up
@@ -71,7 +91,7 @@ echo apt-get install resolvconf
 echo apt-get install systemd-resolved
 echo apt-get install network-manager
 vim /etc/resolv.conf
- echo nameserver 192.168.123.1
+echo nameserver 192.168.123.1
 
 
 nmcli connection add type ethernet ifname eth1 con-name USB1
@@ -93,6 +113,8 @@ echo systemctl restart NetworkManager
 #udevadm control --reload-rules
 #udevadm trigger
 
+
+echo AnyKEY
 read
 
 apt-get update -y
@@ -288,3 +310,9 @@ ip link set virbr1 up
 
 journalctl -xe |grep network -i
 
+lsmod |grep iwlwifi
+
+echo blacklist iwlwifi
+echo "blacklist iwlwifi" > /etc/modules-load.d/blacklist-wifi.conf
+
+rmmod iwlmvm iwlwifi
