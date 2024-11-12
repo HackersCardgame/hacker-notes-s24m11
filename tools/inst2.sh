@@ -61,6 +61,8 @@ fi
 }
 #==============================================================================
 
+apt-get purge *edu*
+
 echo "rmmod iwlmvm iwlwifi"
 
 rmmod iwlmvm iwlwifi
@@ -124,6 +126,8 @@ apt-get install -y screen
 apt-get install -y xfwm4 
 apt-get install -y gnome
 apt-get install -y mpg123
+apt-get install -y locate
+apt-get install -y plocate
 apt-get install -y alsa-utils
 apt-get install -y python3-mido python3-rtmidi python3-pulsectl
 apt-get install -y gnome-shell
@@ -131,8 +135,12 @@ apt-get install -y gnome-backgrounds
 apt-get install -y wmctrl
 apt-get install -y xdotool
 
+
+if YESNO "drucker löschen?"
+then
 apt-get purge -y cups*
 apt-get purge libcupsfilters2*
+fi
 apt-get install -y cups
 apt-get install cups-client -y
 apt-get install -y gedit
@@ -227,6 +235,9 @@ fi
 
 apt-get install -y xdotool wmctrl
 
+apt-get install jigdo
+apt-get install jigdo-lite
+apt-get install jigdo-file
 
 apt-get install cups-client -y
 apt-get install tesseract-ocr-eng tesseract-ocr-deu -y
@@ -247,6 +258,7 @@ nvidia-detect
 #==============================================================================
 if YESNO "install nvidia-tesla-470-driver ???"
 then
+apt-get install linux-headers-amd64
 apt-get install nvidia-tesla-470-driver
 fi
 
@@ -284,7 +296,8 @@ apt-get install jigdo-file
 apt-get install espeak espeak-ng
 
 cp /usr/share/xsessions/*xorg* /usr/share/xsessions/TEST.desktop
-apt-get purge libcupsfilters2*
+
+
 
 
 red="\e[91m"
