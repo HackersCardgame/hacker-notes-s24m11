@@ -64,6 +64,16 @@ fi
 echo "rmmod iwlmvm iwlwifi"
 
 rmmod iwlmvm iwlwifi
+rmmod iwlmvm 
+rmmod iwlwifi
+rmmod bluetooth
+rmmod btrtl
+rmmod btmtk
+rmmod btintel
+rmmod btbcm
+rmmod bnep
+rmmod btusb
+# rmmod rfcomm
 
 echo lsmod .... iwlwifi
 lsmod |grep iwlwifi
@@ -78,6 +88,17 @@ echo "blacklist iwlwifi" > /etc/modprobe.d/blacklist-wifi.conf
 echo blacklist iwlmvm
 echo "blacklist iwlmvm" >> /etc/modprobe.d/blacklist-wifi.conf
 
+echo blacklist bluetooth btusb btintel btrtl btmtk btbmc
+
+echo BLUETHOOTH
+
+echo "blacklist bluetooth" > /etc/modprobe.d/blacklist-bluetooth.conf
+echo "blacklist btusb" >> /etc/modprobe.d/blacklist-bluetooth.conf
+echo "blacklist btintel" >> /etc/modprobe.d/blacklist-bluetooth.conf
+echo "blacklist btrtl" >> /etc/modprobe.d/blacklist-bluetooth.conf
+echo "blacklist btmtk" >> /etc/modprobe.d/blacklist-bluetooth.conf
+echo "blacklist btbmc" >> /etc/modprobe.d/blacklist-bluetooth.conf
+read
 echo -e -n "${red} $(cat /etc/network/interfaces) ${default}"
 
 echo AnyKEY
@@ -95,7 +116,7 @@ echo ip route add default via 192.168.123.1
 echo apt-get install resolvconf
 echo apt-get install systemd-resolved
 echo apt-get install network-manager
-vim /etc/resolv.conf
+echo vim /etc/resolv.conf
 echo nameserver 192.168.123.1
 
 
@@ -121,10 +142,11 @@ echo udevadm trigger
 echo UPDATE INIT-RAMFS
 
 
-/sbin/update-initramfs -u
+echo /sbin/update-initramfs -u
 
 
 echo AnyKEY
 read
 
 
+#btrtl btmtk btintel btbcm bnep btusb rfcomm

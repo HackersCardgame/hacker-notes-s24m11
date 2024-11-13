@@ -89,6 +89,16 @@ ip link set interface up
 
 ip route add default via 192.168.123.1
 
+echo "
+ _          _          _  __ _ 
+(_)_      _| |_      _(_)/ _(_)
+| \ \ /\ / / \ \ /\ / / | |_| |
+| |\ V  V /| |\ V  V /| |  _| |
+|_| \_/\_/ |_| \_/\_/ |_|_| |_|
+      entfernen !!!! blacklist.sh
+"
+
+
 echo apt-get install resolvconf
 echo apt-get install systemd-resolved
 echo apt-get install network-manager
