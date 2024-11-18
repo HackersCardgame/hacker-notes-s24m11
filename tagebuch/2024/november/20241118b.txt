@@ -11,4 +11,15 @@ Mon Nov 18 09:07:08 AM CET 2024
 ------- --------
 
 
+------- --------
+Mon Nov 18 10:49:05 AM CET 2024
+c845c767458986f41c905eb6ef89b2c26db37d96
+------- --------
+
+dann scheint es eine explizite Malware zu geben die nur ganz selten zugreift, vermutlich auch eine Art Statemachine mitprotokolliert mit dem Ziel mein KanBan - System mit vielen einzelnen sabotagen so unordentilch zu machen dass das nie mehr erledigt wird
+
+~/hacker-notes-s24m11/kanban_Sabotage_Algorithmen/*
+
+--> und immer wenn ich wie jetzt versuche das aufzuräumen schalten die weider z.B. induzierte epilepsie oder sonst einen stressor ein.
+
 
