@@ -10,6 +10,13 @@ Herleitung:
 
 * so würden die Kinder nicht merken, dass irgendwelche Sende-Infrastruktur beteilgt war (ChatGPT sagt, dass man das als Mensch mit richtig guten Medizin-Skills damals schon hingebracht hätte, aber nicht ein Anfänger)
 
+* dann wurde MUTMASSLICH so lange induzierte Epilepsie ausgelöst, bis Cornelia Utz sich selber den "Goldenen Schuss" gesetzt hat
+-> also einen Menschen so lange foltern, bis die Schmerzten so stark sind dass er "SelbstMord" begeht
+
+Somit macht es allenfalls Sinn wenn z.B das FEDPOL oder INTERPOL mal alle Neurologen/innen von Damals zu solchen Dingen befragt
+
+Scans meiner Notizen dazu im selben Verzeichnis
+/hacker-notes-s24m11/FEDPOL/todDer14JaehrigenCorneliaUtzMotiv
 
 
 
