@@ -62,4 +62,14 @@ Thu Nov 21 01:48:54 PM CET 2024
 5583c9c855aebf685d1ca5c68af6cc1be07f0db2
 ------- --------
 
+Dann weiss das grad jemand, kabelgebundene Logitech Tastaturen
+
+A) doch einen Funk kanal
+B) länge des Kabels bekannt, spanung auf der Länge induzieren um so mit powerglitching auch dinge kapput zu machen
+C) zufall
+
+------- --------
+Thu Nov 21 01:50:44 PM CET 2024
+f1e81009be703797af45622ba13d860e54700326
+------- --------
 
