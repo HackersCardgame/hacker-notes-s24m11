@@ -156,4 +156,31 @@ Sun Nov 24 07:21:29 AM CET 2024
 ------- --------
 
 
+marc@localhost:~/hacker-notes-s24m11$ git add -A && git commit -m "..." && git push
+[main f2cdc9b2] ...
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100755 scans/28/BRN3C2AF421298E_047988--851-900.pdf
+ rename scans/28/{ => old}/BRN3C2AF421298E_047784--851-868.pdf (100%)
+ rename scans/28/{ => old}/BRN3C2AF421298E_047820--851-883.pdf (100%)
+ create mode 100755 scans/29/BRN3C2AF421298E_047984--901-902.pdf
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 19.81 MiB | 3.78 MiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: This repository moved. Please use the new location:
+remote:   git@github.com:HackersCardgame/hacker-notes-s24m11.git
+To github.com:HackersCardGame/hacker-notes-s24m11.git
+   4057968a..f2cdc9b2  main -> main
+marc@localhost:~/hacker-notes-s24m11$ 
+
+
+dann ah ja sorry, scans noch versifft
+
+------- --------
+Sun Nov 24 10:55:46 AM CET 2024
+f2cdc9b278d9f5ee916f87a42b5192a9cdc3edf7
+------- --------
 
