@@ -32,5 +32,6 @@ Dann würde das VERMUTLICH auch heissen, dass der Herr Philipp Lüscher welcher 
 => script ist jetzt in 
 /home/marc/hacker-notes-s24m11/tools/Monitoring/debian/bookworm/zabbix.bookworm.nochAufraeumen.sh
 
+und noch NICHT getestet, noch nicht dazu gekommen bisher
 
  
