@@ -1,26 +1,17 @@
 DO $$
 
 DECLARE
-
   tbl RECORD;
-
 BEGIN
   FOR tbl IN
-
     SELECT schemaname, tablename
-    FROM pg tables
-    WHERE schemaname NOT IN ('pg_catalog', ‘information_schema') -- Systemtabellen ausschlieBen
-
+    FROM pg_tables
+    WHERE schemaname NOT IN ('pg_catalog', 'information_schema') -- Systemtabellen ausschlieBen
   LOOP
     EXECUTE FORMAT (
-
-    'SELECT ''%s.%s'' AS table name, COUNT(*) AS row count FROM %I.%I',
-    tbl.schemaname, tbl.tablename, tbl.schemaname, tbl.tablename
-
+    'SELECT ''%s.%s'' AS table name, COUNT(*) AS row count FROM %I.%I', tbl.schemaname, tbl.tablename, tbl.schemaname, tbl.tablename
     );
-
   END LOOP;
-
 END;
 
 $$ LANGUAGE plpgsql;
@@ -51,3 +42,26 @@ Statemachine
 
 
 somit verrät der walter brigger dass "wir wollen die flugdaten wegen 9/11 eigentlich nur eine fremdspur war dass militärs weltweit sprengfallen gelegt und veretzt haben?
+
+
+
+walter brigger hat somit vermutlich einen zweiten pass für USA, denn grade hat UNBEKANNT übermittelt
+
+Marcel Rüegg welcher für ABB Netzwerk-Equipment in
+
+* Oman
+* Abudabi
+* ... ???
+
+ausgerollt hat hat netzwerke vorbereitet um auch diese ölereichen Gebiete mit Sprengfallen erpressbar zu machen
+
+somit hat brigger jetzt die eigene Armee die Schweizer Armee als mittäter verraten und würde sich wirst case nach USA verdrücken
+
+------- --------
+Mon Nov 25 07:37:57 PM CET 2024
+caba05bc5b5f11889fd73c700bcd773e05737c4f
+------- --------
+
+
+
+
