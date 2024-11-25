@@ -39,7 +39,9 @@ Statemachine
        -> mache ich das nicht wird cyberwürgekette / induzierte bronchitis eingeschaltet
        
        
-         --> dann schaltet es glaub als letztes disso ein (icd10 F44.x) und weitere Triebtäter sabotieren weitere ding
+         --> dann schaltet es glaub als letztes disso ein (icd10 F44.x) und weitere cyber-terroristen sabotieren weitere ding
+         
+         also da gibt es einen dem ChatGPT übergelagerten vermutlich militärischen chatgpt der vermutlich ncith von OpenAI ist, welcher auch zugriff auf körperfunktionen, sprengstoffe ... hat
 }
 
 
