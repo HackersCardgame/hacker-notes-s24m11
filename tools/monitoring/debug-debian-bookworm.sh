@@ -44,3 +44,6 @@ Statemachine
 
 
 [1] WALTER BRIGGER: Das Global Assessination Grid steuert die Sprengfallen in Zivilen Gebäeuden damit Armee nehmen kann was sie will <-- dann kommen grad andere dinge, also einer der cyberterroristen welche grad auf mich zugerifen ist mit hoher wahrschleinlichkeit wirklcih walter brigger
+
+
+somit verrät der walter brigger dass "wir wollen die flugdaten wegen 9/11 eigentlich nur eine fremdspur war dass militärs weltweit sprengfallen gelegt und veretzt haben?
