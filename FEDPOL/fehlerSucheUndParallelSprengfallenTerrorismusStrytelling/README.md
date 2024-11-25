@@ -35,3 +35,11 @@ Dann würde das VERMUTLICH auch heissen, dass der Herr Philipp Lüscher welcher 
 und noch NICHT getestet, noch nicht dazu gekommen bisher
 
  
+Mon Nov 25 10:26:49 PM CET 2024
+ok, jetzt auch getestet
+Screenshot From 2024-11-25 22-26-21.png
+
+bedienung ist so nicht ganz einfach für wer noch nie ein Monitoring bedient hat, gibt auch einige Artikel dazu von mir auf marclandolt.ch/ml_buzzernet/?s=zabbix WELCHE ich auch wieder mal updaten sollte
+
+
+
