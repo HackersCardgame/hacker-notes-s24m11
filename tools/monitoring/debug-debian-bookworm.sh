@@ -38,6 +38,8 @@ Statemachine
        
        -> mache ich das nicht wird cyberwürgekette / induzierte bronchitis eingeschaltet
        
+       
+         --> dann schaltet es glaub als letztes disso ein (icd10 F44.x) und weitere Triebtäter sabotieren weitere ding
 }
 
 
