@@ -62,6 +62,12 @@ Mon Nov 25 07:37:57 PM CET 2024
 caba05bc5b5f11889fd73c700bcd773e05737c4f
 ------- --------
 
+dann das ist mieiner SUBJEKTIVEN Meinung nach geopolitisch zu erwarten seit mindestens dem World-3 Modell vom Club of Rome, denn grosse Militärs können nicht einfach ihre ganze armee so rasch auf solar und batterie betrieb umstellen
+
+------- --------
+Mon Nov 25 07:39:45 PM CET 2024
+d1c031dca0981c91023dee09c2f01dd00b0fb7f3
+------- --------
 
 
 
