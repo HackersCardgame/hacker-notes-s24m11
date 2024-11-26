@@ -51,11 +51,18 @@ Tue Nov 26 12:40:23 PM CET 2024
 32498258681b1237932d2d3cf6d3d09629318710
 ------- --------
 
-
+Analyse:
 Das Tracking von Paket Leiferdiensten wird von der Schweizer Armee sabotiert um so während der Zeuge das Paket z.B. am Hauseing holt zu bedrohen oder sogar mit einem Sniper Gewehr von zB der Delfterstrsase her zu ershciessen
 
 ------- --------
 Tue Nov 26 12:47:27 PM CET 2024
 73e43151bbe1e3b628bd3efe0da65227fc91a344
+------- --------
+
+das DHL.de Tracking wurde bereits repariert, danke wer auch immer das repariert hat
+
+------- --------
+Tue Nov 26 12:48:27 PM CET 2024
+d32229f9d25f6d4d71dcd382f2dd35478697c15d
 ------- --------
 
