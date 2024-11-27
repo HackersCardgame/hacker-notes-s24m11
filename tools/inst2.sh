@@ -212,6 +212,7 @@ apt-get install -y nautilus
 apt-get install -y eog
 
 apt-get install -y pavucontrol
+apt-get install -y pulseaudio
 apt-get install -y rdfind
 apt-get install -y rsync
 apt-get install -y asunder
