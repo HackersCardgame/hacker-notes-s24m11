@@ -232,6 +232,13 @@ marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet INTERPOL
 |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
                                                
 
+Management Cockpit wie z.B. das der Zürich Verischrung bzw. ist zu erwarten dass auch z.B diese Sorte von der Uni Basel oder der Uni Zürich [1]
+==================
 
+[1] unbekannt: weschselt das durch uni bern
 
+------- --------
+Wed Nov 27 08:50:26 PM CET 2024
+82336ad5d054dedcabd3749d0d037f24fa561469
+------- --------
 
