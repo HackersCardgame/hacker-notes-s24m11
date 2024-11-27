@@ -146,7 +146,7 @@ apt-get install -y xfwm4
 apt-get install -y gnome
 apt-get install -y mpg123
 apt-get install -y locate
-apt-get install -y plocate
+#apt-get install -y plocate
 apt-get install -y alsa-utils
 apt-get install -y python3-mido python3-rtmidi python3-pulsectl
 apt-get install -y gnome-shell
@@ -196,6 +196,7 @@ find /media/ -type d -maxdepth 2
 read
 vim /etc/cron.daily/locate -c "/PRUNEPATH"
 updatedb
+updatedb --localpaths=/media
 fi
 apt-get install -y apt-file
 apt-file update
