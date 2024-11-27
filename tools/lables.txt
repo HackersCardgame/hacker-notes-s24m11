@@ -17,4 +17,5 @@ ab 2:42
 
 U86 -- der kommandant
 
-
+for i in $(seq 1 1000); do mpg123 -vCc -k 202000  /media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/SSS\ *b2b*; done
+# bei 1:26

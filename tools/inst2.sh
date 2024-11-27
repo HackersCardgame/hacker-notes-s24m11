@@ -98,6 +98,15 @@ echo "
       entfernen !!!! blacklist.sh
 "
 
+echo "
+ ____   ______  __  ____  _           
+/ ___| / ___\ \/ / | __ )(_) ___  ___ 
+\___ \| |  _ \  /  |  _ \| |/ _ \/ __|
+ ___) | |_| |/  \  | |_) | | (_) \__ \
+|____/ \____/_/\_\ |____/|_|\___/|___/
+                                      
+
+"
 
 echo apt-get install resolvconf
 echo apt-get install systemd-resolved
