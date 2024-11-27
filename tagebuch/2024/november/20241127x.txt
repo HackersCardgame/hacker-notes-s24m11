@@ -177,3 +177,61 @@ Wed Nov 27 08:45:54 PM CET 2024
 57767ce34ebcf1fb1058d89b6882033485bf1bbf
 ------- --------
 
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet Wichtig
+__        ___      _     _   _       
+\ \      / (_) ___| |__ | |_(_) __ _ 
+ \ \ /\ / /| |/ __| '_ \| __| |/ _` |
+  \ V  V / | | (__| | | | |_| | (_| |
+   \_/\_/  |_|\___|_| |_|\__|_|\__, |
+                               |___/ 
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ Figlet FEDPOL
+bash: Figlet: command not found
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+
+Meine Empfehlung ans FEDPOL und an INTERPOL
+
+unbedingt rausfinden wer diese "Alle Täter halb verraten um sie in den amoklauf gegen einen Zeugen zu schalten" aktiviert hat
+
+--> mit so einer funktion würde dieses Täternetzwerk wirst case einen Bürgerkrieg starten, was fr Dr. catherene Horton für 2025 vorhergesagt hat bzw. mindestens evidence für so etwas gefunden hat
+
+
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet Wichtig
+__        ___      _     _   _       
+\ \      / (_) ___| |__ | |_(_) __ _ 
+ \ \ /\ / /| |/ __| '_ \| __| |/ _` |
+  \ V  V / | | (__| | | | |_| | (_| |
+   \_/\_/  |_|\___|_| |_|\__|_|\__, |
+                               |___/ 
+
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11/tagebuch/2024/november$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+
+
+
