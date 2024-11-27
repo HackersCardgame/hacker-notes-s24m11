@@ -100,6 +100,15 @@ ich:
 dann hat urs blum schlussendlich wirkclih alle verraten um sie so zu zwingen mich zu ermoreden ???
 
 
+marc@localhost:~/hacker-notes-s24m11$ figlet OSINT
+  ___  ____ ___ _   _ _____ 
+ / _ \/ ___|_ _| \ | |_   _|
+| | | \___ \| ||  \| | | |  
+| |_| |___) | || |\  | | |  
+ \___/|____/___|_| \_| |_|  
+                            
+marc@localhost:~/hacker-notes-s24m11$
+#OSINT
 
 somit wäre auch klar was der mensch auf twitter mit "dont trick me into being a whistlebower" gemeint hat
 --> frage: hat man bevor man ian murdock in den suizid getreiben hat oder ermordet hat und als suizid getarnt hat über ihn oder seine infrastruktur geopolitische dinge geleakt ???
