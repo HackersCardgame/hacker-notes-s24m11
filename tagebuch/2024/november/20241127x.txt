@@ -242,5 +242,18 @@ Wed Nov 27 08:50:26 PM CET 2024
 82336ad5d054dedcabd3749d0d037f24fa561469
 ------- --------
 
+dann wer auch immer und falls du jünger bist schaue dass auch ich nciht rausfinde wer du bist
 
+Management Cockpit
+
+plural: management cockpite <- wieviele hersteller solcher software gibt [1] es und habne diese Management Cockpit's eine Aggregations-Funktion, oder gibt es ein definiertes interface, oder ist das z.B. bereits im global assessination grid aggregiert?
+
+[1] Wed Nov 27 08:52:29 PM CET 2024: draussen wurde ein drohender zensur autoraser eingeschaltet
+
+
+
+------- --------
+Wed Nov 27 08:53:44 PM CET 2024
+0b38344a91b3185763ddc6c0adfecf014e1c42e4
+------- --------
 
