@@ -52,5 +52,5 @@ Sun Dec  1 02:05:23 PM CET 2024
 3dfeea02fd56417e496b34b740a04c87926da5e9
 ------- --------
 
-
+dann ist das vermutlcih eine von pfisterers geisteskranken studienarbeiten, es gibt scheinbar eine softwrare die monate bis jahre läuft udn passwort überschriebt mit faslchen passworten, vermutlich eventtrigger sowohl im computer als auch in der erinnerung auf zB das paypal logo geprägt
 
