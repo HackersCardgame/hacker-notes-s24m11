@@ -33,6 +33,10 @@ process_directory() {
     mkdir -p "$target_base"
 
     for file in "$current_dir"/*; do
+	    echo II: $file
+	    if [[ $(basename "$file") == Motion_20* ]]; then
+		    continue
+	    fi
         if [[ -d "$file" ]]; then
             # Falls ein Unterverzeichnis, rekursiv verarbeiten
             local sub_dir="${file#$SOURCE_DIR/}"
