@@ -236,11 +236,46 @@ Sat Dec  7 08:17:24 PM CET 2024
 909be0d22c38e010b1227ff0b1e663b020dcac90
 ------- --------
 
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+
 also somit waren bereits 2001 wo urs blum mti "zwei speziell gesichterten Terminals bei der Zürich Versichrung" angegeben hat, das waren bereits terminals des global assessionation grids. 
 
 urs blum hätte dort eingetragen, dass philipp lüscher (allenfalls teilweise gesteuert über neurologie-implantate der schweizer armee) dass philipp lüscher die drei ABB Mitarbeiter in die Lavine führt wo sie umgekommen sind.
 
 die milliarde welche dann an us gerichte geflossen ist wäre so etwas wie eine gesiteskranke lizenz-geld-zahlung von urs blum und härdi und co gewesen
+
+
+
+
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
 
 ------- --------
 Sat Dec  7 08:29:23 PM CET 2024
