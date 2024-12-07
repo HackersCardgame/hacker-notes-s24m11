@@ -3,3 +3,13 @@ Sat Dec  7 11:53:40 PM CET 2024
 a3798f14b61a8c990758b9112e40c5279093bfe4
 ------- --------
 
+dann unter ferner
+
+auf meinem Debian Trixie scheint scheinbar das [windows-taste L] für lock nicht mehr zu gehen...
+--> dann beim "du solltest deinen computer noch sperren" wird dann ganz viel andere sabotagen auch in der Wohnung selber im stress angehängt
+
+------- --------
+Sat Dec  7 11:57:24 PM CET 2024
+357f82567fecef569696cc27224a93ba8d332bec
+------- --------
+
