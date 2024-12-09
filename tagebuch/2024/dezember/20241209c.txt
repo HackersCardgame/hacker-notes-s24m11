@@ -23,3 +23,15 @@ Mon Dec  9 10:15:32 AM CET 2024
 5b906d5db9a8fe2799fae4af3407d9ea977e469a
 ------- --------
 
+dann das mit der ZensURS Software, da gibt es scheinbar eine Funktion, sämtliche alle USB-CD-Roms in meiner Wohnung / in meinem Besitz irgendwie zu deaktivieren, z.B. an hand der 
+
+* seriennummer
+* an hand der cd die grad drin liegt, was vielleicht schon der hardware (afaik south bridge) bekannt wäre bevor das betriebssystem die infos bekommt
+
+unbakannt: das muse grad dem ZensURS go verzälle (Mediamakrt werbung: das muss ich grad urs erzählen gehen)
+
+------- --------
+Mon Dec  9 10:22:05 AM CET 2024
+d5b2eb590a495b9f4b7816544045392d4dd516a9
+------- --------
+
