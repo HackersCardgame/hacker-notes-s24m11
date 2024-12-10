@@ -1,0 +1,17 @@
+------- --------
+Tue Dec 10 08:03:12 AM CET 2024
+23a9562d8f84825bd7d68d8f6d493e185ad992e9
+------- --------
+
+dann wurde scheinbar eine neue Publizistik-Sabotage Software installiert oder aktiviert.
+
+* Also der gjs von Gnome frisst plötzlich viel zu vieler ressource
+* allenfalls über ungesehene Maus oder Tastatur inserts über die funktastatur eingespiesen oder aktiviert
+* sabotiert alle aufnahme-möglichkeiten auf gnome: OBS, eingebauter screen recorder
+
+
+------- --------
+Tue Dec 10 08:04:34 AM CET 2024
+23a9562d8f84825bd7d68d8f6d493e185ad992e9
+------- --------
+
