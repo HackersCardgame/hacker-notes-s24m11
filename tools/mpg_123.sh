@@ -10,3 +10,5 @@
 #find /media/marc/77*/Music.merged/ -name "*282*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 #find /media/marc/77*/Music.merged/ -name "*inse*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 find /media/marc/77*/Music.merged/ -name "*se*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
+
+
