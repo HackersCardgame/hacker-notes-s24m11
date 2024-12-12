@@ -11,4 +11,5 @@
 #find /media/marc/77*/Music.merged/ -name "*inse*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 find /media/marc/77*/Music.merged/ -name "*se*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 
-for i in $(seq 1 1000); do mpg123 -v -k 1901 -n 3200   /media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/Sister\ Bliss/Headliners_02\ \[Disc\ 2\]/2-03\ Synergy.mp3; done
+#for i in $(seq 1 1000); do mpg123 -v -k 1901 -n 3200   /media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/Sister\ Bliss/Headliners_02\ \[Disc\ 2\]/2-03\ Synergy.mp3; done
+for i in $(seq 1 1000); do mpg123 -v /media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/Sister\ Bliss/Headliners_02\ \[Disc\ 2\]/2-03\ Synergy.mp3; done
