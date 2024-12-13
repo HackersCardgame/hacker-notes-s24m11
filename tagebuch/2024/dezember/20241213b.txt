@@ -104,3 +104,48 @@ Fri Dec 13 04:04:00 AM CET 2024
 c581ba1b2ba44143b612b05279d720c0198bdccb
 ------- --------
 
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@localhost:~/hacker-notes-s24m11$ 
+
+
+============================================================
+============================================================
+
+Das hiesse somit, dass MUTMASSLICH die meisten Ausbildungs-Stätte wo junge Offiziere dinge über roboter achsmechanik lernen wie im CIM Center der HTL/FHA/FHNW allenfalls vom Global Assessionation und Plunderer Grid aufgekauft wurden WELTWEIT
+
+============================================================
+============================================================
+
+
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@localhost:~/hacker-notes-s24m11$ 
+
+
+
+
