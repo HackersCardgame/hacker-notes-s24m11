@@ -61,4 +61,13 @@ Fri Dec 13 01:17:58 AM CET 2024
 f791de99fabb675341c7ae1668fdb5ff5213a11b
 ------- --------
 
+dann auch der windows computer macht merkwürdige dinge, rollback der bash history im wsl2, und irgendwelche dinge die sabotiert wurden
+
+also so etwas wie eine Mass-upload von malware und cyber-sprengfallen welche auch auf neuralink zugreifen und vermtulich mich in den "Selbst"mord triggern sollen :/
+
+------- --------
+Fri Dec 13 01:22:03 AM CET 2024
+62cbf163313d61280441526d2e5f9989e799b6df
+------- --------
+
 
