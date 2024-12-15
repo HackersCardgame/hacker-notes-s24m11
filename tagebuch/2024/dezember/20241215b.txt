@@ -30,3 +30,51 @@ Sun Dec 15 05:09:58 PM CET 2024
 95f583d9539a44bc5df67fbd63a18e03033d3725
 ------- --------
 
+------- --------
+Sun Dec 15 05:31:49 PM CET 2024
+6184b231cdcf862111c0b6e80c67cc67910a41cc
+------- --------
+
+marc@localhost:~/hacker-notes-s24m11/psychological$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11/psychological$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+
+ANALYSE:
+Drogen-Handel wäre somit immer [1] illegaler Handel von Access Codes [2] und falls etwas auffliegt liefert das Militärsiche Neuralink und WaffenTracking Glasfaser-Netzwerk einfach einen der Dealer bzw. der Händler ihrer Access Codes an zivile Behörden aus, speilt sich als Retterheld auf und macht mit einem anderen Dealer weiter.
+
+
+[1] bzw. um wissenschaftlich korrekt zu bleiben "in den meisten Fällen"
+
+
+[2] INSERT nach der Notz: Die Armee gibt vorsätzlich Access Codes raus:
+Waffen, Sprengstoff ... etc. welche bei Drogen-Lieferungen oft dabei sind wären um Computer-Systeme aufzubrechen oder Key-Holder zu erpressen, bzw. verteilt man die Keys wie den DENSSEC Hauptschlüssel auf mehrere weltweit verteilte Personen können die Täter das dann auch vergessen weil selbst wenn der Key-Holder das wollen würde könnte er gar nicht
+--> also hier versucht sich die Armee als armes armes Opfer zu geben
+
+marc@localhost:~/hacker-notes-s24m11/psychological$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11/psychological$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+
+
+
+
+
