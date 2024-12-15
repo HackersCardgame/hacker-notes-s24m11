@@ -77,7 +77,13 @@ Also wie im Film "The Matrix" wo es keinen Backbone gibt, scheint jetzt der Back
 * mehrere Mordakten
 * meherer Akten wie die Schweizer Armee über die Post.ch Sprengstoff oder Biowaffen verschicken kann ohne dass es spuren gäbe
 
-... als Spam freizuschalten. Das ist taktisch strategisch, somit muss von Vorsatz durch eine unbekannte Täterschaft ausgegangen werden
+... als Spam {1} freizuschalten. Das ist taktisch strategisch, somit muss von Vorsatz durch eine unbekannte Täterschaft ausgegangen werden
 
 
+{1} bzw die Opfer als Spam zu bezeichnen wäre falsch, so verursacht urs blum und die Zürich Verischerung eine dDOS / überlastung von Hilfspersonal
+
+------- --------
+Sun Dec 15 08:54:53 AM CET 2024
+f6ddf28fe3e7587fcf8fa2d1683b65aaa1aa814c
+------- --------
 
