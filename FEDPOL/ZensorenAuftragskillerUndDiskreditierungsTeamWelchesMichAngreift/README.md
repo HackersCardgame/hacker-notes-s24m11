@@ -24,7 +24,7 @@ NEU: w√§re es naheliegend anzunehmen, dass diese Aufzeichnung nicht einfach gel√
 [4] was von der Schweizer Armee vermutlich 
 
 ------- --------
-Tue Dec 17 12:34:48 PM CET 2024
-92fa96219703919f50291d2af0b3ef13e8843a6f
+Tue Dec 17 12:34:57 PM CET 2024
+977ee2ac08e5d358b20cbf406264288af3e23b89
 ------- --------
 
