@@ -193,4 +193,8 @@ dann heute sperrt grad ein zweites mal ein NICHT-sixgroup terminal, aber auch ma
 dann die Sixgroup oder generell Master-/visa-card terminals hätten allenfalls sowieso zugriff auf das ganze kassensystem. somit kämen bei den schnellkassen diese nettigkeiten eigentlich direkt von sixgroup und ncith ZB über die Migros oder Coop Netzwerke
 
 
+------- --------
+Tue Dec 17 10:28:40 PM CET 2024
+742279c783b89da776243bde13a19066b5271a13
+------- --------
 
