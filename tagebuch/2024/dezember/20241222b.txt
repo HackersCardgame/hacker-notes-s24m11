@@ -152,6 +152,16 @@ a53b115ea44f9341a37c0530ab826590b9fac60d
 ------- --------
 
 
+WORD: Iteratives Prisoners Dilemma 
+
+-> CHATTR +a ∀.log
+
+------- --------
+Sun Dec 22 07:38:06 AM CET 2024
+e1374c5ca461f807ad931294d2f8898b9a456cfb
+------- --------
+
+
 
 
 
