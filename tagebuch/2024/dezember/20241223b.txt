@@ -106,6 +106,12 @@ Mon Dec 23 07:43:40 PM CET 2024
 3bce2e1f54d8da657c7d38f50826a17e40138563
 ------- --------
 
+dann sobald das EEG erkennt, dass ich mir grad die Finger am heissen wasser oder einer zigarette verbrannt habe schaltet auch < 1sek ICD10 G40.2 pegel massiv höher (also zusätzliches biofeedback, nicht nur das noramle was den körper davon abhalten soll sich wieder zu verbrennen) dann weitere inhalte und vermmutlich würde das dann davon ablenken dass das medulla spinalis neuralink wieder übersteuert wird
+
+------- --------
+Mon Dec 23 07:49:36 PM CET 2024
+8a8a28006bdc8103fb699d051ec4aedd8e8068ce
+------- --------
 
 
 
