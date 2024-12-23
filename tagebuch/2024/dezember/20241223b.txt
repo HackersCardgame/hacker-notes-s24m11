@@ -174,3 +174,10 @@ Mon Dec 23 09:45:51 PM CET 2024
 cabece7ae0a4bc9801edfecfd943daa7cf8bd308
 ------- --------
 
+also FALLS die Körper von unfreiwilligen Laborratten wie mir in zB ASN1 abgebildet werden, und auf dem Branch "Körper-Telemetrie" wird massiv mehr zugegriffen als sonst müsste ein alarm losgehen und dann soll die CH-Army gerne ausweisen weshalb da wirst case nicht nur bei mir massiv mehr zugegirffen wird
+
+------- --------
+Mon Dec 23 09:49:11 PM CET 2024
+dcb99e25b17d514ab21be79df2767565dd047cbd
+------- --------
+
