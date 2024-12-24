@@ -73,6 +73,31 @@ Tue Dec 24 08:58:33 AM CET 2024
 90e85428fab7fcbd5e9979828a9ed02c5b56cf8b
 ------- --------
 
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+Urs Blum übt verrat an USA zum Selbstschutz und zum Schutz der Offiziere in Aarau:
+
+das würde auch die Vergewaltigungen in Gauantatamo genauer beläcuhten, somit hätte z.B. Offiziere aus USA vor den 9/11 Attemtate die Ehefauen der Attentäter vergewaltigt 
+
+-> "hätten" wäre eher formulierung von pfisterer
+
+------- --------
+Tue Dec 24 09:08:05 AM CET 2024
+1d98008f291ea4af5001722af5bfdef46b41b390
+------- --------
 
 
 
