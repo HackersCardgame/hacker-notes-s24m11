@@ -36,3 +36,19 @@ Tue Dec 24 06:22:04 AM CET 2024
 efd8ffbca46787a0cbe5c761ec1982de60913249
 ------- --------
 
+ich VERMUTE so Schrott liesse sich komplett automatisieren:
+
+Action Recognition: "Marc jr macht immer Morgens um 06:00 die Küche sauber damit er nicht als Nachtruhe-Lärm-Terrorist von einem bewaffneten 4 köpfigen SEK verhaftet wird"
+
+Action Prediction: wüsste das irgendwann auch
+
+somit würden die "netten" Offiziere auf diesen Termine "nette" EventTrigger programmieren, teilweise zeitgesteuert, teilweise mit weiterem Action Recognition, schauen dass sie das perfekte Alibi haben und zu gott beten dass ich drauf gehen würde
+
+------- --------
+Tue Dec 24 06:29:02 AM CET 2024
+fec3d42c2e322d97df97fc254ad82a1257f47094
+------- --------
+
+
+
+
