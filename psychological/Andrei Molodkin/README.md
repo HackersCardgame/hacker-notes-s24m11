@@ -8,4 +8,6 @@
 
 da ist die frage des Kunstwerks irgend "wie viel Fass Öl ist ein Menschenleben wert"
 
+Und insbesondere dann wenn man in der Vergangenheit viel falsch gemacht hat kann man VERMUTLICH seine Armee nicht einfach abschaffen 
+
 
