@@ -50,6 +50,8 @@ DELETED: auftrags der Firma RUAG AG
 CI/CD vermutlich ca 03:00 fast täglich, dann test der Cyber-Sprengfalle ca 07:00 an lebenden menschen wie dem marc jr landolt
 
 
+was dann auch eine generelle Frage der waffenindustrie aufwirft, wie testet die Waffen-Industrie ob ein neues modell von zB handgranaten auch wirklcih ein maximum an zivilisten tötet [ich: da würde ich ermorden verwenden]
+
 ------- --------
 Fri Dec 27 07:54:12 AM CET 2024
 b59cacd79056cab609e56a8d3e800e7457833bec
