@@ -1,2 +1,2 @@
-genisoimage -R -q -print-size /home/marc/fotos2/
-wodim -v -data image.iso -dev=/dev/sr0 
+genisoimage -R -o img.iso /home/marc/abcde/
+wodim -v -data img.iso -dev=/dev/sr0 
