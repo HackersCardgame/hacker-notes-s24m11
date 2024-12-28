@@ -155,6 +155,15 @@ Sat Dec 28 09:26:26 PM CET 2024
 54a2f1219e68c50faaab154ebbe5e714f4360f7f
 ------- --------
 
+marc@localhost:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+
 hochgradig spekulativ, aber z.B. die Richterstochter Evi S. hat damals schon harte drogen genommen im Kantons-Bibliotheks Pärkli [LOCK] [UB]
 
 das konzept wäre somit
@@ -163,6 +172,16 @@ das konzept wäre somit
 2. eines der 1979er Kinder zu ermorden
 3. den anderen 1979er kinder schuld einzureden
 4. so für immer von drogen abhängig zu machen, also schuldbewusstsein und daraus resultierender substanzmissbrauch und eskapismus
+
+marc@localhost:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+Dieses KONZEPT wäre wirst case ein Erfolgskonzept von Militärs um Drohnen auf 2 Beinen zu produzieren ... allenfalls macht hier eine grössere Recherche sinn
 
 ------- --------
 Sat Dec 28 09:29:08 PM CET 2024
