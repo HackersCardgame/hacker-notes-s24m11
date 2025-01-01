@@ -346,9 +346,18 @@ journalctl -xe |grep network -i
 
 lsmod |grep iwlwifi
 
-echo blacklist iwlwifi
-echo "blacklist iwlwifi" > /etc/modules-load.d/blacklist-wifi.conf
+echo blacklist iwlwifi +5 other
+echo "blacklist iwlwifi
+blacklist iwlmvm
+blacklist mac80211
+blacklist cfg80211
+blacklist mac80211
+blacklist bluetooth
+" > /etc/modules-load.d/blacklist-wifi.conf
+
+
+/usr/sbin/update-initramfs -u
 
 rmmod iwlmvm iwlwifi
 systemctl disable gnome-remote-desktop
-apt-get install lightdm orchis-gtk-theme materia-gtk-theme
+#apt-get install lightdm orchis-gtk-theme materia-gtk-theme
