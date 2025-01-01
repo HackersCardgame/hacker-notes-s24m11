@@ -184,7 +184,7 @@ apt-get install -y locate
 
 fgrep -ri PRUNEPATHS /etc/ 2>/dev/null
 
-if YESNO "edit PRUNEPATHS and updatedb ???"
+if YESNO "edit  PRUNEPATHS .... only updatedb --localpath /media ???"
 then
 #echo run /old2/home/marc/hacker-notes-s??m??/tools/mount.sh
 echo mount all drives with eg. nautilus in gui with that user you normally use
@@ -194,7 +194,7 @@ echo pressanykey
 read
 find /media/ -type d -maxdepth 2
 read
-vim /etc/cron.daily/locate -c "/PRUNEPATH"
+#vim /etc/cron.daily/locate -c "/PRUNEPATH"
 updatedb
 updatedb --localpaths=/media
 fi
