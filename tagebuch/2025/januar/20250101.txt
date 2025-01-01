@@ -169,5 +169,18 @@ insbesondere wenn man iso images für betriebssystem kreiert wird das scheinbar 
 also ödipus komplex, deren mamis oder vorgestezte haben in USA amerikanien sich richtig teures militärsches equipment gekauft, damit ihre super duper helden offiziere gegen einen nerd trotzdem gewinnen, selbst wenn die nicht mal wissen was ein segment-register ist
 
 
+bzw. würden die allenfalls auch nur suggerieren: "wir haben jetzt das neue image infiziert" um die Hardware Backdoors zu tarnen
+
+also wie wenn man STUXNET nur veröffentlicht hätte, um zu tarnen, dass auch damalige intel CPUs bereits hardware backdoors mit funk hatten
+
+* der benutzer würde durchdrehen weil er denkt er hätte eine faire chance
+   -> deshalb brauchen die militiärs auch immer fussballmetaphern weil dann wirkt es wie ein spiel und nicht wie ein monolog eines terrornetzwerks
+
+* der benutzer würde am falschen ort suchen
+
+* der benutzer würde sich selbstvorwürfe machen
+
+* der benutzer bzw. alle benutzwer könnten solange das geheim ist als sündenböcke missbraucht werden
+
 
 
