@@ -183,4 +183,8 @@ also wie wenn man STUXNET nur veröffentlicht hätte, um zu tarnen, dass auch da
 * der benutzer bzw. alle benutzwer könnten solange das geheim ist als sündenböcke missbraucht werden
 
 
+------- --------
+Wed Jan  1 04:12:37 PM CET 2025
+6a5015bab4b540d02c2a10b0e3dcf2150c9e214f
+------- --------
 
