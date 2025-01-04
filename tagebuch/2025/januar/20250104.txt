@@ -21,3 +21,23 @@ Sat Jan  4 06:05:13 PM CET 2025
 f3be2297564c4a02f6405783490be904f99dc6c0
 -------------
 
+dann der firefox mach zu viele ganz kleine cache files was auch das backup massiv verlangsamt, aber der chromium auch :/
+
+-------------
+f3be2297564c4a02f6405783490be904f99dc6c0
+Sat Jan  4 06:08:30 PM CET 2025
+72e7e77f0d6d808d921674ac1f8744f8453cc928
+-------------
+
+dann wenn inkscape von so einem dorftrottel mit offizierstitel erschosen wird landet das scheinbar im ,cache verzeichnis, export für nachfolgende sabotage?
+
+dann selbes phänomen wie oben mit dem verteichnis Telegram export, kommt vermutlich wegen dem Grossbuchstaben meist zu letzt
+
+
+
+-------------
+f3be2297564c4a02f6405783490be904f99dc6c0
+Sat Jan  4 06:35:01 PM CET 2025
+72e7e77f0d6d808d921674ac1f8744f8453cc928
+-------------
+
