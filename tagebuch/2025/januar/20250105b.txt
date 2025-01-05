@@ -332,4 +332,9 @@ oder auch Algorithen oder Konzeptwissen im Kontext des militärsichen Backbones
 
 [1] das wäre auch der grund weshalb z.B. im Film "The Matrix" nie irged etwas wie ein Backbone themaitisiert wird
 
+-------------
+7fa1ecdaa9292d86358bbae611d6bae2145d1a70
+Sun Jan  5 09:42:03 PM CET 2025
+b5b1c666e9aa0ed437e2262b0fe8ca8cf4c8256b
+-------------
 
