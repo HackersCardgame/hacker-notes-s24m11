@@ -217,3 +217,32 @@ caa25d1cfbbf35634acd4dd00daa4c225c1e8197
 -------------
 
 
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m11$ 
+
+Priorität hat die Sendeinfrastruktur VERMUTE ich, ich werde schon wieder mit Epilepsie gegrillt
+
+Das TerrorNetzwerk "Schweizer Armee" gibt Access Codes zu [1]
+
+
+JakShaving:
+===========
+wie immer sobald die Armee auffliegt wird automatisierte psychitrie / HTL Brugg verraten, bzw. die Aufträge welche die herren dort anggenommen haben
+
+[1] sprachsample mitstudent von marc jr landolt HTL/FHA/FHNW ic01 oder ia03: "(hahaha) es sind kartiologie daten weggekommen (hahaha)"
+
+-> damals war somit in der Psychiatrie bereits die Daten von patienten gehandelt worden 
+
