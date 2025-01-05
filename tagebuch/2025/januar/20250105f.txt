@@ -30,6 +30,13 @@ Sun Jan  5 04:09:29 PM CET 2025
 dc55799608f1b0db36589d5e032616323901e3a4
 -------------
 
+dann bei dem MUTMASSLICHEN Nvidia GrafikKarten Hardware-Funk-Backdoor VERMUTE ich sobald ich das behoben habe würden die dann versuchen über einen anderne Kanal auf meinen PCI Bus zuzugreifen
+
+-------------
+caa25d1cfbbf35634acd4dd00daa4c225c1e8197
+Sun Jan  5 04:26:55 PM CET 2025
+9c5db991f36dd7669e14aa24bfde2aae64874b0d
+-------------
 
 
 
