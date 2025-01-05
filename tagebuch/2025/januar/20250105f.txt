@@ -18,3 +18,19 @@ Somit VERMUTE ich, dass die
  
 Und Herr Brack AG ist ein Kollege von Simon Härdi ... Pivot
 
+WICHTIG: (was jetzt irgend 15 Minuten Gespamnmt wurde nach dem das schon auf meinem EEG abgegriffen wurde)
+
+Ich VERMUTE entweder die Treiber (egal ob Nouveau oder Proprietäre Nvidia Treiber in der Debian Distro) oder die Hardware hat backdoors drin welche über den PCI Bus dann task sabotiert, und vermutlich auch mitliest
+
+--> da scheinbar auch offline mitgelesen wird tippe ich auf funk hardware backdoors, von solcehn dingen hat jake appelbaum ja bereits 2013 berichtet apropos "... up to 8 miles ..."
+
+-------------
+4cb557514db939e600046b5498ce01b598e1f14a
+Sun Jan  5 04:09:29 PM CET 2025
+dc55799608f1b0db36589d5e032616323901e3a4
+-------------
+
+
+
+
+
