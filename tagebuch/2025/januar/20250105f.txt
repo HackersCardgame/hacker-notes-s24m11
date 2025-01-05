@@ -1,0 +1,17 @@
+-------------
+fbc36eb5ddf437fc11f464112a0604cce0321b13
+Sun Jan  5 03:47:24 PM CET 2025
+502c76f66398f835246298c8036203c43399d1a0
+-------------
+
+dann seit ich meine Monitore nicht mehr an der NVIDIA Grafik-Karte sondern an der Intel eigenen angeschlossen habe crasht mein Mixxx nicht mehr, auch sonst weniger Probleme ...
+
+Somit VERMUTE ich, dass die 
+
+07:00.0 VGA compatible controller: NVIDIA Corporation GK208B [GeForce GT 730] (rev a1) 
+
+-> welche ich 
+
+ 1x bei Brack gekauft habe
+ 
+ dann bin ich mir nicht 100% sicher, aber die wurde in der Brack.ch bestell history nicht aufgelistet, erst als ich die ensprechende Rechnung geöffnet habe wurde diese dann aufgelistet
