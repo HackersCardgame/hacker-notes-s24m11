@@ -1,0 +1,18 @@
+-------------
+67baf29f381b12e44e0ff9f0baa9f4d423a97451
+Tue Jan  7 09:08:29 AM CET 2025
+d46236aa4190c911f700432161aabc9df2266c6c
+-------------
+
+Frage an ChatGPT:
+
+Erstelle ein 2x4 Karnaugh Diagram um auf einfache Weise die "Dont-Care" Felder zu erklären
+
+Prämisse sind 2 Personen welche über das Essen Sprechen
+
+* die eine Person (A) möchte unbedingt Pizza
+* die amdere Person (B) möchte nicht unbedingt Pizza aber kann auch mit Pizza leben
+
+Dann ein weiteres Parameter dass Person B Vegetarier ist, Person A aber nicht
+
+ 
