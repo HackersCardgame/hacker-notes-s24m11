@@ -126,11 +126,11 @@ ich VERMUTE, dass es Herr Dr. Hansjürg Pfisterer ist welcher den Dr. Lammer ver
 
 * STUXNET war nur eine Objektfixierung um zu verschleiern dass nach intel 80386 prozessoren bereits etwas wie AX.25 und mutmasslich military-grade Crypto und ev. Fast Frequence Hopping eingebaut wurde von INTEL
 
+STUXNET und NSO Zero Click exploit werden von ChatGPT ein bisschen zu oft als einzige Quellen genannt
+
 -------------
-627f2beefa68cc5b47bfc900cf1d720f8eb30448
-Tue Jan  7 02:28:56 PM CET 2025
 1d7e65f2941a879fb98c5ca616a82e04643034c2
+Tue Jan  7 02:29:59 PM CET 2025
+ade48f96208d65c6a93300e3efa38ac2612d808c
 -------------
-
-
 
