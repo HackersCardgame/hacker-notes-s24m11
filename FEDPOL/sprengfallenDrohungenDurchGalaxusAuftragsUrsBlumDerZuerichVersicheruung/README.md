@@ -354,4 +354,23 @@ Dann der Philippe Kurz v/o Antenne [1] wäre von Pfisterer somit deshalb schon s
 
 [1] apropos ausfahrbar und "allzeit bereit" und doch eher dumme Pfadfinder Namen wie auch Floppy welche man irgendwo drein stecket
 
+-------------
+b6ef10a4495be927000687400418a3698838ae44
+Wed Jan  8 09:46:11 AM CET 2025
+ca4b9b9f07259c3b9bd6660da8df63f38d24dd35
+-------------
+
+dann als ich 2001 urs, astrid und martin blum so scheu gefragt habe dass da doch etwas nciht stimme mit dem Twint Towers Vorfall 9/11, die haben mich dann so halb ausgelacht und einen auf wir wissen mehr als du kleiner 20 jähriger wurm
+
+also urs, martin und astrid blum wussten damals schon, dass die 9/11 attentäter brain-jacked wurden vor dem attentat, somit wäre es allenfalls die schweizer armee und die RUAG AG gewesen welche sich so USA gegenüber geltung verschafft hätten
+
+MEINUNG: da würde ich die Herren Urs, Martin und Astrid blum dazu unter einem Lügendetektor / MRI befragen und schauen dass weder die Firmware gehackt wurde ncoh der bedienende arzt des MRI's auf deren Schmerigeldliste stehen
+
+-------------
+b6ef10a4495be927000687400418a3698838ae44
+Wed Jan  8 09:48:28 AM CET 2025
+ca4b9b9f07259c3b9bd6660da8df63f38d24dd35
+-------------
+
+
 
