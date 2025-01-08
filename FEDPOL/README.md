@@ -16,3 +16,8 @@ Wed Jan  8 06:47:44 AM CET 2025
 
 
 3f35a1d78874c64ed516ddaa2d245164720b011b
+
+
+dann wird wieder veruscht mich dazu zu steuern mir die fäuste an meinen kopf zu stueern und einen suzid einzuleiten
+
+
