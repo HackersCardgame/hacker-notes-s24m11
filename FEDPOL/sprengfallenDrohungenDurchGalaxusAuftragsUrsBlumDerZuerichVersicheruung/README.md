@@ -470,3 +470,6 @@ Wed Jan  8 10:31:52 AM CET 2025
 daa9066a6859e239c882e4d102d9f3c4b4fc8781
 -------------
 
+dann wäre es ja noch unfairer, nicht nur ein 40 jahre älterer geisteskranker psychater und drei 20 jahre ältere geisteskranek blums sondern auch noch philipp ??? also weiters Strichelin bei "das war niche als fairgame vorgesehen"
+
+
