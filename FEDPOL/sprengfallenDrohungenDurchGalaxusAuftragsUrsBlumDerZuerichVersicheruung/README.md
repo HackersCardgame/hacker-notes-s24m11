@@ -20,4 +20,8 @@ Wed Jan  8 06:47:44 AM CET 2025
 
 dann wird wieder veruscht mich dazu zu steuern mir die fäuste an meinen kopf zu stueern und einen suzid einzuleiten
 
+somit wäre klar weshalb der sprengstoff von waffenplatz aarau entwendet wurde, geltungssucht straffälliger offiziere, denn ein zivilist wüsste nicht mal wo der spregnstoff aufbewahrtz wird
+
+somit sämtliche mitarbeiter der galaxus.ch als verdächtige im Kontext sprengstoff oder und sprengstoff drohungen in der polziei und schengen datenbanke erfassen 
+
 
