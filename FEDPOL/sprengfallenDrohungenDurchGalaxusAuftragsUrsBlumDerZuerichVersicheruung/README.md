@@ -582,4 +582,15 @@ Wed Jan  8 12:14:13 PM CET 2025
 ba76aa24dac7c5ed9ace367398e0e595994584d2
 -------------
 
+jetzt loopt es "play on" was auf der verpackung aufgedruckt ist, also wie sonst militärs wo dann irgendwelche fussballmethaphern verwendet werdne um von mord an 14 jährigen abzulenen oder an 8 jährigen jungen in frankfrurt
+
+galaxus logo ausserdem ...
+
+also die cyber-sprengfalle soll den zeugen zerfetzen aber danach keine beweise zürück lassen
+
+-------------
+db33c0bac04c1a0c526cf94d470fa1c8cfadf278
+Wed Jan  8 12:16:02 PM CET 2025
+4a065a050a1594bfbe77731968f91c56b7b2ecc3
+-------------
 
