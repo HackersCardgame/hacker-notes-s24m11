@@ -123,6 +123,13 @@ Wed Jan  8 07:31:28 AM CET 2025
 
 logitech lightspeed app macht auf einwirkungsdauer, endloos loop, also die verschiendene wirtschaftskriminellen firmen schützen sich gegenseitig vor legitimer strafverfolguing [1] somit hat die zürich versichrung in usa 50% des umsatzes weil sie auch dort auftragsmorde für die wirtshcaft verüben, und logitech wäre dann auch vor allem im auftragskiller business
 
+also auch bei logitech hätte es ein team von auftragskillern, geschult auf deren eigenen cyberwaffen, allenfalls macht man das auch besser wenn keine bürozeiten sind
+
+-------------
+4c74209bb3a3f34d2ad623c6468c37667da12288
+Wed Jan  8 07:38:13 AM CET 2025
+c3900d68ca9353a80f5bf9af45505db613fc3c07
+-------------
 
 
 [1] Wed Jan  8 07:36:02 AM CET 2025  => Autoraser = Morddrohung gegen marc jr landolt 
