@@ -438,6 +438,7 @@ urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
 
+unbekannt: philipp blum braucht meine sprahcsynthese
 
 
 den dongle in der hand zu hlatne ist auch täter-truppen moral, so als angeberei, auch im typischen täterprofil eines menshen welcher zb happyslapping videos dreht
