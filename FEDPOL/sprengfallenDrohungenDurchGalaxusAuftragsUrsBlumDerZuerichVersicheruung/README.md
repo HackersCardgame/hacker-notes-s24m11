@@ -548,9 +548,32 @@ ebf04a5610801e08eaa4e0bdadcb7ad7fb6ba507
 
 ich hab gesagt ich mag radikale ehrlrlichkeit, und zwar wurde vorhin auch sdchon übermittelt: "vertusch das jetzt das DU DEN STICK NCIHT GESEHEN HAST" aber da bin ich zu faul zu nicht radikal ehrlich zu sein
 
+also das mit der lasche wären "additional selectors should you need them" ...
+
+... also wenn jemand nciht den kleber geändert hätte, dann hätte ich nicht angenommen dass da jemand dran war und hätte das vielleihct fürher geesehen mit dem stick unter der lasche
+
 -------------
 ebf04a5610801e08eaa4e0bdadcb7ad7fb6ba507
 Wed Jan  8 12:05:54 PM CET 2025
 7207edc6de5befc2c02abe9a73c7161891425f4d
 -------------
+
+
+die andere schachtel ist aus dem interdiscount und war sowieso schon offen ...
+
+... wichtiger, da gibt es verschiedene "unboxing neuralink design-pattern"
+
+normale
+solche um einen zeugen wie mcih zu bedrohen undf anschleissend mit exit strategie " marc jr hat das nur nicht gesehen weil er schizo ist "
+
+also das ist dann sowieso logitech selber gewesen, somit wäre das ein DAMUKLES FNORD, also ein beweis der aber wieder negiert wird, um zwar die logitech in verbindung mit RUAG AG zu bringen, dann aber sagen "sorry diese beweis ist nicht gültig"
+
+
+
+
+
+
+
+
+
 
