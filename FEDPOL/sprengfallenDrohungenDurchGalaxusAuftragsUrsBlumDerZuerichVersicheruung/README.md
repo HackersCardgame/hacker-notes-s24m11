@@ -588,6 +588,8 @@ galaxus logo ausserdem ...
 
 also die cyber-sprengfalle soll den zeugen zerfetzen aber danach keine beweise zürück lassen
 
+
+design pattern selektive blindheit udn "fokus jetztr da in der schwarzebn schachtel sollte das ding drin sein...
 -------------
 db33c0bac04c1a0c526cf94d470fa1c8cfadf278
 Wed Jan  8 12:16:02 PM CET 2025
