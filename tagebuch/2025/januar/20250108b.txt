@@ -155,4 +155,11 @@ jein, egal was ich mache, die nerven trotzdem, würde man das mit boolscher alge
 
 wäre es ein X im Carnaugh Diagram, also ein Dont Care Bit
 
+AUSSERDEM die müssen ja mein Tagebuch nicht lesen wenn sie es nicht ertragen als gemeine Vollpfosten mit Offizierstitel auzufliegen
+
+-------------
+a3bbdafe7e1484a8a2cb2dc4542f59f3bc3b384c
+Wed Jan  8 02:41:01 PM CET 2025
+a8b5a1e0f29c64df61e32f8273993fbef85294b3
+-------------
 
