@@ -144,3 +144,15 @@ Wed Jan  8 02:38:18 PM CET 2025
 e5aa2cf299212968804a8839ce8121274c8f5b14
 -------------
 
+unbekannt:
+ich sei auch irgendwie selber schuld wenn ich das so direkt formulieren würde
+
+ich:
+jein, egal was ich mache, die nerven trotzdem, würde man das mit boolscher algebra darstellen würde für
+
+1: geheuchelt nett formulieren
+0: direkt formulieren
+
+wäre es ein X im Carnaugh Diagram, also ein Dont Care Bit
+
+
