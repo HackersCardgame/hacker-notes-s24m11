@@ -344,3 +344,14 @@ und die HTL wäre grad neben der psychiatrie wo die ruag dann vermulcih dauer-ei
 dann direkte frage an simon härdi, herrn brack.ch, urs blum und die geisteskranken bei der zürich vericheurng: könntet ihr euren BESCHEUERTEN Milliarden Poker nicht ohne mich und die anderen gleichtlarigen und jügnerne fürhen 
 
 
+-------------
+b1408e016a7e0ef5b78473e4baf11db6d006a842
+Wed Jan  8 09:14:03 AM CET 2025
+b6ef10a4495be927000687400418a3698838ae44
+-------------
+
+Dann der Philippe Kurz v/o Antenne [1] wäre von Pfisterer somit deshalb schon sehr früh aus dem Pfadfinder "Spiel" genommen worden um über die WaREZ und ScENE Scene auch Brainjacking zu betreiben, also die Mami oder Papi von Antenne ist dann allenfalls auch mal verdächtig
+
+[1] apropos ausfahrbar und "allzeit bereit" und doch eher dumme Pfadfinder Namen wie auch Floppy welche man irgendwo drein stecket
+
+
