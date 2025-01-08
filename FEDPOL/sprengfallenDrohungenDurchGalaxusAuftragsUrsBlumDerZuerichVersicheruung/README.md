@@ -517,3 +517,19 @@ Wed Jan  8 11:40:24 AM CET 2025
 30578f813d04b915cc2c1c2123dbacca21c9fb87
 -------------
 
+
+ich bin kein mensch welcher Dinge vertuscht, der stick ist jetzt doch noch aufgetaucht, ABER es war dennoch jemand am Paket dran, weil die logitech hätten ja mehr aufwand wenn sie absichtlich 2 verschiedene sorten von klebern [1] haben, UND bei den letzten 2 welche ich bestellt habe waren beide seiten mit runden klebern.
+
+Dann FALLS jemand die aufzeichung hat bevor ich die schachtel geöffnet habe, da habe ich schon gesagt "da müsste ein runder kleber sein"
+
+
+[1] ich klebe dir eins -- wird auf schweizerdeutsch dazu verwendet zu sagen ich verpasse dir eine ohrfeige
+
+schädleverltzung habe ich trotzdem ... also der stick kommt als letztes doch nuch zum vorschien in einer lasche versteckt um dann blamign the user karte zu suggerieren und dennoch all die drohungen übermittelt haben zu können
+
+-------------
+7c1b17ebf46808989510e093bb056feaa7c46278
+Wed Jan  8 12:04:07 PM CET 2025
+d5441fea2cb1b7168edb83a3c698e6073a504d0f
+-------------
+
