@@ -595,8 +595,8 @@ neurologie funktionen <-> logitech
 
 schlussendlich hält logitech mich für so wichtig und relevant, dass sie selber leaks steruen um zu schauen ob ich das beweisen kann, also mich unfreiwillig zum red team zu machen ...
 
-|  RUAG AG
-|  Logitech
+|  RUAG AG        wo im Detail wäre die Zürich
+|  Logitech       (ownt zürich die Ruag oder irgendwo dazwischen)
 |  Galaxus.ch
 v
 die ruag schickt / verrät galaxus als "systemtest" 
