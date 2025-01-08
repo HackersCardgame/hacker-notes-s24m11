@@ -660,3 +660,11 @@ Wed Jan  8 02:18:20 PM CET 2025
 263db49641b164c2ea9bec19c76748079933d026
 -------------
 
+das wäre so etwas ähniches wie das little albert experiment, eine generalisierung der angst, und man muss damit rechnen dass die armee einen zeugem opfer oder autusten wie mich über jede natürliche oder jursistische person angreift oper ermordet wenn sie kann
+
+-------------
+263db49641b164c2ea9bec19c76748079933d026
+Wed Jan  8 02:24:56 PM CET 2025
+058f13391bb1f08163e1a9e3c18cb9715f69d8b1
+-------------
+
