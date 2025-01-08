@@ -167,3 +167,11 @@ Wed Jan  8 07:47:39 AM CET 2025
 1e3ea054c01d085d9f74115135d8e8943df6e5b3
 -------------
 
+dann die bezirksschule aarau, die Bildungselite wie damals jean rene furrer gesagt hat wäre im Zelgli als Geiselnahme an der ganzen agglomeration aarau durch die Schweizer armee
+
+-------------
+1e3ea054c01d085d9f74115135d8e8943df6e5b3
+Wed Jan  8 07:52:34 AM CET 2025
+9938bca9319e8661fe00e6ff96f85299cd53462b
+-------------
+
