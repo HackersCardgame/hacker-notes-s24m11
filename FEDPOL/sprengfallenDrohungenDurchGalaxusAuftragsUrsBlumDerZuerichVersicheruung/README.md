@@ -649,3 +649,14 @@ massgebend ist der tweet welche ich ans fedpol geschickt habe
 
 urs blum hat für heute wieder geplant ein Swatting an Marc jr Landolt verüben zu lassen
 
+
+FEDPOL/sprengfallenDrohungenDurchGalaxusAuftragsUrsBlumDerZuerichVersicheruung/RUAGag-und-zuerich-versichrung-haben-galaxus-gehackt-dort-einige-mittaeter-und-verueben-psychologische-kriegsfuehrung-ueber-deren-systemeScreenshot From 2025-01-08 14-15-05.png
+
+also ich VERMUTE die Zürich Versichrung welche jetzt sagt sie würde nur befehle der RUAG AG verüben, hat somit als ziel die gesammte Infomatik schweizweit zu unterwandern um über jede juristische oder natürlcihe person zeugen, opfer oder Autisten bedrohen zu können
+
+-------------
+e11dbbcd104997aaabdd6a8a4af46629949cbc72
+Wed Jan  8 02:18:20 PM CET 2025
+263db49641b164c2ea9bec19c76748079933d026
+-------------
+
