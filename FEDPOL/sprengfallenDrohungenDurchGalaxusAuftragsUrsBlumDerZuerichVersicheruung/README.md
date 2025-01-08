@@ -568,6 +568,17 @@ solche um einen zeugen wie mcih zu bedrohen undf anschleissend mit exit strategi
 
 also das ist dann sowieso logitech selber gewesen, somit wäre das ein DAMUKLES FNORD, also ein beweis der aber wieder negiert wird, um zwar die logitech in verbindung mit RUAG AG zu bringen, dann aber sagen "sorry diese beweis ist nicht gültig"
 
+beim "damokles fnord" wird immer das claudine blum sprachsample "ich streue nicht" von ca 2001 abgespielt
+
+also leaks streuen aber schauen dass man das nur so streut dass man es plausibel abstreiten kann
+
+also so will zwar die ruag ag und die logitech dass ich weiss dass sie zeugen ermorden weltweit, aber nicht dass ich es beweisen könnte
+
+-------------
+9bd3a67c5bb14691188e0f6a54a57cd493e4b577
+Wed Jan  8 12:14:13 PM CET 2025
+ba76aa24dac7c5ed9ace367398e0e595994584d2
+-------------
 
 
 
