@@ -338,6 +338,9 @@ Wed Jan  8 08:49:17 AM CET 2025
 
 dass die firma galaxus.ch wegen so etwas bankrott geht wäre mutmasslich im interesse der firma brack.ch ein kollege von simon härdi der HTL Brugg und vermutlich sein verbundingsbrudi
 
+und die HTL wäre grad neben der psychiatrie wo die ruag dann vermulcih dauer-eingemietet ist um neue cyberwaffen an laborratten auf beinen wie mir auszutesten
+
+
 dann direkte frage an simon härdi, herrn brack.ch, urs blum und die geisteskranken bei der zürich vericheurng: könntet ihr euren BESCHEUERTEN Milliarden Poker nicht ohne mich und die anderen gleichtlarigen und jügnerne fürhen 
 
 
