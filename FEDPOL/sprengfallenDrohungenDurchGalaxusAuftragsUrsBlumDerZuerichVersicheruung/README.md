@@ -546,4 +546,11 @@ Wed Jan  8 12:05:05 PM CET 2025
 ebf04a5610801e08eaa4e0bdadcb7ad7fb6ba507
 -------------
 
+ich hab gesagt ich mag radikale ehrlrlichkeit, und zwar wurde vorhin auch sdchon übermittelt: "vertusch das jetzt das DU DEN STICK NCIHT GESEHEN HAST" aber da bin ich zu faul zu nicht radikal ehrlich zu sein
+
+-------------
+ebf04a5610801e08eaa4e0bdadcb7ad7fb6ba507
+Wed Jan  8 12:05:54 PM CET 2025
+7207edc6de5befc2c02abe9a73c7161891425f4d
+-------------
 
