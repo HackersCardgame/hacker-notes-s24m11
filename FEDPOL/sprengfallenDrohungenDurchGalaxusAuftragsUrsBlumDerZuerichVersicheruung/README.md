@@ -507,3 +507,13 @@ Wed Jan  8 11:37:58 AM CET 2025
 6937000b7dc559ad2a0adb95f83d631c20df9f91
 -------------
 
+diese mitarbeiterin hat somit zugriff auf ein mutmasslich militärsiches management cockpit wo mordaufträge für die armee drüber raus gegeben werden, ich würde diese Frau mal in U-Haft stecken, aber ich hab nciht jus/rechtswissenschaften studeirt, somit muss das jemand anderes entschieden
+
+und die soll dann alle andern dort verpetzen falls 
+
+-------------
+6937000b7dc559ad2a0adb95f83d631c20df9f91
+Wed Jan  8 11:40:24 AM CET 2025
+30578f813d04b915cc2c1c2123dbacca21c9fb87
+-------------
+
