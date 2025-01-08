@@ -314,4 +314,24 @@ Wed Jan  8 08:30:08 AM CET 2025
 918a1702c6784c37cdab329037fbafa3c2019578
 -------------
 
+somit wusste sowohl der auftraggeber urs blum der zürich verischerung als auch der mutmasslich gekaufte staatsanwalt marco spring und der mutmasslich gekaufte polzisist michael ritter, dass ich kein alkaida terrorist bin, sondern das war der auftrag der wirtschaft an den Kanton aargau mich zum amokläufer abzurichten
+
+aber lieber begehe ich suizid als den herren den gefallen zu tun und für sich auch noch mcih zum amokläufer zu machen
+
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
                                      
+                                     
+
+somit macht es allenfalls sinn, wenn sowohl das FEDPOL aber auch INTERPOL alle Fälle von fälschlich als Alkaida Terrorist bezichtigten büregern aber auch alle fälschlich diagnostizeirten schizophrenie diagnosen ncohmals aufzuarbeiten
+
+-------------
+918a1702c6784c37cdab329037fbafa3c2019578
+Wed Jan  8 08:49:17 AM CET 2025
+16f10d94a7b442d2d7c5df4ed87d99e81a9ea1e4
+-------------
+
