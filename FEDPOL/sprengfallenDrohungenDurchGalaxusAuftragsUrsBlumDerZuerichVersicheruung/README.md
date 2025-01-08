@@ -590,6 +590,26 @@ also die cyber-sprengfalle soll den zeugen zerfetzen aber danach keine beweise z
 
 
 design pattern selektive blindheit udn "fokus jetztr da in der schwarzebn schachtel sollte das ding drin sein...
+
+neurologie funktionen <-> logitech
+
+schlussendlich hält logitech mich für so wichtig und relevant, dass sie selber leaks steruen um zu schauen ob ich das beweisen kann, also mich unfreiwillig zum red team zu machen ...
+
+|  RUAG AG
+|  Logitech
+|  Galaxus.ch
+v
+die ruag schickt / verrät galaxus als "systemtest" 
+
+aber es wäre kein "systemtest" die wohllen mich in der Psychiatrie mit intelligenz-verblödungs medikamenten vernichten damit ich nicht weitere dinge rausfinden und VERPETZE
+
+@ Jüngere Mitarbeiter bei galaxus.ch, wie bereits erwähnt, sie meine ich nicht, ich war als junger mitarbeiter auch meist puching ball
+
+dann die neuralink software für ihre firma schient die FIRAM Ruag AG zu machen oder zu verüben wäre vermutlich die bessere formuleriung
+
+
+
+
 -------------
 db33c0bac04c1a0c526cf94d470fa1c8cfadf278
 Wed Jan  8 12:16:02 PM CET 2025
