@@ -437,3 +437,15 @@ urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
+
+
+
+den dongle in der hand zu hlatne ist auch täter-truppen moral, so als angeberei, auch im typischen täterprofil eines menshen welcher zb happyslapping videos dreht
+
+-------------
+16f6ec22711d0b1dc2ed6e0a43b7a09e9b86b1eb
+Wed Jan  8 10:16:01 AM CET 2025
+99ae40c7437613557bc51ef889cf9278d0063482
+-------------
+
+
