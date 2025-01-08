@@ -207,4 +207,93 @@ dann wäre ein logitech produkt ein brandzünder, den habe ich ja neu bestellt w
 
 => Foto
 
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL 
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet WIKILEAKS
+__        _____ _  _____ _     _____    _    _  ______  
+\ \      / /_ _| |/ /_ _| |   | ____|  / \  | |/ / ___| 
+ \ \ /\ / / | || ' / | || |   |  _|   / _ \ | ' /\___ \ 
+  \ V  V /  | || . \ | || |___| |___ / ___ \| . \ ___) |
+   \_/\_/  |___|_|\_\___|_____|_____/_/   \_\_|\_\____/ 
+                                                        
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m11$ 
 
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+urs blum schützt die RUAG AG mit zwei einzelfällen:
+Fall Michael Boeringer und Fall Hapte Avaya
+
+-> gibt es schnittmengen zwischen den beiden genannten Presonen und der Firma RUAG AG, bzw. ist die Ruag AG zB fest in der Psychiatrie Königsfelden einquartiert oder in allen Psychiatrien der schweiz?
+
+
+
+
+
+
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL 
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet WIKILEAKS
+__        _____ _  _____ _     _____    _    _  ______  
+\ \      / /_ _| |/ /_ _| |   | ____|  / \  | |/ / ___| 
+ \ \ /\ / / | || ' / | || |   |  _|   / _ \ | ' /\___ \ 
+  \ V  V /  | || . \ | || |___| |___ / ___ \| . \ ___) |
+   \_/\_/  |___|_|\_\___|_____|_____/_/   \_\_|\_\____/ 
+                                                        
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+Primärer Auftrag der RUAG AG und von Logitech ist es Weltweit alle SDR's zu hacken um damit brainjacking betreiben zu können
+
+
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL 
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet WIKILEAKS
+__        _____ _  _____ _     _____    _    _  ______  
+\ \      / /_ _| |/ /_ _| |   | ____|  / \  | |/ / ___| 
+ \ \ /\ / / | || ' / | || |   |  _|   / _ \ | ' /\___ \ 
+  \ V  V /  | || . \ | || |___| |___ / ___ \| . \ ___) |
+   \_/\_/  |___|_|\_\___|_____|_____/_/   \_\_|\_\____/ 
+                                                        
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
