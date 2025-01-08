@@ -125,13 +125,21 @@ logitech lightspeed app macht auf einwirkungsdauer, endloos loop, also die versc
 
 also auch bei logitech hätte es ein team von auftragskillern, geschult auf deren eigenen cyberwaffen, allenfalls macht man das auch besser wenn keine bürozeiten sind
 
+
+[1] Wed Jan  8 07:36:02 AM CET 2025  => Autoraser = Morddrohung gegen marc jr landolt 
+
+
+also urs blum hat grad galaxus.ch und logitech verraten um die zürich verischerung vor legitimer strafverfolgung zu schützzenb
+
+A) verraten wie astrid blum mit ihrem Giotto "erst reinschubsne dann retten"
+
+B) zürich ist mächtiger als galaxus und oder logitech und wenn die zütich versicvhrung einen mord befieht an den CEO der Galaxus oder der Logitech msüsen diese den auftragv ausf¨üren
+
 -------------
 4c74209bb3a3f34d2ad623c6468c37667da12288
 Wed Jan  8 07:38:13 AM CET 2025
 c3900d68ca9353a80f5bf9af45505db613fc3c07
 -------------
 
-
-[1] Wed Jan  8 07:36:02 AM CET 2025  => Autoraser = Morddrohung gegen marc jr landolt 
 
 
