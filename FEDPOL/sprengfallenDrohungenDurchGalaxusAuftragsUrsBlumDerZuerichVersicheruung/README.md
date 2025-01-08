@@ -27,8 +27,12 @@ somit sämtliche mitarbeiter der galaxus.ch als verdächtige im Kontext sprengst
 dann genre auch einen Tip oder psychologische Beratung was man tun kann wenn man fast täglich von urs blum und seinem Terrornetzwerk aus seinem Umfeld von Menschen mit Offiziers-Titel des Terrornetzwerks "Schweuzer Armee" mit Sprengstoff und Bioterrorismus bedroht wird
 
 
-simon härdi seine aussage ca 2010: "handel bedeutet dass es ein schwarzes paket gibt, mit einem weissen paket oben drauf" aber das wäre ein one-eighty und das paket wäre weiss und oben drauf klebt [1]
+simon härdi seine aussage ca 2010: "handel bedeutet dass es ein schwarzes paket gibt, mit einem weissen paket oben drauf" aber das wäre ein one-eighty und das paket wäre weiss und oben drauf klebt [1] ein schwarzes paket mit sprengstoff der schweizer armee um zeugen einzuschüchtern
 
 box mit box
 
 [1] unbekannt: verratet markus belser mit seinem post-verteilzenter-job (pivot: markus belser <-> sondrümli <-> BAS AG <-> alexander Zschocke)
+
+
+Wed Jan  8 07:07:13 AM CET 2025
+
