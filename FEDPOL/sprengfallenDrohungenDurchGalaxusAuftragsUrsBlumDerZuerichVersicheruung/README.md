@@ -597,7 +597,7 @@ schlussendlich hält logitech mich für so wichtig und relevant, dass sie selber
 
 |  RUAG AG        wo im Detail wäre die Zürich
 |  Logitech       (ownt zürich die Ruag oder irgendwo dazwischen???)
-|  Galaxus.ch
+|  Galaxus.ch     Verantwortungs-Diffusion = Vorsatz
 v
 die ruag schickt / verrät galaxus als "systemtest" 
 
