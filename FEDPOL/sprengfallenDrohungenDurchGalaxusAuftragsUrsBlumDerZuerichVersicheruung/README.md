@@ -175,3 +175,36 @@ Wed Jan  8 07:52:34 AM CET 2025
 9938bca9319e8661fe00e6ff96f85299cd53462b
 -------------
 
+dann pairing würde gehen wurde aber von logitech software mässig locked beim G435
+
+die empfehlung für G435 wo das lineare frequenzband gelobt wird war durch galaxus.ch, somit verteilt galaxus vorsätzlich sprengfallen und macht sogar werbung dafür
+
+-------------
+9938bca9319e8661fe00e6ff96f85299cd53462b
+Wed Jan  8 07:59:15 AM CET 2025
+254b44f9b7b3a271313a0308bd5cab894e1f768b
+-------------
+
+urs blum: standart militär taktik, ide auftragnehemer bei der Psychiatrie ans messer leifern:
+dann öfters wird vor dem psychiatrie termin von marc jr landolt gleich mehrere solche cyber-sprengfallen gegen marc jr landolt gezündet
+
+-------------
+9938bca9319e8661fe00e6ff96f85299cd53462b
+Wed Jan  8 08:00:23 AM CET 2025
+254b44f9b7b3a271313a0308bd5cab894e1f768b
+-------------
+
+also schweiz oder usa zu sagen wäre technisch falsch, es sind international vernetzte militärs und wirtshcaftskriminelle welche den ruf ihres landes so sabotieren, was denen aber egal ist weil [LOCK]
+
+
+urs blum verrät die kantonsplizei:
+der pädophilie-porno-fahnder mathias berner [1] hat nur den auftrag genau solche leaks zu verhidnern
+
+jede dieser firmen ist dann für die anderne firemn briefkasten firma ewlche dann denn fokus auf sich zieht, der testbericht sei bie brack gewwesn, aber das ist meiner erinnrung nach falsch
+
+
+dann wäre ein logitech produkt ein brandzünder, den habe ich ja neu bestellt weil der heiss wurde und plastik geschmolzen ist
+
+=> Foto
+
+
