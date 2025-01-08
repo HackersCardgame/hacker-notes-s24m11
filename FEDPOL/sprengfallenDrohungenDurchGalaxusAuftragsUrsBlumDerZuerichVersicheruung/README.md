@@ -616,3 +616,14 @@ Wed Jan  8 12:16:02 PM CET 2025
 4a065a050a1594bfbe77731968f91c56b7b2ecc3
 -------------
 
+rethorische automatismen
+
+dann vorgestzte sync zu einer morddrohung durch urs blum
+
+-------------
+b18d067979652f048204c2ca1d032283c018b081
+Wed Jan  8 12:55:09 PM CET 2025
+d60e328b2baa3b0ab987553da528fe165f17d2dc
+-------------
+
+
