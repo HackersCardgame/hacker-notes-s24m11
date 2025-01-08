@@ -462,3 +462,11 @@ Wed Jan  8 10:17:31 AM CET 2025
 e46504fa248d055346058aaf4922734c9eff9d6d
 -------------
 
+und urs blum hätte mit der zürich versichrung all die straftaten von philipp blum zwar vertuscht, aber alles beweiskräftig aufgezeichnet
+
+-------------
+ef1a84d6fba8ccf101e49a641fffadf3031c3b92
+Wed Jan  8 10:31:52 AM CET 2025
+daa9066a6859e239c882e4d102d9f3c4b4fc8781
+-------------
+
