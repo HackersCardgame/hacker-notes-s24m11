@@ -297,3 +297,21 @@ marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
 |  _| | |___| |_| |  __/| |_| | |___ 
 |_|   |_____|____/|_|    \___/|_____|
                                      
+                                     
+                                     
+Bleuler, Schweiz
+Donald Ewen Camreon, Schweiz, Burghölzli
+...
+
+Die Art des Krieges welche die Schwizer Armee seit vermutlcih 1950 verübt ist brainjacking und neurologie implantate dinge
+
+somit wäre auch zu erwarten, dass die RAUG AG nicht nur einen Neurologen oder Neuropsychiater beschäftigt
+
+
+-------------
+7b9747fa1c45fa2da75fdad5834edd9b74501cf0
+Wed Jan  8 08:30:08 AM CET 2025
+918a1702c6784c37cdab329037fbafa3c2019578
+-------------
+
+                                     
