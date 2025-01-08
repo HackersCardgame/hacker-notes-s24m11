@@ -439,7 +439,7 @@ urs blum: sprengfallen aktivieren
 urs blum: sprengfallen aktivieren
 
 unbekannt: philipp blum braucht meine sprahcsynthese
-
+-> also urs blum hat philipp blum zu happy slapping und solchem abgerichtet um ihn gemäss chatgpt als "gefördert ... macht zu stärken, werkzeug des vaters", damit urs blum mit philipp blum seine ziele ereichen kann" (also philipp blum ist eine Missile auf 2 beinen von urs blum)
 
 den dongle in der hand zu hlatne ist auch täter-truppen moral, so als angeberei, auch im typischen täterprofil eines menshen welcher zb happyslapping videos dreht
 
