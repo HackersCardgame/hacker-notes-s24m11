@@ -415,4 +415,13 @@ dann gehe ich davon aus, dass der entweindete dongel irgend ein nachbar (also wo
 
 auch ein ödipuskomplex des herren, weil auch das wäre keine eigenleistung der trottel mit offizierstitel
 
+urs blum: sprengfallen aktivieren
+urs blum: sprengfallen aktivieren
+urs blum: sprengfallen aktivieren
 
+urs blum: sprengfallen aktivieren
+urs blum: sprengfallen aktivieren
+
+urs blum: sprengfallen aktivieren
+
+europa hat grad untersagt güter in der shcweiz zu kaufen, dafür bringen wir jetzt marc jr landolt um
