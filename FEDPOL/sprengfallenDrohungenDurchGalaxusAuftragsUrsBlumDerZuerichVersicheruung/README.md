@@ -85,3 +85,14 @@ Wed Jan  8 07:18:21 AM CET 2025
 8738e531fb0915e32af01b2f59c6a5754378f065
 -------------
 
+und das wäre der grund, weshalb man bereits früh veruscht hat mit dem anfüttern von drogen und zeitgleihc der ermordung von cornelia utz die 1979er generation in ein militärsiches zwangsmassnahmen system zu würgen, so dass die 1979er generation keine andere wahl htäte als den tätern mit offizierstitel behilfe zu leisten
+
+dank dem dass marc jr landolt das puzzle aber gelöst hat sind viele nicht in diesem zwangsmassnahmensystem gelandet
+
+-------------
+8738e531fb0915e32af01b2f59c6a5754378f065
+Wed Jan  8 07:20:42 AM CET 2025
+edf2f8613e5e3b8bb913f6c8c7b399997ef6ddf8
+-------------
+
+
