@@ -373,4 +373,23 @@ ca4b9b9f07259c3b9bd6660da8df63f38d24dd35
 -------------
 
 
+dann ab den Datenpunkten
+
+RUAG AG
+Logitech
+Uni Zürcih / Burghölzli
+Brainjacking
+
+merkt man recht gut, dass der ChatGPT
+
+A) eine Zensur-Funktion hat für anfragen mit Teilmengen dieser Dinge
+B) richtig Shitty Trainings-Daten hatte
+
+FEDPOL/sprengfallenDrohungenDurchGalaxusAuftragsUrsBlumDerZuerichVersicheruung/Logitech RUAG Neuralink Untersuchung.pdf
+
+
+
+
+
+
 
