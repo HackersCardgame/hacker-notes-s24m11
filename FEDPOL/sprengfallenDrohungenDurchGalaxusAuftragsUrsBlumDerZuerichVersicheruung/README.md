@@ -121,3 +121,9 @@ Wed Jan  8 07:31:28 AM CET 2025
 5d4cfd9117c194c494a533620a6ada95ca7c4595
 -------------
 
+logitech lightspeed app macht auf einwirkungsdauer, endloos loop, also die verschiendene wirtschaftskriminellen firmen schützen sich gegenseitig vor legitimer strafverfolguing
+
+
+Wed Jan  8 07:36:02 AM CET 2025  => Autoraser = Morddrohung gegen marc jr landolt 
+
+
