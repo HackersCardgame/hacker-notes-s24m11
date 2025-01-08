@@ -394,4 +394,11 @@ Wed Jan  8 10:00:31 AM CET 2025
 c1d0acf8e9b9e091e18c5a3c5379f25def8a26cb
 -------------
 
+dann der initiale terrorakt durch galaxus.ch wäre somit auch nur weil urs blum und die zürcih versicherung denen garantiert hat dass sie ncith auffliegen, und wenn urs und die zürich Versichfgung auffligt decken die RUAG AG udn die CH-Army den urs blum und die aufgeflogennen täter egal ob nat oder jur person
+
+-------------
+c1d0acf8e9b9e091e18c5a3c5379f25def8a26cb
+Wed Jan  8 10:03:50 AM CET 2025
+4e4242df842387c7817d2b0877e1c7f292ca095b
+-------------
 
