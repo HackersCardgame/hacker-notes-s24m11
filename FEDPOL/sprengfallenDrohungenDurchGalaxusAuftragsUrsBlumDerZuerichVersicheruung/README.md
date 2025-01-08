@@ -141,5 +141,15 @@ Wed Jan  8 07:38:13 AM CET 2025
 c3900d68ca9353a80f5bf9af45505db613fc3c07
 -------------
 
+logitech G435 blinkt wie eine springfalle im film, dann scheint das ding sowohl zugriff auf marc jr landolts neuralink zu haben, allenfalls eine custom firmware, und irgendwo her müsste dieses Ding die access coees zu marcv jr landolts neuralink her haben
+
+somit produziert logitech für die RUAG AG cyber-sprengfallen
+
+
+-------------
+9b3a756afadb5db424a12c9b2153b380f7fe0e58
+Wed Jan  8 07:46:17 AM CET 2025
+6196bf90ebef7dfad4a39a383c9bea90f8d02f1f
+-------------
 
 
