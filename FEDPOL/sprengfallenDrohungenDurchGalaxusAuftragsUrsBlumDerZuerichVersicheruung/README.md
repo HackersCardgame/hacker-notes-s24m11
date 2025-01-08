@@ -642,3 +642,7 @@ massgebend ist der tweet welche ich ans fedpol geschichtt habe
 massgebend ist der tweet welche ich ans fedpol geschichtt habe
 massgebend ist der tweet welche ich ans fedpol geschichtt habe
 massgebend ist der tweet welche ich ans fedpol geschickt habe
+
+
+urs blum hat für heute wieder geplant ein Swatting an Marc jr Landolt verüben zu lassen
+
