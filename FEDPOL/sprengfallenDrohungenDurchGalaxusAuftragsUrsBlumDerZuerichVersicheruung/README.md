@@ -95,4 +95,11 @@ Wed Jan  8 07:20:42 AM CET 2025
 edf2f8613e5e3b8bb913f6c8c7b399997ef6ddf8
 -------------
 
+dieser Kopfhörer ist ca 2 wochen herum gelegen, das wäre somit so etwas wie eine "RESERVE Sprngefalle" um z.B den Fall mit dem Fahrrad zu spammen oder zu verhidnern dass simon härdi zwar verschlüsselt aber offen mit sprengstoff droht bereits seit mindestens 2010
+
+-------------
+edf2f8613e5e3b8bb913f6c8c7b399997ef6ddf8
+Wed Jan  8 07:23:47 AM CET 2025
+001f0288478fcc8ce7f1935ce9c3101e8298d23f
+-------------
 
