@@ -480,3 +480,13 @@ Wed Jan  8 10:33:52 AM CET 2025
 8953a7abf2335079a18a38f679decf2c89c22bb3
 -------------
 
+also urs blum hat terristen in allen entscheidungsträger posten wie jetzt die eveline als 1.level sündenbcok dann hilfe geholt hat und dann wirkt das wie wenn das zur astrid blum weiter geleitet wurde
+
+also bereits 1990 hat die Schweizer armee geschaut dass sie in allen firmen auf den posten für entscheidungstärger ihre terrorsiten einschleusen können
+
+-------------
+53974214face22123a8bb855475eb6bf5775c54b
+Wed Jan  8 11:24:56 AM CET 2025
+dde3e7eb71e31a6d0a39fab962b127a0298c0ed6
+-------------
+
