@@ -56,3 +56,32 @@ Wed Jan  8 07:12:38 AM CET 2025
 66146822b0c1176e1076a0bb5c7d8365ef43cb84
 -------------
 
+Fr. Dr. Cathrene Horton vom CERN sagt ja, dass bis 2025 3 Millionen Schweizer sterben würden ...
+
+... das bedeutet jetzt vermutlich
+
+A) sie versuchen alle Zeugen, Sklaven und Autisten wie mich zu emorden
+
+B) es gibt eine Sindflut und alle Offiziere wären dann irgendwie zurecht tod
+
+also wenn ein land in einem anderen land kinder anfängt zu ermorden wie die schweizer armee über den ferngesteuernten hapte avaya, dann kann man davon ausgehen dass irgendwie bald der krieg beginnt
+
+ich an Deutschland falls von dort jemand mitliest:
+
+die zivilisten und jüngeren die nichts dafür können gerne verschonen
+
+-------------
+66146822b0c1176e1076a0bb5c7d8365ef43cb84
+Wed Jan  8 07:17:41 AM CET 2025
+8738e531fb0915e32af01b2f59c6a5754378f065
+-------------
+
+dann wäre jetzt auch klar weshalb das zelgi so bisschen an einem berg auch wie eine festung aufgebaut wäre, das soll verhindern, dass z.B. das FEPDOL oder INTERPOL da Täter verhaften geht
+
+
+-------------
+66146822b0c1176e1076a0bb5c7d8365ef43cb84
+Wed Jan  8 07:18:21 AM CET 2025
+8738e531fb0915e32af01b2f59c6a5754378f065
+-------------
+
