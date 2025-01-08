@@ -42,3 +42,12 @@ dann sobald ich da das produkt bei galaxus melden wollte (eventtrigger) wissen d
 
 
 Wed Jan  8 07:09:04 AM CET 2025
+
+
+skaliert betrachtet muss man spätestens seit dem zeitungsartikel "sprengstoff auf waffenplatz aarau weggekommen" der Aargauer Zeitung davon ausgehen, dass die Schweizer Armee in jeder firma mitarbeiter hat weclhe schlimmstenfalls sprengstoff oder chemie-/bio-waffen in Pakete von Opfern, Zeugen oder autisten oder sonstigen wichtigen menschen tut
+
+gerne international abgleichen ob von der schweiz (vermutlcih über ein anderes land) parallel zu lieferungen drohungen, schutzgelderpressungen ... gegen bürger in anderen ländern übermittelt wurde
+
+
+Wed Jan  8 07:12:23 AM CET 2025
+
