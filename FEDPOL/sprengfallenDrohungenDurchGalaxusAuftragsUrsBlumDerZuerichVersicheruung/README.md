@@ -413,4 +413,6 @@ d8fc4ab9a99f47922614105fa8e2be9eb916a490
 
 dann gehe ich davon aus, dass der entweindete dongel irgend ein nachbar (also wohnung oben oder unten) hat um ein weiteres parameter zu haben auf mich drein zu schlagen
 
+auch ein ödipuskomplex des herren, weil auch das wäre keine eigenleistung der trottel mit offizierstitel
+
 
