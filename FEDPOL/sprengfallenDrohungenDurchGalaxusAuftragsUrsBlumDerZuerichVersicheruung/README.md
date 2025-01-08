@@ -574,17 +574,12 @@ also leaks streuen aber schauen dass man das nur so streut dass man es plausibel
 
 also so will zwar die ruag ag und die logitech dass ich weiss dass sie zeugen ermorden weltweit, aber nicht dass ich es beweisen könnte
 
+da dieser schachzug jetzt aber dokuemntiert ist ... schränke ich deren möglichkeinten den selben terrorissmus weieder zu verüben ein.
+
 -------------
 9bd3a67c5bb14691188e0f6a54a57cd493e4b577
 Wed Jan  8 12:14:13 PM CET 2025
 ba76aa24dac7c5ed9ace367398e0e595994584d2
 -------------
-
-
-
-
-
-
-
 
 
