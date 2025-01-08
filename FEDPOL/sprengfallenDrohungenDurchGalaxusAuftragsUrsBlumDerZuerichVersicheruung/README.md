@@ -151,5 +151,19 @@ somit produziert logitech für die RUAG AG cyber-sprengfallen
 Wed Jan  8 07:46:17 AM CET 2025
 6196bf90ebef7dfad4a39a383c9bea90f8d02f1f
 -------------
+ 
+da das produkt explizit güngstig ist, somit eher das kunden segment von kindern oder jungen menschen z.B. in Asubildung anspricht ...
 
+RUAG AG und Logitech ermorden kinder, und das blablabla von dainele ganzser "brutkasten lüge" wäre eine Tarnung und ein Honeypot
+
+-------------
+6196bf90ebef7dfad4a39a383c9bea90f8d02f1f
+Wed Jan  8 07:47:39 AM CET 2025
+1e3ea054c01d085d9f74115135d8e8943df6e5b3
+-------------
+-------------
+6196bf90ebef7dfad4a39a383c9bea90f8d02f1f
+Wed Jan  8 07:47:39 AM CET 2025
+1e3ea054c01d085d9f74115135d8e8943df6e5b3
+-------------
 
