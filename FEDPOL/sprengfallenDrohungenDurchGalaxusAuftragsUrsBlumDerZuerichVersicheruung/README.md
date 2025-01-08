@@ -472,4 +472,11 @@ daa9066a6859e239c882e4d102d9f3c4b4fc8781
 
 dann wäre es ja noch unfairer, nicht nur ein 40 jahre älterer geisteskranker psychater und drei 20 jahre ältere geisteskranek blums sondern auch noch philipp ??? also weiters Strichelin bei "das war niche als fairgame vorgesehen"
 
+dann würde urs blum jetzt den philipp an behörden ausliefern als satisfaction um die systemischen problmee bei der zürich verishrung, ruag ag, logitech und der schweizer armee zu übertünchen ???
+
+-------------
+bd5024824a1d893029cf3bb4724bda775f88b588
+Wed Jan  8 10:33:52 AM CET 2025
+8953a7abf2335079a18a38f679decf2c89c22bb3
+-------------
 
