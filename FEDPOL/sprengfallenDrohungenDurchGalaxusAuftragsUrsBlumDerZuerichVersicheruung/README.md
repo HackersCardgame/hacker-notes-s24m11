@@ -498,3 +498,12 @@ Wed Jan  8 11:36:04 AM CET 2025
 91bb4bf93b33eda943c8017d797abb68cf7a257e
 -------------
 
+
+dann auch das Kaufleuten, OXA etc. wäre entschlüsselt, das sind drogenb schuppen wo menschen aus der Kaufmänner Branche (Ferengi) mit drogen angefüttert werden damit sie genug ignoranz an den tag legen können auch 8 jährige kinder in deutschland am Bahnhof oder 14 järhige cornelia utz ermorden zu können
+
+-------------
+91bb4bf93b33eda943c8017d797abb68cf7a257e
+Wed Jan  8 11:37:58 AM CET 2025
+6937000b7dc559ad2a0adb95f83d631c20df9f91
+-------------
+
