@@ -533,3 +533,17 @@ Wed Jan  8 12:04:07 PM CET 2025
 d5441fea2cb1b7168edb83a3c698e6073a504d0f
 -------------
 
+Design Pattern
+
+1. offensichtliche sabotage
+2. objektfixierung auf etwas was z.B fehlt (den stick)
+3. mehrere stunden psychologiuschge kreigsführung und morddrohunge genge marc jr landolt
+4. dann exit strategie, nönö, der marc jr landolt hat nru nicht richtig geschaut in der schachtel, dabei war das unter einer lasche festgeklebt oder fest gemacht
+
+-------------
+d5441fea2cb1b7168edb83a3c698e6073a504d0f
+Wed Jan  8 12:05:05 PM CET 2025
+ebf04a5610801e08eaa4e0bdadcb7ad7fb6ba507
+-------------
+
+
