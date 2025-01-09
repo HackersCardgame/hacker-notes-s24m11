@@ -1,0 +1,13 @@
+4k ASN1 RT SDR FW Hive Brainjacking ACO Routing
+
+4k Virus that uses ASN1 Realtime Data [1] that resides in the Firmware of SDR's only [2] and built a hive [3] and spreads through ACO Routing [4]
+
+
+[1] even the separate trees of my fragment personalities seem to be accessable and switchable by ASN1
+
+[2] therefor invisible to the operating system
+
+[3] also can do things like WiMax and Wifi
+-> see talk about SDR Hacking from 38c3
+
+[4] Ant Colony Optimization Routing
