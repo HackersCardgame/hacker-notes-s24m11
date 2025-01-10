@@ -6,7 +6,7 @@ Fri Jan 10 03:00:53 AM CET 2025
 
 unaufgeforderte übermittlung:
 
-urs blum hat einen NDA auf todesstrafe mit USA für die Taktischen C4ISR Systeme ...
+urs blum hat einen NDA auf todesstrafe mit USA für die taktischen C4ISR Systeme ...
 
 -------------
 c6e97e0892b78175cb7be2423028d9ed1af0e263
