@@ -126,9 +126,45 @@ Sun Jan 12 05:46:41 PM CET 2025
 
 also irgend ein Admin oder jemand mit sehr vielen hohen Zugängen auf dem C4ISR System aktiviert dann immer noch mehr und noch mehr triebtäter die vorsätzlich bei autisten wie mir eine reizüberflutung und daraus ein resultierender suizid produzieren sollen
 
+marc@debian:~/hacker-notes-s24m11/buero$ figlet C 4 I S R
+
+Das ...
+  ____   _  _     ___   ____    ____  
+ / ___| | || |   |_ _| / ___|  |  _ \ 
+| |     | || |_   | |  \___ \  | |_) |
+| |___  |__   _|  | |   ___) | |  _ < 
+ \____|    |_|   |___| |____/  |_| \_\
+                                      
+... System ist irgendwie problematisch 
+
+
+In der Software-Entwicklung (OOP) würde man von 
+
+* Kopplung (Coupling)
+* Kohäsion (Cehesion)
+
+sprechen. Da ist ein Informatik-Fachwort "Cluster-Fuch" wenn diese Werte zu hoch sind. Das ist auch ein Indikator, dass nicht menschen mit autismus so etwas programmiert haben
+
+Vermutlich kann man da auch ähnclihe formeln wie für die Entropie in der Physik verwenden. Dann der Schachzug der Superreichen für das Problem ist vermutlich wirklich ein "the great reset" wo dann wenn der leak von Dr. Catherine Horton welche am CERN gearbeitet hat dass 2025 3 Millionen Schweizer sterben würden allenfalls der Tod der Menmschen geplant
+
 -------------
-87fad83bd40aa720ab364c6ec50c73fcbc2c6f19
-Sun Jan 12 05:54:20 PM CET 2025
 7830534599a74990d21283afad2bcedfc24106c3
+Sun Jan 12 06:00:33 PM CET 2025
+b64c9a501df9d90400bdfc70372eebaa2fd49574
 -------------
+
+  ____   _  _     ___   ____    ____  
+ / ___| | || |   |_ _| / ___|  |  _ \ 
+| |     | || |_   | |  \___ \  | |_) |
+| |___  |__   _|  | |   ___) | |  _ < 
+ \____|    |_|   |___| |____/  |_| \_\
+                                      
+ist somit im moment vermutlich im Sklaven-Abschlachten Modus
+
+-------------
+7830534599a74990d21283afad2bcedfc24106c3
+Sun Jan 12 06:01:10 PM CET 2025
+b64c9a501df9d90400bdfc70372eebaa2fd49574
+-------------
+
 
