@@ -44,4 +44,14 @@ Sun Jan 12 04:52:44 PM CET 2025
 f2e4167cda61dc8f8af201010a881bff786d5e0e
 -------------
 
+den rechnungslauf druck abzufangen scheint ausserdem auch ein terrornetzwerk verhindern zu wollen welches dann noch mehr körperfunktionen auslöst
+
+EEG Eventtrigger "jetzt aus der ebanking webseite die gescanten rechnugnen drucken" 
+
+
+-------------
+f2e4167cda61dc8f8af201010a881bff786d5e0e
+Sun Jan 12 04:59:09 PM CET 2025
+4be6770d50cb66202205b0709c778c62137a8505
+-------------
 
