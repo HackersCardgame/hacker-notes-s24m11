@@ -55,3 +55,4 @@ Sun Jan 12 04:59:09 PM CET 2025
 4be6770d50cb66202205b0709c778c62137a8505
 -------------
 
+dann das pdf der bezahlten rechnungen aus ubs ebanking scheint wieder nicht druckbar zu sein... oder hat einen viel zu langen delay ... also zu viel delay für dass das eine 90kB datei
