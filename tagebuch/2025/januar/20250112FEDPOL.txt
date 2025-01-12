@@ -8,8 +8,10 @@ C4ISR netze missbrauchen auch ubs ebanking apps um menschen in suizid oder amokl
 
 -> aber ist die Ebanking App geschlossen ist ICD10 G40.2 immer noch aktiv
 
-Technsich hat aber die Ebanking app bereits 2x gemeldet "Keine Verbindung" => Foto weil sonst bin ich ja wieder nur ein spinner:
+Technsich hat aber die Ebanking app bereits 2x gemeldet "Keine Verbindung" => Foto weil sonst bin ich ja wieder nur ein Spinner:
+-> FEDPOL/Rechnungs-Amoklauf/DSC04918.JPG
 
+das wäre vermutlich Brack.ch alles original handy oder der ISP mit einer spezifischer Filterrule zu UBS.ch Server welche nur jedes 2. mal einschaltet
 
 -------------
 8ace24605d0c63b86a8cf5738586e89033ba1750
