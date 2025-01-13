@@ -34,4 +34,11 @@ Mon Jan 13 06:33:54 AM CET 2025
 
 da gibt es glaub jetzt ein neues Verzeichnis um root des repositories dafür ab sofort
 
+=> hacker-notes-s24m11/fluffyfoxVisionONE/
+
+-------------
+f7d00e0d35de2212e2b3fba83470e5807cbd2cb0
+Mon Jan 13 07:33:06 AM CET 2025
+f782b072e9ddb833752657ba092fe8a192d7319e
+-------------
 
