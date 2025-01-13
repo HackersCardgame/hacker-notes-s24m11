@@ -46,5 +46,61 @@ Mon Jan 13 10:11:00 AM CET 2025
 7d7469af1b03023219a855395c413ffa709cfd5c
 -------------
 
+-------------
+7d7469af1b03023219a855395c413ffa709cfd5c
+Mon Jan 13 10:50:12 AM CET 2025
+40fa274e6bc39e16a5b7f3375d3af84af1bad8db
+-------------
+
+marc@debian:~/hacker-notes-s24m11/tools$ figlet CC: FEDPOL
+  ____ ____     _____ _____ ____  ____   ___  _     
+ / ___/ ___|_  |  ___| ____|  _ \|  _ \ / _ \| |    
+| |  | |   (_) | |_  |  _| | | | | |_) | | | | |    
+| |__| |___ _  |  _| | |___| |_| |  __/| |_| | |___ 
+ \____\____(_) |_|   |_____|____/|_|    \___/|_____|
+                                                    
+marc@debian:~/hacker-notes-s24m11/tools$ figlet CC: INTERPOL
+  ____ ____     ___ _   _ _____ _____ ____  ____   ___  _     
+ / ___/ ___|_  |_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+| |  | |   (_)  | ||  \| | | | |  _| | |_) | |_) | | | | |    
+| |__| |___ _   | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+ \____\____(_) |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+
+
+
+UNBEKANNT:
+
+" DU Marc jr Landolt bist ein massives Sicherheitsrisiko für die Landessicherheit "
+
+
+ich:
+
+Ich bin das Sicherheitsrisiko? Also ich welcher rausgefunden hat dass Eure Systeme wo Ihr Milliarden-Budget vom Steuerzahler rupft "gegen Terroristen" eigentlich dazu da sind Wirtschaftsspionage, Vergewaltigungen und Mord zu vertuschen und dass EURE Systeme nicht dafür sind "Terroristen zu fangen" sondern um Menschen zu Amokläufern und Terroristen abzurichten bin das Sicherheitsrisiko ???
+
+WTF !!!!!!!!
+
+marc@debian:~/hacker-notes-s24m11/tools$ figlet W T F 
+__        __  _____   _____ 
+\ \      / / |_   _| |  ___|
+ \ \ /\ / /    | |   | |_   
+  \ V  V /     | |   |  _|  
+   \_/\_/      |_|   |_|    
+                            
+
+
+marc@debian:~/hacker-notes-s24m11/tools$ figlet CC: FEDPOL
+  ____ ____     _____ _____ ____  ____   ___  _     
+ / ___/ ___|_  |  ___| ____|  _ \|  _ \ / _ \| |    
+| |  | |   (_) | |_  |  _| | | | | |_) | | | | |    
+| |__| |___ _  |  _| | |___| |_| |  __/| |_| | |___ 
+ \____\____(_) |_|   |_____|____/|_|    \___/|_____|
+                                                    
+marc@debian:~/hacker-notes-s24m11/tools$ figlet CC: INTERPOL
+  ____ ____     ___ _   _ _____ _____ ____  ____   ___  _     
+ / ___/ ___|_  |_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+| |  | |   (_)  | ||  \| | | | |  _| | |_) | |_) | | | | |    
+| |__| |___ _   | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+ \____\____(_) |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+
 
 
