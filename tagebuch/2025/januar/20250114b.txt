@@ -25,3 +25,11 @@ Tue Jan 14 08:46:11 AM CET 2025
 abfe26177259717d8f350df1ae6d75604f3a11e1
 -------------
 
+und parallel klingelt telegram messenger ein paar mal, vermutlcih messagning queue...
+
+-------------
+abfe26177259717d8f350df1ae6d75604f3a11e1
+Tue Jan 14 08:50:37 AM CET 2025
+90da04541f7ab110483da485308b2f659d897656
+-------------
+
