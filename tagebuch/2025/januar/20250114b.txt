@@ -33,3 +33,11 @@ Tue Jan 14 08:50:37 AM CET 2025
 90da04541f7ab110483da485308b2f659d897656
 -------------
 
+dann als weiteres stöckchen wird eine GUI funktion deaktiviert um mich in den "dauer probieren" und "stöckchen suchen" modus zu schalten
+
+-------------
+90da04541f7ab110483da485308b2f659d897656
+Tue Jan 14 08:52:34 AM CET 2025
+85c81f03d1dc3ece9db6cce214faf5ecba59b1b2
+-------------
+
