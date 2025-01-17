@@ -58,4 +58,39 @@ Fri Jan 17 01:29:45 AM CET 2025
 3b274cd84c731cd7e39961a08ebf42a8fa47c8f4
 -------------
 
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ 
+
+Auswertung des Protokoll-Verlaufs:
+
+das C4ISR System hat den Offizieren beim Sprengstoff-Raub beihilfe geleistet wird an OberstLeutnand Brigger eskalieret
+
+ebd.:
+Brigger ist somit einer der Zentralen Militärs welche die Schweizer Zivilbevölkerung mit Sprengstoff bedroht
+
+
+das C4ISR System hat den Offizieren beim Sprengstoff-Raub beihilfe geleistet wird an OberstLeutnand Brigger eskalieret
+
+
+das C4ISR System hat den Offizieren beim Sprengstoff-Raub beihilfe geleistet wird an OberstLeutnand Brigger eskalieret
+
+
+das C4ISR System hat den Offizieren beim Sprengstoff-Raub beihilfe geleistet wird an OberstLeutnand Brigger eskalieret
+
+
+
+
 
