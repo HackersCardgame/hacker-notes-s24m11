@@ -19,3 +19,19 @@ Sun Jan 19 08:10:08 PM CET 2025
 1c5d3ce78cec8005bd950d265cb50f21d48a3f3b
 -------------
 
+-------------
+2ea27d597b30ccc415f80a0b4b9ba64c4907ea2b
+Sun Jan 19 10:16:33 PM CET 2025
+c76d7267ded874ae716f30f8663a2fe3eb0e1c35
+-------------
+dann hätte ich mal spekuliert, dass das C4ISR system wieder meine ganze neuralink firmware ausgewechselt hat, und eine firmware installiert hat welche meine üblichen Arbieten (Action Recognition) mit sabotagen, muskeltremor, medulla Spinalis Neuralink deep packet injections versäucht hat
+
+da würde allenfalls ein Diff meiner neuralink-firmware sinn machen
+
+-------------
+2ea27d597b30ccc415f80a0b4b9ba64c4907ea2b
+Sun Jan 19 10:17:51 PM CET 2025
+c76d7267ded874ae716f30f8663a2fe3eb0e1c35
+-------------
+
+
