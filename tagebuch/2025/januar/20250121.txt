@@ -26,12 +26,14 @@ das ist mir schon mal passiert, aber ich hab gedacht es sei ein Bedienungsfehler
 * nur 12.-- (hmmmm, da stimmt etwas nicht)
  -> genauer schauen: es hat [1] eine Bodylotion wieder gelöscht
  
- [1] SPAM um die Aussage zu verhindern, sprachsample von Urs Blum [Weine Landolt]
+ [1] SPAM um die Aussage zu verhindern, sprachsample von Urs Blum [Weine Landolt] 
 
 * Dann wäre die Schnellkasse selber der Täter
 * somit wären die Schnellkassen Dual Use
   - Verkauspersonal einsparen
   - Zeugen welche die CH-Army mit Raub, Vergewalitgungen und Mord in verbindung bringen kann als Laden-Dieb bezichtigen [2]
+  - dann in der psychiatrie verwahren lassen
+  - dann mit intelligenz-verblödungsmeidkamenten headshotten ähm "behandeln"
   
 [2] Das ist so ähnlich schon mal im Coop passiert als ich dann ins Spital musste ein CT machen und eine Narbe an meiner Strin geäht werden musste
 * Wo dann die Polizei "meinen Rucksack auf diebesguet untersuchen musste"
@@ -44,9 +46,37 @@ während induzierter Epilepsie übermittelt worden ...
 "liquidiert die polizsten, wenn die reden gehen wir in den knast"
 Dann diese Aussage wurde jetzt scheinbar eingefügt um die Aussage bei [2] zu spammen welche massiv wichtiger ist als irgendwelche polizsiten welche schmiergelder nehmen und auftragsmorde für die Zürich verischrung verüben
 
+"weine Landolt" bei [1] wäre somit ein Selektor mehrere Fremdspuren oder Autotexte mit Fremdspuren, Bezichtingungen ... einzufügen
+
+=> zurück zu zeile 34 bei [2]
+
+ich schreib das jetzt nochmals um die unkenntlichkeitmachung wieder zu entfernen
+
 -------------
 2af56677c23c317a8bd88488274b181f4e4050c6
 Tue Jan 21 05:24:58 PM CET 2025
 a31f73f378115515edb9c635c85cf28ee91e3687
 -------------
-	
+
+W O R D: EigenGOAL.ch
+
+das ist mir schon mal passiert, aber ich hab gedacht es sei ein Bedienungsfehler von mir selber gewesen:
+
+* Zahlen an der Migros Schnellkasse
+ 2x Seife Nachfüllbeutel (weil weniger Plastik Umwelt Verschwendung)
+ 2x Seife neue Packung, weil die alten sind schon ziemlich kaputt und mindestens 3 jahre alt
+ 2x Bodylotion 
+   1x gescannt
+   1x den Zähler Knopf am Touchscreen der Migros Kasse ...
+      ... von 1 auf 2 Stück erhöht
+* Bezahlt mit EC-Karte
+* auf Kassenzettel geschaut
+* nur 12.-- (hmmmm, da stimmt etwas nicht)
+ -> genauer schauen: es hat eine Bodylotion wieder gelöscht
+* Dann wäre die Schnellkasse selber der Täter
+* somit wären die Schnellkassen Dual Use
+  - Verkauspersonal einsparen
+  - Zeugen welche die CH-Army mit Raub, Vergewalitgungen und Mord in verbindung bringen kann als Laden-Dieb bezichtigen [2]
+  - dann in der psychiatrie verwahren lassen
+  - dann mit intelligenz-verblödungsmeidkamenten headshotten ähm "behandeln"
+
