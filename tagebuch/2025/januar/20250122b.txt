@@ -14,3 +14,11 @@ Wed Jan 22 08:06:29 PM CET 2025
 675a4df1e7d5f1c626cd377f60262c353e0ed9d4
 -------------
 
+und auch die telegramm VM viel häufiger crashen lässt
+
+-------------
+675a4df1e7d5f1c626cd377f60262c353e0ed9d4
+Wed Jan 22 08:07:01 PM CET 2025
+9f16f793db0677387ac451fa4fc71a70b156a501
+-------------
+
