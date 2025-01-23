@@ -38,7 +38,8 @@ for sentence in "${sentences[@]}"
   echo
   count=0
   #if [[ "$sentence" == *"assistant secretary of state Philip Gordon"* ]];
-  if [[ "$sentence" == *"meeting with a US congressional delegation, for example, links them "* ]];
+  #if [[ "$sentence" == *"meeting with a US congressional delegation, for example, links them "* ]];
+  if [[ "$sentence" == *"and the 1949 Geneva Convention"* ]];
   then
     mark=1
   fi
