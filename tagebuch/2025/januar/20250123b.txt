@@ -81,7 +81,7 @@ Thu Jan 23 04:32:09 AM CET 2025
 dann ist die ca 4. stufe malware scheinbar so, dass dann geschaut wird, dass immer noch eine weitere datei mehr in dem zu brennenden verzeichnis ist um das verzeichnis aufzublasen und dann so über der maximalen grenze des datenträgers zu sein und den zu verhindern dass marc jrl andolt bewiesmittel welche die 
 Ch-Army mit vorsätzlichen ressourcen kreigen in verbindung bringt zu sichern
 
-
+cd oder dvd wäre eigentlich meiner expertise nach nicht so der dümmste langzeit speicher...
 
 -------------
 3847ad0bb081e3346f6e5d9db7a5702b75edc208
@@ -89,3 +89,7 @@ Thu Jan 23 04:37:44 AM CET 2025
 09dfbbdba547ae2b4da65def666d0eacf0792682
 -------------
 
+dann ist die ca 5. stufe malware: der datenträger kann nicht gelesen werden
+normale nicht autistische meschen wären schon lange suizid oder amok gelaufen
+
+dann vermutlcih sobald der computer online ist uplaedet es den zustand, dann wird der irgend auf einem separaten netzwerk / vm ware sabptiert
