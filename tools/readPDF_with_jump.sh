@@ -39,7 +39,8 @@ for sentence in "${sentences[@]}"
   count=0
   #if [[ "$sentence" == *"assistant secretary of state Philip Gordon"* ]];
   #if [[ "$sentence" == *"meeting with a US congressional delegation, for example, links them "* ]];
-  if [[ "$sentence" == *"and the 1949 Geneva Convention"* ]];
+ # if [[ "$sentence" == *"and the 1949 Geneva Convention"* ]];
+  if [[ "$sentence" == *"a"* ]];
   then
     mark=1
   fi
