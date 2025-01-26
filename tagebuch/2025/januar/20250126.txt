@@ -310,9 +310,41 @@ Sun Jan 26 06:55:42 PM CET 2025
 
 also diese sorte von malware gegen kinder welche an raspberry freude haben oder gegen menschen wie der tom der sehr wenig budget hat und sich keinen super überteuerten computer leisten können wären per design als nicht lösbare endlos sandgrupen geplant, wo dann zusätzlich a16 karten aktiviert werden um den zeugen oder das kind oder das pädophilie opfer in den suizid zu treiben (einwirkungsdauer undendlich)
 
+dann chatgpt sagt noch /dev/sdb2 auf /mnt und /dev/sdb1 auf /mnt/boot, dann chroot'en [1] und update-initramfs -u, aber selbes resultat. interessant auch dass das bei verschiedenne distros und versdchiedener hardware der selbe fehler ist 
+
+[1] braucht selber arch, also auf armhf geht nur ein armhf stick oder ein arm64 in einem arm64
+
+also vorsätzliche planung eine endless suizid death bots, wo mit sehr hoher wahrscheinlichkeit die UPC massgeblcih beteilgt ist
+
+somit verrät UPC alle internet service provider weltweit, dass EINIGE herren dort ihre kohle vor allem mit auftragsmorden für die armee oder wirtshcaftskriminelle verdienen
+
 -------------
 0a816128b94c79a2179639e69c1164f06adba3c8
 Sun Jan 26 07:01:21 PM CET 2025
 33b66c849b89dea559455825f2b6321beb249335
 -------------
 
+dann im (init)
+
+(init) ls /dev/mmc...
+
+da wird einfach remote der datenträger oder dessen cpu resettet, so etwas wie power-glitching ... allenfalls eventtrigger sobald er auf die root partition zugreift
+
+dann im busybox (init) ist bereits ein haptik-trojaner aktiv der scheinbar auf mein eeg zugriff aht und versucht suziidalität zu vergrössern
+
+-------------
+33b66c849b89dea559455825f2b6321beb249335
+Sun Jan 26 07:19:26 PM CET 2025
+15085156fb1f6952556c73d2ca8c06380c8104de
+-------------
+
+Dann hat jetzt urs blums und walter briggers C4ISR system virtuell auf meine Kniehe geschossen, also chemitroden die aktiviert wurden...
+
+... sugestiv scheissbefehl, jemandem (virtuell) in die Kniehe schiessen würde "verteidigung" suggerieren ... aber dass es terrorismus ist durch das netzwerk von pfsiterer, brigger und blum ist ja mittlerweile jedem klar
+
+-------------
+33b66c849b89dea559455825f2b6321beb249335
+Sun Jan 26 07:32:55 PM CET 2025
+15085156fb1f6952556c73d2ca8c06380c8104de
+-------------
+ 
