@@ -281,3 +281,15 @@ Sun Jan 26 06:33:19 PM CET 2025
 6050b1443e4eb68104b4058e3312a155321d402e
 -------------
 
+dann egal ob raspberry, organge pi, was auch immer pi, das blockiert dann immer bei init ramfs. wäre vermutlcih automatisierte sabotage, auch egal ob man ein rasbian oder ein armbian nimmt, sobald die triebtäter mit offizierstitel die seriennummer / hardware serinnummer des datenträgers haben kann man das vergessen, stundenlang probieren, bis man so psychotisch ist dass man versucht vom balkon zu springen [1]
+
+[1] apropos staatsanwalt marco Spring(-vom BAlkon), auch eine eher ungüngstige namenswahl, HR der Staatsanwälte???
+
+also automated raspberry sabotage algorithmen, möglicher eingang der blackhats wäre sd-karten welche von dem UPC modem grad real time sabotiert werden
+
+-------------
+6050b1443e4eb68104b4058e3312a155321d402e
+Sun Jan 26 06:36:52 PM CET 2025
+893791dd73ca2ef841a17f98fe601a9d53aee429
+-------------
+
