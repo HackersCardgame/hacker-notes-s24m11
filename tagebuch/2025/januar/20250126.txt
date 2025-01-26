@@ -122,3 +122,11 @@ Sun Jan 26 05:46:05 PM CET 2025
 9e32e6ff682458f12552895cdf5211fe1c969809
 -------------
 
+ich dneke da ist in udisks2 ein zusätzlicher zensur layer welcher ein flag besitzt dass man den daenträger ncith merh rw mounten kann, aber nicht 199% sihcer
+
+-------------
+9e32e6ff682458f12552895cdf5211fe1c969809
+Sun Jan 26 05:47:12 PM CET 2025
+81476a52bc2df4e30c0c67141da3cd5ac45c807c
+-------------
+
