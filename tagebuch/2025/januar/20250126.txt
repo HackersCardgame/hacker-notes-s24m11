@@ -69,3 +69,13 @@ Sun Jan 26 05:15:06 PM CET 2025
 97cacc82eddda4e48df43765f940e50da1005ec3
 -------------
 
+das mti der Malware in UNXZ in der presse war kein bugfix sonder ein annoucnement einer neuen malware
+
+bugReports/dannWennBriggerMerktDassIChGemerktHabeVersuchtEr0daysEinzuschleusenScreenshot From 2025-01-26 17-29-04.png
+
+-------------
+97cacc82eddda4e48df43765f940e50da1005ec3
+Sun Jan 26 05:30:35 PM CET 2025
+7b29ebb5a5b4dc0ae686aceab045ace7ce29b1b1
+-------------
+
