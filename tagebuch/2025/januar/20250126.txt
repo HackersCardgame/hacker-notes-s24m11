@@ -196,9 +196,36 @@ Sun Jan 26 06:05:51 PM CET 2025
 -------------
 ich: falls pfisterer jetzt alle umbringen will die das verraten haben müsste man schauen dass die herren uhaft/schutzhaft verwahrt werden bevor sie als künftige whistleblower vernichtet werden
 
+
+
 -------------
 9853441a5a9e8892d2c236bf196ba53f641301e8
 Sun Jan 26 06:06:45 PM CET 2025
 fbdfd6bed765907f4064c4064590b2a855176121
+-------------
+
+und auch erst spekulation, aber ALLENFALLS geht das wie in den Dokumenten in Jake Badewannen-ioerror Appelbaum's Talk "to protect and infect part 2" nur mit FAT, also bin grad am probieren aber allenfalls kann man das mti 
+
+xz --test raspberri.img.xz und dann
+xzcat rasberry.img.xz | dd of=/dev/sdX bs=4M status=progress
+
+ZUR ZEIT umgehen...
+
+aber noch nix sicher
+
+-------------
+fbdfd6bed765907f4064c4064590b2a855176121
+Sun Jan 26 06:20:56 PM CET 2025
+524e4c2b2ac48f91afe6aa0b8ea52015d1456517
+-------------
+
+dann zielt das explizit auf junge nerds welche nicht das geld haben für ienen intel super duper core i9 computer sondern nur sich raspberries leisten können, aber auch gegen unterschicht
+
+so wie man auf mich hat angenfagen zu shciessen als ich so mit 14 jahren ein assmebler buch im meissner aarau gekauft habe
+
+-------------
+fbdfd6bed765907f4064c4064590b2a855176121
+Sun Jan 26 06:22:13 PM CET 2025
+524e4c2b2ac48f91afe6aa0b8ea52015d1456517
 -------------
 
