@@ -237,3 +237,47 @@ Sun Jan 26 06:24:43 PM CET 2025
 2830d2bd129962c119b013fb983d3cd8146a52e3
 -------------
 
+
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m11$ 
+
+
+somit wäre "my educated best guess" ...
+
+... als Offizier welcher sich in Flagranti beim Vergewaltigen einer minderjährige wie der Desiree Lö. hat Fotographieren lassen und zwnagsweise ein zensurnetzwerk aufbauen muss (fall regli 1999?) würde man VERMUTLICH so nahe wie möglich an den Daten sein wollen, entweder auf der Firmware des Harddisk / Datenträger CPU's oder direkt auf dem Spehcer-Chip
+
+marc@debian:~/hacker-notes-s24m11$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m11$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m11$ 
+
+-------------
+2830d2bd129962c119b013fb983d3cd8146a52e3
+Sun Jan 26 06:33:19 PM CET 2025
+6050b1443e4eb68104b4058e3312a155321d402e
+-------------
+
