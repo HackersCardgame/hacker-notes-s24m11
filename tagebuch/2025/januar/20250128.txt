@@ -362,4 +362,9 @@ sicher n > 1 weil wenn eines auffliegt und wenn eines behoben wird dass man
 und da gäbe es etwas wie ein Ant Colony Optimaziotion Routing auf ebene der Eingänge zu einem Computer eines Zeugen, eines Opfers oder eines Autisten welcher solche dinge schon als 20 jähriger aufgefallen sind
 
 
+-------------
+32907b964899b14ae72d2be3c2539cc6e473f99e
+Tue Jan 28 11:10:03 AM CET 2025
+b3367a09d48537d25fdda341827612ee8e6b7ef1
+-------------
 
