@@ -484,7 +484,7 @@ erster aufboot geht, dann allenfalls etwas wie iratemonk auf der cpu der sdkarte
 
 Allenfalls mal specs zu sd-karten genauer anschaen WENN ich zeit hätte für so etwas
 
-bzw. auch zB der ef2toos würde ja zum umpartitionieren verwendet werden, allenfalls auch dort drin, dann würde mit dem glücksspiel gesetz eine fehlerhaftes asus tinkerboard image ausgelifert
+bzw. auch zB der ef2toos würde ja zum umpartitionieren verwendet werden, allenfalls auch dort drin, dann würde mit dem glücksspiel gesetz eine fehlerhaftes asus tinkerboard image ausgelifert, und dann können die auch den kontroll hash auf der websetite zB mit Etterfilter oder so wechseln ...
 
 -------------
 0e9906b8e553e120d0951f4cc9d896ac185e32cf
