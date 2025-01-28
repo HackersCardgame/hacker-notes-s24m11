@@ -188,3 +188,15 @@ Tue Jan 28 06:41:20 AM CET 2025
 fb286f13e0473d0c2af0f5f720f8e0c51c23814b
 -------------
 
+also da wurde das Pairing zwischen stick und kopfhörer aufgehoben, an einem computer der offline war ausser für das windows update
+
+das mainboard hat keine wifi karte welche hätte umfunktioniert werden
+
+logitech lightspeed adapter hätten somit vermutlich auch die möglichkeit keystrokes zu injecten, allenfalls muss man die zuerst zur waffe aktivieren mit einer von logitech selber vorgefertigetn alternativen firmware
+
+-------------
+fb286f13e0473d0c2af0f5f720f8e0c51c23814b
+Tue Jan 28 06:44:58 AM CET 2025
+20fca8d0c7642b9ed97fdc68e3bea6d9c17782ba
+-------------
+
