@@ -478,4 +478,16 @@ Tue Jan 28 11:48:39 AM CET 2025
 82ddd8818aecba03d3081f2f5cf7177e7e5b8c31
 -------------
 
+Dann baustelle SD-Karten (Zeile 359)
+
+erster aufboot geht, dann allenfalls etwas wie iratemonk auf der cpu der sdkarte welche erkennt dass das erste mal ab einem one-board-computer gebootet wurde, dnan denn bootsektor startet + eine a16 (suizid death bot) karte startet, interaktiv, mit zugriff auf icd10 g40.2, versucht den fokus auf sich zu ziheen, immer ein bisschen leine gehben, dann wieder dy/dt udn nicht lösbar, bzw. nicht sicher, könnte shcon auch funk kanal sein wie Eye-Fi
+
+Allenfalls mal specs zu sd-karten genauer anschaen WENN ich zeit hätte für so etwas
+
+-------------
+0e9906b8e553e120d0951f4cc9d896ac185e32cf
+Tue Jan 28 12:31:27 PM CET 2025
+736dd273976bfa2ebc1706b2e7dbb469b90f8300
+-------------
+
 
