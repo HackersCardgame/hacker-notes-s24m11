@@ -492,4 +492,13 @@ Tue Jan 28 12:31:27 PM CET 2025
 736dd273976bfa2ebc1706b2e7dbb469b90f8300
 -------------
 
+zweiter versuch mit armbian statt mit dem image von ASUS
+
+bootet bisher, andere karte
+
+-------------
+0d4465e503c29be23ffc90521857e5c474e2e1ee
+Tue Jan 28 12:35:41 PM CET 2025
+abad746b2705cd19acb391fd931f2e4c91a9aa9e
+-------------
 
