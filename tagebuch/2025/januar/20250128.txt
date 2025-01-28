@@ -357,7 +357,10 @@ sicher n > 1 weil wenn eines auffliegt und wenn eines behoben wird dass man
 
 * Logitech
 * SD-Karten mit geheimem Eye-Fi
-* 
+* dann vermutlich den Edge-Router
+* das DOCSIS Modem von UPC
+* der UPC Backbone selber welche die DNSSEC mit dem Glücksspiel-Gesetz aufgebrochen hat
+* ...
 
 und da gäbe es etwas wie ein Ant Colony Optimaziotion Routing auf ebene der Eingänge zu einem Computer eines Zeugen, eines Opfers oder eines Autisten welcher solche dinge schon als 20 jähriger aufgefallen sind
 
