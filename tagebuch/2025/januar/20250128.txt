@@ -502,3 +502,11 @@ Tue Jan 28 12:35:41 PM CET 2025
 abad746b2705cd19acb391fd931f2e4c91a9aa9e
 -------------
 
+dann armbian geht scheinbar, andere sd karten hersteller, aber die ACO Routing werden einen anderen weg suchen um dann dann dieses auch mit einer a16 karte zu infizieren
+
+-------------
+abad746b2705cd19acb391fd931f2e4c91a9aa9e
+Tue Jan 28 12:47:33 PM CET 2025
+bfe64cbed2597ea33e88d7169f0476fb34a0417a
+-------------
+
