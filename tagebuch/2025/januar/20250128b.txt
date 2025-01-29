@@ -1,0 +1,37 @@
+-------------
+128814cc5013e2c751b729eeacb46d8f1f0b5223
+Tue Jan 28 10:49:16 PM CET 2025
+aed06e6dbf8d00fcfd0edddcd3999550fbe04468
+-------------
+
+tinkerboard v1 geht beim ersten mal
+-> bei der zweiten SD-Karte hat es wieder einen ioerror und bootet nicht mehr
+
+dann sobald man etwas macht versucht das ding die ganze aufmerksamkeit auf sich zu ziehen, und gibt sich auch mühe möglichst viel zeit zu verschwenden, z.B. recovering journal, und auch SD Karte image kopieren viel zu langsam auf einem x86
+
+also so etwas wie interaktive sandgruben um meine zeit zu berschwenden mit a16 karte welche mich psychotisch machen will und nach ca 1-2h fehlersuche schaltet icd10 g40.2 ein und versucht mich suizidal zu machen
+
+
+sowohl beim Raspberry 3b mit Rasbian als auch beim organe pi4 bootet es beim ersten mal, sogar mit gnome beim orange pi4, dann beim zweiten boot bleibt es wieder bei (init) stehen, bzw. beim orange pi4 ist es bisschen anders da sieht man nicht dass es beim init stehen bleibt wegen polymouth bootup grafik bild
+
+-------------
+128814cc5013e2c751b729eeacb46d8f1f0b5223
+Tue Jan 28 10:51:43 PM CET 2025
+aed06e6dbf8d00fcfd0edddcd3999550fbe04468
+-------------
+
+-------------
+128814cc5013e2c751b729eeacb46d8f1f0b5223
+Wed Jan 29 09:01:26 AM CET 2025
+aed06e6dbf8d00fcfd0edddcd3999550fbe04468
+-------------
+
+herr urs blum und hr dr hansjürg pfisterer scheinen auch den nachbar [1] so lange zu grillen, dass der nachbar ca 10x etwas wie die tür eines hundekäfigs zuknallt drekt oben in der wohnung über meinem bett.
+
+Wechung, schlafdeprivation, revictimizing der taten von porno-fahnder mattihas berner und polizist michael ritter, fremdspurlegung und fokus auf den nachbar, soll sendeninfrasturktur tarnen
+
+danach schaltet der loop "sprengfallendrohung/terrordrohung durch urs blum" wieder ein.
+
+also littel albert experiment, bezichtigung als revicitimizing und tarnung der sendeinfrsaturktur mti einer objektfixierung auf den hundekäfig oder was das auch immer ist
+
+[1] irgend aus protugal oder brasilien der neu in der schweiz ist
