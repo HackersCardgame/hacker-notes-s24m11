@@ -1,0 +1,1360 @@
+%% Erläuterungen zu den Befehlen erfolgen unter
+%% diesem Beispiel.
+\documentclass[a4paper]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{graphicx}
+\usepackage{color}
+
+\newcommand\bigforall{\mbox{\huge $\forall$}} 
+\newcommand\bigexists{\mbox{\huge $\exists$}} 
+
+
+
+\definecolor{liteGray}{rgb}{0.9,0.9,0.9}
+ 
+\title{Formelsammlung Mathematik}
+\author{Marc Landolt}
+\date{4. Februar 2012}
+\begin{document}
+ 
+\maketitle
+\tableofcontents
+
+\section*{Vorwort}
+Dies ist meine Formelsammlung aus dem Unterricht an der ABB Technikerschule und verschiedenen Fachhochschulen. Ich Danke Claudine Blum für ein schönes Jahr in meinem Leben.
+%%Ich danke niemandem für seine Treue oder seine Mithilfe oder seinem seelischen Beistand. Ich danke den Kindern der (ehemaligen) Stadträte, und Staatsangestellten von Aarau, dass sie mich zuerst in ihre Gruppe aufgenommen haben und danach verstossen haben, es gibt keine bessere Möglichkeit die Psychologie eines einsamen Menschen zu Studieren als diesen Weg. Ich danke Claudine Blum für ein gutes Jahr in meinem Leben, auch wenn sich danach mein Leben und meine Gesundheit massiv verschlechtert hat, aber sich dadurch meine Motivation mich weiterzubilden massiv verstärkt hat, wenn gleich mir das in der Berufswelt mir nur ärger bereitet hat. Aber dennoch soll sie wissen dass ich Sie noch liebe.
+Die Formelsammlung wurde erstellt mit \LaTeX{}
+
+\newpage
+
+\section{Zahlen}
+\subsection{Arabische Ziffern}
+$1, 2, 3, 4, 5, 6, 7, 8, 9, 0$
+
+\subsection{Kardnalzahlen}
+Kardinalzahlen sind die natürlichen Zahlen eine mögliche Menge von Grundzahlen
+
+\subsection{Ordinalzahlen}
+Ordinalzahlen sind die natürlichen Zahlen als geordnete Menge mit einem möglichen Abbruch
+Sie werden für das Konzept der Indexierung verwendet
+
+\subsection{Zahlenstrahl}
+\includegraphics{images/zahlenstrahl.eps}
+\newline
+
+\section{Variablen}
+\subsection{Variablen}
+$x,y,z$
+\newline
+\newline
+Platzhalter statische oder variable Rechengrösse
+
+\subsection{Formvariablen (Parameter)}
+$a,b,c$
+\newline\newline
+Variabel die gemeinsam mit anderen Variablen auftritt. Die Formvariablen müssen beim Addieren gleich sein. werden ungleiche Formvariablen addiert geht die Rechnung nicht auf.
+\newpage
+
+\subsection{Winkel}
+Für Winkel werden die Griechischen Buchstaben verwendet
+
+\subsubsection{Griechisches Alphabet}
+\begin{align}
+\begin{tabular}{|c|c|l||c|c|l|}
+\textbf{Gross} & \textbf{klein} & \textbf{Name} & \textbf{Gross} & \textbf{klein} & \textbf{Name} \\
+\hline
+A & $\alpha$ & Alpha & N & $\nu$ & Ny \\
+B & $\beta$ & Beta & $\Xi$ & $\xi$ & Xi \\
+$\Gamma$ & $\gamma$ & Gamma & O & o & Omikron \\
+$\Delta$ & $\delta$ & Delta & $\Pi$ & $\pi$ & Pi \\
+E & $\epsilon$ & Epsilon & P & $\rho$ & Rho \\
+Z & $\zeta$ & Zeta & $\Sigma$ & $\sigma$ & Sigma \\
+H & $\eta$ & Eta & T & $\tau$ & Tau \\
+$\Theta$ & $\theta$ & Theta & Y & $\upsilon$ & Ypsilon \\
+I & $\iota$ & Iota & $\Phi$ & $\phi$ & Phi \\
+K & $\kappa$ & Kappa & X & $\chi$ & Chi \\
+$\Lambda$ & $\lambda$ & Lambda & $\Psi$ & $\psi$ & Psi \\
+M & $\mu$ & My & $\Omega$ & $\omega$ & Omega \\
+\end{tabular}
+\end{align}
+\newline
+\newpage
+
+\section{Aussagenlogik }
+
+\subsection{Axiom}
+
+\subsection{Streng deduktiv}
+Aussagen können nur gemacht werden mit Hilfe von vorher bewiesenen Sätzen. Dennoch müssen zu beginn einige Sätze angenommen werden die nicht mit einer Beweiskette bewiesen sind. Diese Sätze nennt man Axiom oder Postulat- \\
+\\
+\begin{align}
+a = b \wedge a=c \Rightarrow b=c\\
+a+x=c \wedge b+x=c \Rightarrow a=b\\
+a=b \wedge a-x=c \wedge b-x=d \Rightarrow a=b
+\end{align}
+
+\subsection{Aussage}
+Eine Aussage ist ein Satz der entweder richtig oder falsch ist.
+
+\subsection{Negation}
+\begin{align}
+Negation einer Aussage = \neg (Aussage) = \overline{Aussage}
+\end{align}
+
+\subsection{Aussageform}
+Subjekt und auch Prädikat kann durch eine Variabel ersetzt werden. Sie enthält mindestens eine Variabel
+
+\subsection{Subjekt}
+
+\subsection{Prädikat}
+
+\section{Oder, Oder-Aussage, Einschliessende Oder}
+Oder: $\vee$ \\
+
+\begin{align}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{A (MSB)} & \textbf{B} & $\bf{A \vee B }$ \\
+\hline
+0&0&0 \\
+0&1&1 \\
+1&0&1 \\
+1&1&1 \\
+\hline
+\end{tabular}
+\end{align} \\
+
+\subsection{Programmiersprachen}
+die Meisten Programmiersprachen nutzen ||
+
+\subsection{Äquivalenz}
+Äquivalenzsymbol $\leftrightarrow$ \\
+Dies beweist man im Normalfall in dem man zuerst die Implikation $A \rightarrow B$ beweist und danach die Implikation $A \leftarrow B $ \\
+
+\subsubsection{Kommutativgesetz der Oder Verknüpfung}
+\begin{align}
+A \vee B \leftrightarrow B \vee A
+\end{align}
+
+\subsubsection{Assoziativgesetz der Oder Verknüpfung}
+\begin{align}
+(A \vee B) \vee C \leftrightarrow A \vee (B \vee C)
+\end{align}
+
+\section{Und-Aussage}
+Und: $\wedge$ \\
+\begin{align}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{A (MSB)} & \textbf{B} & $\bf{A \wedge B }$ \\
+\hline
+0&0&0 \\
+0&1&0 \\
+1&0&0 \\
+1&1&1 \\
+\hline
+\end{tabular}
+\end{align} \\
+
+\subsection{Sheffer-Operator}
+
+\subsection{Peirce-Operator}
+
+\subsection{Es Falso quodlibet}
+
+\subsection{Äquivalenz}
+Äquivalenzsymbol $\leftrightarrow$
+
+\subsubsection{Kommutativgesetz der Und Verknüpfung}
+\begin{align}
+A \wedge B \leftrightarrow B \wedge A
+\end{align}
+
+\subsubsection{Assoziativgesetz der Oder Verknüpfung}
+\begin{align}
+(A \wedge B) \wedge C \leftrightarrow A \wedge (B \wedge C)
+\end{align}
+
+\subsection{Programmiersprachen}
+die Meisten Programmiersprachen nutzen \$\$ \\
+
+\subsection{Gesetz von De Morgan}
+\begin{align}
+\boxed {
+\neg (A \vee B) = (\neg A) \wedge (\neg B) } \\
+\boxed {
+\neg (A \wedge B) = (\neg A) \vee (\neg B) }
+\end{align}
+dieses scheint auch für 3 Variablen zu gelten
+
+\section{Operatoren Priorität}
+$\neg$ \\
+$\wedge$ \\
+$\vee$ \\
+
+\section{Implikation}
+Definition: Die Implikation $A \rightarrow B$ ist falsch wenn A wahr ist und B falsch. Das heisst aus A folgt zwangsläufig B aber B kann auch durch andere Umstände wahr sein. //
+\begin{align}
+\boxed{A \rightarrow B  \leftrightarrow \neg A \vee B }
+\end{align}
+\begin{align}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{A} & \textbf{B} & $\bf{A \rightarrow B }$ & $ \bf{\neg A} $ & $ \bf{\neg A \vee B} $ \\
+\hline
+0&0&1&1&1 \\
+0&1&1&1&1 \\
+1&0&0&0&0 \\
+1&1&1&0&1 \\
+\hline
+\end{tabular}
+\end{align} \\
+Also wenn z.B. der Vater Mafiosi ist ist es eher unwahrscheinlich, dass es der Sohn nicht ist, es kann aber gut sein, dass der Sohn zur Mafia kommt ohne dass sein Vater dabei ist. \\
+:\%s/Mafia/Militär/g \\
+(folglich "Platon -- Protagoras" mit der Zentralen Frage: "ist das 'Gut-Sein' lernbar" bzw. Zitat: "daß die Athener derselben Meinung sind, und daß es endlich gar nicht wundersam ist, wenn Söhne guter Väter schlecht und Söhne schlechter Väter gut geraten") \\
+
+\subsection{Verneinung der Implikation}
+\begin{align*}
+\boxed{\neg (A \rightarrow B) \leftrightarrow \neg (\neg A \vee B) \leftrightarrow (A \wedge \neg B) }
+\end{align*}
+\begin{align}
+\boxed{
+(A \rightarrow B) \leftrightarrow ((\neg B) \rightarrow (\neg A)) 
+}
+\end{align}
+
+Beweis: 
+\begin{align}
+((\neg B) \rightarrow (\neg A)) \leftrightarrow (\neg (\neg B) \vee (\neg A)) \\
+(\neg (\neg B) \vee (\neg A)) \leftrightarrow ((\neg A) \vee (B)) \\
+((\neg A) \vee (B)) \leftrightarrow A \rightarrow B \\
+A \rightarrow B  
+\end{align}
+Beispiel:
+\begin{align}
+x>10 \rightarrow x^2>100 (A \rightarrow B) \\
+x^2\leqslant 100 \rightarrow x \leqslant 10 (\neg B \rightarrow \neg A)
+\end{align}
+\begin{align}
+\colorbox{liteGray}{Die Implikation $(\neg B) \rightarrow (\neg A)$ nennt man \bf{Kontraposition} zu $A \rightarrow B$}
+\end{align}
+
+\subsection{Der Indirekte Beweis (durch Kontraposition)}
+Im Normalfall beweist man einen mathematischen Satz in dem man die Aussage B aus der Aussage ableitet. Man kann aber auch aus der Verneinung von B die Verneinung von A ableiten. Dies ist Mathematisch äquivalent.
+
+\subsection{Prädikatenlogik}
+
+\subsubsection{Quantoren}
+
+\subsubsection{Existenzaussagen}
+Exiszenzquantor: $\exists$ oder $\bigvee$ (gesprochen "Es existiert ein...")\\
+Beispiele: \\
+$\bigexists_x x > 0$ Es existiert ein x dass grösser Null ist. \\
+$\bigexists_z z^2 = 9 $ Es Existiert ein z dessen Quadrat Neun ist.\\
+$\bigexists_y y^2 < 0 $ Es Existiert ein z dessen Quadrat Neun ist. \\ Zumindest im Körper der Komplexen Zahlen ($\mathbb{C}$) \\
+
+\subsubsection{Allaussage}
+Allquantor: $\bigforall$ oder $ \bigwedge$ (gesprochen "Für alle ... gilt ...")
+Beispiele: \\
+$\bigforall_x x^4 > 0 $ Für alle $x$ gilt $x^4 > 0$. Was für $x=0$ nicht stimmt. \\
+$\bigforall_z x^2 > 0 $ Für alle $z$ gilt $x^2 = 9$. Was mutmasslich nicht stimmt. \\
+$\bigforall_y y^2 > -1 $ Für alle x gilt $x^4 > 0$ 
+
+\subsection{Verneinung von Existenz und Allaussagen}
+\begin{align}
+\boxed {
+\neg (\bigexists_x A(x)) \leftrightarrow \bigforall \neg (A(x))
+}
+\end{align}
+
+Beispiel: \\
+\begin{align}
+\neg (\bigexists_x x > 0) \leftrightarrow \bigforall_x \neg (x>0) \leftrightarrow \bigforall_x x \geqslant 0)
+\end{align}
+
+\begin{align}
+\boxed{
+\neg (\bigforall_x A(x)) \leftrightarrow \bigexists_x \neg (A(x))
+}
+\end{align}
+
+Beispiel: \\
+\begin{align}
+\neg (\bigforall_x x > 0) \leftrightarrow \bigexists_x \neg (x>0) \leftrightarrow \bigexists_x x \leqslant 0) \\
+\neg (\bigforall_z z^2 = 9) \leftrightarrow \bigexists_z \neg (z^2 = 9) \leftrightarrow \bigexists_z z^2 \neq 9)
+\end{align}
+
+\subsection{Distributivgesetze}
+\begin{align}
+\boxed {
+A \wedge B \vee C \leftrightarrow (A \wedge B) \vee C \nleftrightarrow A \wedge (B \vee C)
+} \\
+\boxed { A \vee (B \wedge C) \leftrightarrow (A \vee B) \wedge (A \vee C) } \\
+\boxed { A \wedge (B \vee C) \leftrightarrow (A \wedge B) \vee (A \wedge C) }
+\end{align}
+
+\begin{align*}
+A \wedge& (B \vee C) \\
+\neg (\neg A) \wedge& (\neg(\neg B) \vee \neg(\neg C ) ) \\
+\neg (\neg A) \wedge& \neg((\neg B) \wedge (\neg C ) ) \\
+\neg ((\neg A) \vee& ((\neg B) \wedge (\neg C ) ) ) \\
+\neg ((\neg A \vee& \neg B) \wedge (\neg A \vee \neg C ) ) \\
+\neg \neg ( \neg (\neg A \vee \neg B) \vee& \neg( A \vee \neg C) ) ) \\ 
+(\neg (\neg A) \wedge \neg (\neg B) ) \vee& (\neg(\neg A) \wedge \neg (\neg C) ) \\
+(A \wedge B) \vee& (A \wedge C)
+\end{align*}
+
+\newpage
+
+\section{Mengenlehre}
+Mengen gibt es seit ca. 1880, ihr Erfinder ist Georg Cantor. Eine Menge ist eine Ansammlung von Objekten welche wiederum als ein Objekt betrachtet werden kann \\
+$x \in M$ (man Spricht: x ist Element der Menge M \\
+\begin{center}
+\{ $x | x$ ist eine Natürliche Zahl, die keine Primzahl ist \} \\
+x für die gilt x ist eine Natürliche Zahl \\
+\end{center}
+
+
+\subsection{Leere Menge}
+die leere Menge $\{ \}$ ist eine Teilmenge jeder Menge.
+
+\subsection{Beweis der Äquivalenz}
+um zu beweisen dass eine Aussage äquivalent ist beweist man zuerst die eine Richtung $ \leftarrow$ und dann die andere Richtung $\rightarrow$ \\
+\begin{align}
+M_1 \subseteq M_2 \wedge M_2 \subseteq M_1 \leftrightarrow M_1 = M_2 
+\end{align}
+
+\subsection{A ist eine Teilmenge von B}
+Ist x Element von A führt dies dazu dass es automatisch auch Element von B
+$A \subseteq B \rightarrow A \cap B \subseteq A$
+ist und wiederum eine Teilmenge von A bzw. B \\
+\begin{align}
+A \subseteq B \leftrightarrow \bigforall_x x \in A \rightarrow x \in B \\
+A \subset B \leftrightarrow A \neq B \wedge \bigforall_x x \in A \rightarrow x \in B 
+\end{align} \\
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=4cm]{images/teilmenge.eps}
+\caption{Euler-Venn-Diagram der Teilmenge}
+\label{labelname}
+\end{center}
+\end{figure} \\
+
+\subsection{Schnittmenge (oder Durchschnittsmenge)}
+Die Vereinigungsmenge der beiden Mengen A und B ($x \in A und x \in B$) schreibt man Formal: \\
+\begin{align}
+x \in A \cap B \leftrightarrow x \in A \wedge x \in B \\
+A \subseteq B \leftrightarrow A \cap B = A
+\end{align}
+Kommutativgesetz der Schnittmenge: $ M_1 \cap M_2 = M_2 \cap M_1$ \\
+Assoziativgesetz der Schnittmenge $ (M_1 \cap M_2) \cap M_3 = M_1 \cap (M_2 \cap M_3) $ \\
+Erstes Distributivgesetz: $M_1 \cap (M_2 \cup M_3) = (M_1 \cap M_2) \cup (M_1 \cap M_3) $ \\
+Zweites Distributivgesetz: $M_1 \cup (M_2 \cap M_3) = (M_1 \cup M_2) \cap (M_1 \cup M_3) $ \\
+Stärkere Bindung für $\cap$: $A \cap B \cup C = (A \cap B) \cup C$
+würde man das zweite mit der Addition und Multiplikation vergleichen käme das hier falsch raus.
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=6cm]{images/schnittmenge.eps}
+\caption{Euler-Venn-Diagram der Schnittmenge}
+\label{labelname}
+\end{center}
+\end{figure} \\
+Den Beweis erbringt man in dem zeigt dass: \\
+$M_1 \subseteq M_2$ \\
+$M_2 \subseteq M_1$ \\
+Daraus folgt $M_1 = M_2$ \\
+
+Beweis: $A \subseteq B \leftrightarrow A \cap B = A$
+
+\begin{align}
+A \subseteq B \rightarrow A \cap B \subseteq A \\
+A \subseteq B \rightarrow A \subseteq A \cap B \\
+A \cap B = A \leftrightarrow A \subseteq B
+\end{align}
+
+\newpage
+
+\subsection{Vereinigungsmenge}
+Vereinigungsmenge zweier Mengen $A$ und $B$ sei die Menge aller $x$ für die gilt $(x \in A) \vee (x \in B)$ \\
+\begin{align}
+x \in A \cup B \leftrightarrow x \in A \vee x \in B \\
+A \subseteq B \leftrightarrow A \cup B = B
+\end{align}
+Kommutativgesetz der Schnittmenge: $ M_1 \cup M_2 = M_2 \cup M_1$ \\
+Assoziativgesetz der Schnittmenge $ (M_1 \cup M_2) \cup M_3 = M_1 \cup (M_2 \cup M_3) $ \\
+Erstes Distributivgesetz: $M_1 \cap (M_2 \cup M_3) = (M_1 \cap M_2) \cup (M_1 \cap M_3) $ \\
+Zweites Distributivgesetz: $M_1 \cup (M_2 \cap M_3) = (M_1 \cup M_2) \cap (M_1 \cup M_3) $ \\
+Stärkere Bindung für $\cap$: $A \cap B \cup C = (A \cap B) \cup C$
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=6cm]{images/vereinigungsmenge.eps}
+\caption{Euler-Venn-Diagram der Vereinigungsmenge}
+\label{labelname}
+\end{center}
+\end{figure}
+
+\subsection{Differenzmenge}
+Differenzmenge zweier Mengen $A$ und $B$ sei die Menge aller $x$ für die gilt $x \in A \wedge x \not\in B$
+\begin{align}
+x \in A \setminus B \leftrightarrow x \in A \wedge x \not\in B \\
+A \setminus B \leftrightarrow A \cap \bar B
+\end{align}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=5cm]{images/differenzmenge.eps}
+\caption{Euler-Venn-Diagram der Differenzmenge}
+\label{labelname}
+\end{center}
+\end{figure}
+
+\subsection{Potenzmenge}
+Die Potzenzmenge der Menge A $\mathfrak{P}(A)$ ist die Menge aller möglichen Teilmengen die man aus der Grundmenge $A$ konstruieren kann und da die Leere Menge Teilmenge jeder Menge ist gehört diese auch dazu. Somit ist:
+\begin{align}
+B \in \mathfrak{P}(A) \leftrightarrow B \subseteq A
+\end{align}
+Beispiel: \\
+Sei $A = \{ 4, 6, 9\}$ \\
+$\mathfrak{P}(A) = \{ \{ \}, \{ 4\}, \{6 \}, \{9 \}, \{ 4, 6\}, \{4, 9\}, \{6, 9 \}, \{ 4, 6, 9\} \}$
+
+\subsection{Russell Paradoxon}
+Die Menge aller Mengen die sich nicht selber beinhalten. \\
+$S = \{ M | M \text{ ist Menge und }M \not\in M \}$ \\
+$R = \{ x \mid x \not \in x \} \text{, then } R \in R \iff R \not \in R$
+
+\newpage
+\subsection{Kreuzprodukt}
+Als Kreuzprodukt bezeichnet man die Menge aller \textbf{Elementpaare} $(x_1, x_2)$ für die gilt $x_1 \in M_1$ und $x_2 \in M_2$
+\begin{align}
+M_1 \times M_2 ... \times M_n := \{ (x_1, x_2 ... x_n) | x_1 \in M_1, x_2 \in M_2 ... x_n \in M_n \} 
+\end{align}
+
+
+\subsection{Tupel}
+\subsubsection{Zweitupel}
+\begin{align}
+M_1 \times M_2 := \{( x_1, x_2 ) | x_1 \in M_1 \text{ und } x_2 \in M_2 \} 
+\end{align}
+Hier beginnt der Mensch allenfalls zu Denken, man könne Systeme (Luhmann Theorie) von Elementen (Menschen, Firmen, Mechanische Systeme) Mathematisch darstellen.
+Beispiel: \\
+Alle Elemente der ersten Menge mal alle Elemente der zweiten Menge: \\
+$M_1 = \{1, 3, 4\}$ \\
+$M_2 = \{2, 4\}$ \\
+$M_1 \times M_2 = \{(1,2), (1,4), (3,2), (3,4), (4,2), (4,4) \}$
+
+\subsubsection{Dreitupel}
+\begin{align}
+M_1 \times M_2 \times M_3:= \{( x_1, x_2, x_3 ) | x_1 \in M_1 \text{ und } x_2 \in M_2 \text{ und } x_3 \in M_3 \} \\
+\end{align}
+
+\subsubsection{n-Tupel}
+\begin{align}
+M_1 \times  M_2 \times M_3 ... \times M_n:= \\
+\{( x_1, x_2, x_3 ... x_n ) | x_1 \in M_1 \text{ und } x_2 \in M_2 \text{ und } x_3 \in M_3 ...  x_n \in M_n \}
+\end{align}
+
+\subsection{Mächtigkeit einer Menge}
+Die Mächtigkeit einer Menge bedeutet die Anzahl ihrer Mengen, man schreibt:
+\begin{align}
+|M|
+\end{align}
+Sei die Menge der Natürlichen Zahlen gegeben $\mathbb{N}$ somit wäre ihre Mächtigkeit unendlich: 
+\begin{align}
+|\mathbb{N}|=\infty
+\end{align}
+
+\subsubsection{Mächtigkeit eines Kreuzproduktes aus zwei Mengen}
+Sie entspricht dem Produkt der Mächtigkeiten der einzelnen Mengen. Sind zwei Mengen unendlich so sind diese gleich mächtig wenn es für die beiden Mengen eine Bijektion $\varphi$ gibt.
+\begin{align}
+|M_1 \times M_2|= |M_1| \cdot |M_2| \\
+\varphi : M \rightarrow N 
+\end{align}
+
+
+\subsection{Relation}
+Eine Relation ist eine \textbf{Teilmenge eines Kreuzproduktes} aus den Mengen $M_1, M_2, M_3 ... M_n$, also $R \subseteq  M_1 \times M_2 \times M_3 ... M_n$ \\
+\newline
+Beispiel:\\
+$R_7 \subseteq  \mathbb{N} \times \mathbb{N}$ \\
+$R_7 = \{(a,b) \in \mathbb{N} \times \mathbb{N} | \bigexists_{d \in \mathbb{Z}  }  a-b=d \cdot 7 \}$ \\
+\newline
+Falls für $(a,b) \subseteq  \mathbb{N} \times \mathbb{N}$ gilt $(a,b) \in R_7$ man schreibt auch $a \equiv b (\text{mod 7})$ \\
+z.B. gilt für 17: \\
+$17 \equiv 3 (\text{mod 7})$, 
+$17 \equiv 10 (\text{mod 7})$, 
+$17 \equiv 17 (\text{mod 7})$, 
+$17 \equiv 24 (\text{mod 7})$ \\
+$\text{für } [17]_7 = \{ b \in \mathbb{N} | b \equiv 17 (\text{mod 7}) \text{ gilt } [17]_7 = \{ 17 + d \cdot 7 | d > -3\} $ 
+%%\begin{figure}[h!]
+%%\begin{center}
+%%\includegraphics[width=10cm]{images/a-b_mod_7.png}
+%%\caption{a-b}
+%%\label{labelname}
+%%\end{center}
+%%\end{figure}
+\begin{align}
+\text{falls für } (a,b) \in \mathbb{N} \times \mathbb{N}  \text{ gilt } (a,b) \in& R_q \text{ schreibt man auch }  a \equiv b \text{ (mod q)} \\
+R_q \subseteq&  \mathbb{N} \times \mathbb{N} \\
+R_q =& \{(a,b) \in \mathbb{N} \times \mathbb{N} | \bigexists_{d \in \mathbb{Z}  }  a-b=d \cdot q \} 
+\end{align}
+\begin{align}
+\text{Sei } 0 \leq x < q \text{ und sei } [x]_q =& \{ b \in \mathbb{N} | b \equiv x \text{ (mod q) }\} \text{, dann gilt: } \\
+[x]_q =& \{ x + d \cdot q | d \geq 0\}
+\end{align}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14.5cm]{images/a-b_mod_7.eps}
+\caption{$[17]_7$}
+\label{labelname}
+\end{center}
+\end{figure}
+Somit ist $[x]_q$ eine Teilmenge von $R_q$ 
+\newline
+
+\section{Abbildungen}
+Abbildungen sind eine Spezielle Art einer Relation: \\
+Es seinen A und B zwei nicht-leere Mengen. Eine Zuordnungsvorschrift f: $A \rightarrow B$ mit $x \rightarrow f(x)$ (ausgesprochen: f von A nach B mit $x$ wird abgebildet auf $f(x)$), die jedem Element $x \in A$ genau ein Element aus B zuordnet, heisst \textit{Abbildung} oder \textit{Funktion}. $f(x)$ heisst \textit{Funktionswert} oder das \textit{Bild} von x. X heisst ein Urbild von $f(x)$.
+Die \textbf{Menge}  A heisst \textit{Definitionsbereich} von $f$, B heisst \textit{Bildbereich} von $f$. \\
+\newline
+Beispiele: \\
+$f: \mathbb{Z} \rightarrow \mathbb{Z}$ mit $f(x) = 2x + 3$ \\
+$f: \mathbb{Q} \rightarrow \mathbb{Q}$ mit $f(x) = 2x + 3$ \\
+$f: \mathbb{Z} \rightarrow \mathbb{N}$ mit $f(x) = x^2$ \\
+$f: \mathbb{Z} \rightarrow \mathbb{Z}$ mit $f(x) = x^3$ \\
+\newline
+\begin{align}
+F = \{ (x, f(x)) | x \in A \} \\
+F \subseteq A \times B 
+\end{align}
+Die erste Komponente bezeichnet die Zweite eindeutig
+\newpage
+
+\subsection{Injektiv}
+Unterschiedliche Elemente des Definitionsbereichs $(A)$ müssen auch unterschiedliche Bilder des Bildbereichs haben)
+\begin{align}
+\bigforall_{x_1, x_2 \in A} \ x_1 \neq x_2 \rightarrow f(x_1) \neq f(x_2) \\ 
+\bigforall_{x_1, x_2 \in A} f(x_1) = f(x_2) \rightarrow x_1 = x_2
+\end{align}
+Beispiel: \\
+$f: \mathbb{R} \rightarrow \mathbb{R}, x \rightarrow x^2$ nicht injektiv, denn $f(1)=f(-1)$ aber $1 \neq -1$ \\
+$f: \mathbb{R} \rightarrow \mathbb{R}, x \rightarrow x^3$ ist injektiv
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14cm]{images/injektiv.eps}
+\caption{}
+\label{labelname}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14cm]{images/injektivMengen.eps}
+\caption{}
+\label{labelname}
+\end{center}
+\end{figure}
+\newpage
+
+\subsection{Surjektiv}
+Für jedes Element in B wird verwendet und es gibt keine Element in B die nicht durch ein Element des Definitionsbereichs durch die "spezielle Relation" erreicht werden kann.
+\begin{align}
+\bigforall_{y \in B} \ \bigexists_{x \in A} \ y=f(x)
+\end{align}
+Beispiel: \\
+$f: \mathbb{R} \rightarrow \mathbb{R}, x \rightarrow x^2$ nicht surjektiv, für $f(x)=-1$ gibt es keine entsprechendes $x$\\
+$f: \mathbb{R} \rightarrow [0,\infty), x \rightarrow x^2$ ist surjektiv, jeder Bildpunkt ist erreichbar \\
+$f: \mathbb{R} \rightarrow \mathbb{R}, x \rightarrow 40 \cdot sin(x)$ nicht surjektiv, für $f(x)=50$ gibt es keine entsprechendes $x$\\
+$f: \mathbb{R} \rightarrow [-40,40], x \rightarrow 40 \cdot sin(x)$ ist surjektiv, jeder Bildpunkt ist erreichbar
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14cm]{images/surjektiv.eps}
+\caption{}
+\label{labelname}
+\end{center}
+\end{figure}
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14cm]{images/surjektivMengen.eps}
+\caption{}
+\label{labelname}
+\end{center}
+\end{figure}
+\newpage
+
+\subsection{Bijektiv}
+Eine Zuordnungsvorschrift welche \textbf{Injektiv und Surjektiv} ist nennt man Bijektiv. \\
+$f_1: \mathbb{R}\ \ \rightarrow\mathbb{R},\ \ \ x \mapsto x^2$ nicht injektiv, nicht surjektiv, nicht bijektiv \\
+$f_2: \mathbb{R}^+_0\rightarrow\mathbb{R},\ \ \ x \mapsto x^2$ injektiv, nicht surjektiv, nicht bijektiv \\
+$f_3: \mathbb{R}\ \ \rightarrow \mathbb{R}^+_0,\ x \mapsto x^2 $nicht injektiv, surjektiv, nicht bijektiv \\
+$f_4: \mathbb{R}^+_0\rightarrow \mathbb{R}^+_0,\ x \mapsto x^2$ injektiv, surjektiv, bijektiv \\
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=14cm]{images/bijektivMengen.eps}
+\caption{}
+\label{labelname}
+\end{center}
+\end{figure}
+\newpage
+
+\subsection{Zuweisungsoperator $\mapsto $}
+$f: \mathbb{N} \rightarrow \mathbb{N}$ \\
+$f: x \mapsto x^2+1$ \\
+$f(x) = x^2+1$ \\
+
+
+\subsection[Die Natürlichen Zahlen]{Die $\mathbb{N}$atürlichen Zahlen }
+\begin{align}
+\mathbb{N} = & \{ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9, ... \}  \\
+\mathbb{N}_0 = \mathbb{N} \cup \{0\} =& \{ 0, 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9, ... \}
+\end{align}
+
+\subsection{Axiomsystem von Giuseppe Peano}
+Ein Axiomsystem ist ein zusammenhängendes System von Axiomen die z.B. eine Menge eindeutig definiert. Und ein Axiom bezeichnet klassisch ein unmittelbar einleuchtendes Prinzip.\\
+\begin{align}
+1.& \hspace{10pt} 0 \in \mathbb{N} \\
+2.& \hspace{10pt} n \in \mathbb{N} \Rightarrow n' \in \mathbb{N} \\
+3.& \hspace{10pt} n \in \mathbb{N} \Rightarrow n' \neq 0 \\
+4.&  \hspace{10pt} m,n \in \mathbb{N} \Rightarrow (m' = n' \Rightarrow m = n) \text{ (wikipedia)}\\
+4.& \hspace{10pt} m,n \in \mathbb{N} \Rightarrow (m \neq n \Rightarrow m' \neq n')  \text{ (Mathebuch)}\\
+5.& \hspace{10pt} 0 \in X \wedge \bigforall n \in \mathbb{N}: (n \in X \Rightarrow n' \in X) \Rightarrow \mathbb{N} \subseteq X
+\end{align} 
+Und weil das kein normaler Mensch versteht hier noch auf Deutsch: \\
+\newline
+1. 0 ist eine natürliche Zahl. \\
+2. Jede natürliche Zahl n hat eine natürliche Zahl n' als Nachfolger. \\
+3. 0 ist kein Nachfolger einer natürlichen Zahl. \\
+4. Sind m und n Natürliche Zahlen folgt daraus, dass zahlen mit gleichem Nachfolger identisch sind (wikipedia)\\
+4. Verschiedene natürliche Zahlen haben verschiedene Nachfolger (Mathebuch) \\
+5. Enthält X die 0 und mit jeder natürlichen Zahl n auch deren Nachfolger n', so bilden die natürlichen Zahlen eine Teilmenge von X. (Induktionsaxiom)\\
+5. Ist die Aussage wahr für die Zahl 0 und ist sie stets, falls sie für eine Natürliche Zahl n wahr ist, dann auch für den Nachfolger von n wahr, dann ist sie für alle Nachfolger wahr. \\
+
+Dabei wird $1 := 0'$ definiert und alle nachfolgenden $n'=n+1$\\
+
+\subsubsection{Neumann Modell der natürlichen Zahlen}
+\begin{align}
+0:=&0 \\
+1:=&0'=\{0\}&=\{0\} \\
+2:=&1'=\{0,1\}&=\{0,\{0\}\} \\
+3:=&2'=\{0,1,2\}&=\{0,\{0\},\{0,\{0\}\}\} \\
+\vdots& \vdots& \vdots \notag \\
+n':=&\{0,1,2,3,...,n\}&=n\cup\{n\}
+\end{align}
+Die Menge 3 muss die Menge 2 und 1 auch beinhalten, denn ohne zu wissen was die Menge von 2 Objekten sind kann einen Menge von 3 Objekten nicht existieren.
+
+\subsubsection{Axiome}
+\begin{align}
+\begin{tabular}{l l}
+Assoziativgesetz der Addition:& $(a+b)+c= a+(b+c)   $ \\
+Kommutativgesetz der Addition:& $(a+b)=(b+a) $ \\
+Assoziativgesetz der Multiplikation:& $(a \cdot b) \cdot c = a \cdot (b \cdot c) $ \\
+Kommutativgesetz der Multiplikation:& $(a \cdot b)=(b \cdot a) $ \\
+Existenz eines Neutralen Elements: & \\
+\hspace{5pt}  0 für die Addition: & $ a + 0 = 0 + a = a $\\
+\hspace{5pt}  1 für die Multiplikation: & $ a \cdot 1 = 1 \cdot a = a $ \\
+Distributiv Gesetz: & $ a \cdot (b+c) = ab + cb $ \\
+\end{tabular}
+\end{align}
+Folgende Gleichungen sind in $\mathbb{N}$ nicht immer lösbar:
+\begin{align}
+a+x=b  \\
+ a \cdot x=b
+\end{align}
+Beispiele:
+\begin{align}
+5+x=3 \notag \\
+5 \cdot x=3 \notag
+\end{align}
+\\
+Mit anderen Worten die inversen Operationen der Addition und Multiplikation sind in $\mathbb{N}$ nicht definiert.\\
+\subsection{Multiplikation}
+Bei der Multiplikation von vier Reihen à fünf Äpfel $ 4 \cdot 5 = 20 $ geht die Information über die Anordnung verloren. Wollen wir das nun mit dem Menschlichen Gehirn wahrnehmen, fällt uns dies nicht ganz leicht da dies wieder die Natur ist. Sehen wir jedoch die vier mal fünf Äpfel vor uns springt es uns geradezu in die Augen, dass man diese ganz einfach unter vier oder fünf Leuten teilen kann. Aber nicht unbedingt, dass man diese auch unter zehn oder Zwanzig Leuten verteilen könnte. (Wahrnehmungspsychologie)
+
+\section{Die Ganzen Zahlen $\mathbb{Z}$}
+\begin{eqnarray}
+\mathbb{Z} = & \{ ..., -5, -4, -3, -2, -1, 0, 1 , 2 , 3 , 4 , 5, ... \}  \\
+\end{eqnarray}
+
+\subsubsection{Beweis}
+Sind die Natürlichen Zahlen $\mathbb{N}$ gegeben lassen sich daraus die Ganzen Zahlen $\mathbb{Z}$ konstruieren in dem man die Menge der Zahlen $\mathbb{N} \times \mathbb{N}$ also aller Paare der Natürlichen Zahlen. 
+\begin{align}
+0:=&0 \\
+1:=&0'=\{0\}&=\{0\} \\
+2:=&1'=\{0,1\}&=\{0,\{0\}\} \\
+3:=&2'=\{0,1,2\}&=\{0,\{0\},\{0,\{0\}\}\} \\
+\vdots& \vdots& \vdots \notag \\
+n':=&\{0,1,2,3,...,n\}&=n\cup\{n\}
+\end{align}
+Die Menge 3 muss die Menge 2 und 1 auch beinhalten, denn ohne zu wissen was die Menge von 2 Objekten sind kann einen Menge von 3 Objekten nicht existieren. \\
+
+\subsubsection{Axiome}
+\begin{tabular}{l l}
+Assoziativgesetz der Addition:& $(a+b)+c= a+(b+c)  $ \\
+Kommutativgesetz der Addition:& $(a+b)=(b+a) $ \\
+Assoziativgesetz der Multiplikation:& $(a \cdot b) \cdot c = a \cdot (b \cdot c) $ \\
+Kommutativgesetz der Multiplikation:& $(a \cdot b)=(b \cdot a) $ \\
+Existenz eines Neutralen Elements: & \\
+\hspace{5pt}  0 für die Addition: & $ a + 0 = 0 + a = a $\\
+\hspace{5pt}  1 für die Multiplikation: & $ a \cdot 1 = 1 \cdot a = a $ \\
+Distributiv Gesetz: & $ a \cdot (b+c) = ab + cb $ \\
+\end{tabular}
+
+\vspace{10pt}
+
+Folgende Gleichungen sind in $\mathbb{N}$ nicht immer lösbar
+\begin{align}
+a+x=b  \\
+ a \cdot x=b
+\end{align}
+Beispiele:
+\begin{align}
+5+x=3 \notag \\
+5 \cdot x=3 \notag
+\end{align}
+\newpage
+
+\section{Summenzeichen}
+Das Summenzechen kann verwendet werden um Summen kürzer darzustellen: \\
+\begin{align}
+\sum\limits_{k=m}^n=a_m+a_{m+1}+a_{m+2}+...+a_{n} \\
+\sum\limits_{k=m}^n (a_k+b_k) = \sum\limits_{k=m}^n a_k \sum\limits_{k=m}^n b_k \\
+\sum\limits_{k=m}^n \lambda a_k = \lambda \sum\limits_{k=m}^n a_k
+\end{align}
+
+\section{Vollständige Induktion}
+Sie besteht aus zwei Schritten \\
+1. Verankerung (Induktionsanfang): Zuerst wird die Behauptung für die Zahl 0 gezeigt \\
+2. Induktionsschritt): Mit der ersten Zahl probieren \\
+3. Vollständige Induktion: Unter der Voraussetzung der Induktion, dass für eine Zahl $n \in \mathbb{N}$ gilt, wird gezeigt dass die Behauptung auch für n + 1 gilt. Wegen des 5. Peano Axioms gilt dies dann für alle Zahlen von $\mathbb{N}$ \\
+\newline
+Beispiel 1: \\
+$\sum\limits_{i=1}^n (2 \cdot i -1) = n^2$ \\ \newline
+$n=1: \ 1 = 1^2$ \\ 
+$n=2: \ (2 \cdot 2 - 1) + 1 = 2^2 = 4$ \\ 
+$n=3: \ (2 \cdot 3 - 1) + (2 \cdot 2 - 1) + 1 = 3^2 =  9$\\ 
+$n=4: \ (2 \cdot 4 - 1) + (2 \cdot 3 - 1) + (2 \cdot 2 - 1) + 1 = 4^2 = 16$ \\  
+$n=5: \ (2 \cdot 5 - 1) + (2 \cdot 4 - 1) + (2 \cdot 3 - 1) + (2 \cdot 2 - 1) + 1 = 5^2 = 25$ \\  \newline
+\newline
+Verankerung: bei $n=1$ \\
+Beweis der Behauptung für $n=1:$\\ \newline
+$\sum\limits_{i=1}^1 (2 \cdot i -1) = (2 \cdot 1 - 1) = 1$ (Stimmt also) \\
+\\
+Der Satz sei Wahr für $n \in \mathbb{N}$\\ \newline
+$\sum\limits_{i=1}^n (2 \cdot i -1) =n^2$ \\
+\\
+Somit müsste er auch für $n+1$ wahr sein \\ \newline
+$\sum\limits_{i=1}^{n+1} (2 \cdot i -1) =(n+1)^2$ \\ \\ \\ $\underbrace{\big(\sum\limits_{i=1}^{n} (2 \cdot i -1)\big)}_{n^2 \text{ (nach Vorgabe)}} +\big( 2 \cdot (n+1) - 1 \big) =$ \\ \\ \\
+$\overbrace{n^2} + 2 \cdot (n+1) - 1 = n^2 +2n + 2 -1 = \underbrace{n^2 +2n + 1}_{\text{Binom}} = (n+1)^2$ \\
+\newpage
+%%stimme: das habe ich begriffen, also bin ich nicht zu blöd und ich habe die FHA
+%%wegen der starken liebe zu Claudine vergamet. ist eigentlich gar nicht schwierig wenn
+%%man das anschaut statt verliebt auf dem bett zu hocken und claudine anzustarren...
+%%dann habe ich die FH vergamet, bin inkompatibel zu normalen arbeitern, und sie
+%%setzt mich auch noch auf die strasse gesetzt und ich bin beziehungsunfähig den
+%%rest meines Lebens. Somit müsste ich ihr und nicht sie mir vorwürfe machen
+%%dass ich das studium wegen ihr verbockt habe, fakt ist aber ich liebe sie und
+%%wenn sie irgendwann sagt, "komm du tolpatsch, ich liebe dich" dann ist es eh
+%%egal wie gut ich mathe kann.
+Beispiel 2: \\
+Behauptung: \\
+Für alle $ n \in \mathbb{N} \setminus \{0\}$ gilt: \\  \newline
+$\sum\limits_{i=1}^n i = 1 + 2 + 3 + ... + n = \frac{n (n+1)}{2} $ \\  \newline
+Verankerung bei $n=1$ \\  \newline
+$\sum\limits_{i=1}^1 i = 1 = \frac{1}{2} 1 \cdot (1+1) = 1$  \\  \newline
+Induktionschritt für $n=2$ \\  \newline
+$\sum\limits_{i=1}^2 i = 1 + 2 = \frac{1}{2} 2 \cdot (2+1) = 3$  \\  \newline
+Vollständige Induktion für $n' = n+1$ \\  \newline
+$\sum\limits_{i=1}^{n+1} i = 1 + 2 ... (n+1) = \big(\sum\limits_{i=1}^n i\big) + (n+1) = $\\  \newline
+$\underbrace{\big(\sum\limits_{i=1}^n i\big)}_{\frac{1}{2} n \cdot (n+1)} + (n+1) = \frac{1}{2} (n+1) \cdot ((n+1)+1) $ \\  \newline
+$\frac{1}{2} n \cdot (n+1)+ (n+1) = \frac{1}{2} (n+1) \cdot (n+2) $ \\  \newline
+$\frac{1}{2} n^2 + 1.5 n +1 = \frac{1}{2}n^2 + 1.5n + 1 \rightarrow$ Stimmt also. \\
+\newpage
+Beispiel 3: \\
+$\sum\limits_{i=0}^n i^3 = 0 + 1 + 8 + 27 + ... + i^3 = \frac{n^2 (n+1)^2}{4} = \Big(\frac{n (n+1)}{2}\Big)^2$ \\ \newline
+Verankerung bei $n=0$ \\
+$\sum\limits_{i=0}^n i^3 = 0  = \frac{0^2 (0+1)^2}{4} = \Big(\frac{0 (n+1)}{2}\Big)^2$ = 0 Stimmt also \\ \newline
+Induktionschritt für $n=1$ \\
+$\sum\limits_{i=0}^n i^3 = 0 + 1  = \frac{1^2 (1+1)^2}{4} = \Big(\frac{1 (1+1)}{2}\Big)^2$ \\ \newline
+Vollständige Induktion für $n'=n+1$ \\  \newline
+$\sum\limits_{i=0}^{n+1} i^3 = \underbrace{\sum\limits_{i=0}^{n} i^3}_{ \Big(\frac{n (n+1)}{2}\Big)^2} +(n+1)^3 = \Big(\frac{(n+1) ((n+1)+1)}{2}\Big)^2$ \\ \newline
+$ \Big(\frac{n (n+1)}{2}\Big)^2 +(n+1)^3 = \Big(\frac{(n+1) (n+2)}{2}\Big)^2$ \\ \newline
+$ \underbrace{\Big(\frac{n^2+n}{2}\Big)^2}_{\frac{n^4+2n^3+n^2}{4}}  +\underbrace{(n+1)(n+1)(n+1)}_{n^3+3n^2+3n+1} = \underbrace{\Big(\frac{(n+1) (n+2)}{2}\Big)^2}_{\Big(\frac{n^2+3n+2}{2}\Big)^2}$ \\ \newline \newline
+$\underbrace{\underbrace{\frac{n^4+2n^3+n^2}{4}+\frac{4n^3+12n^2+12n+4}{4}}_{\frac{n^4+6n^3+13n^2+12n+4}{4}} = \underbrace{\frac{(n^2+3n+2)(n^2+3n+2)}{4}}_{\frac{n^4 + 6n^3 + 13n^2 + 12n + 4}{4}}}_{\text{somit Identisch}}$ \\ \newline
+
+
+
+\section{Fakultätsoperator}
+$\heartsuit$
+Die Fakultät $n!$ gibt die Anzahl möglichen Permutationen von n unterscheidbaren Objekten an $\heartsuit$ \\ \newline
+ Die drei Buchstaben $a, b, c$ können auf $3!=6$ arten angeordnet werden: \\
+abc, acb, bac, bca, cab, cba \\
+\begin{align}
+n!= \prod\limits_{i=1}^n i = 1 \cdot 2 \cdot 3  \cdot ...  \cdot n \\
+n!=(n-1)! \cdot n \text{ für } n \geq 1
+\end{align}
+$0!=1 $ \\
+$1!=1 $ \\
+$2!=2 $ \\
+$3!=6 $ \\
+$4!=24 $ \\
+$5!=120 $ \\
+$6!=720 $ \\
+$7!=5.040 $ \\
+$8!=40.320 $ \\
+$9!=362.880 $ \\
+
+\section{Fibonacci}
+$f_0=0$ \\
+$f_1=1$ \\
+$f_n=f_{n-1}+f_{n-2} $ \\
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 ...
+
+\section{Binomialkoeffizient}
+Der Binomialkoeffizient kann verwendet werden um z.B. zu berechnen wie verschiedene dreiergruppen aus 10 verschiedenen Leuten gebildet werden können.  $\binom{10}{3}$ \\
+Oder wieviele verschiedene Kombinationen es beim Lotto gibt $\binom{45}{6}$ \\ \newline
+$\heartsuit$
+Oder anders ausgedrückt $\binom{n}{k}$ ist die Anzahl der Möglichkeiten, Untermengen von k Objekten aus einer Menge mit n (unterscheidbaren) Objekten zu bilden. $\heartsuit$
+\begin{align}
+\binom{n}{0}=&\binom{n}{n}=1 \\
+\binom{n}{k} =& \frac{n!}{k! \cdot (n-k)!} \\
+\binom{n}{k} =& \frac{n(n-1)(n-2)...(n-k+1)}{1 \cdot 2 \cdot ... \cdot k} \\
+\binom{n}{k} =& \binom{n}{n-k}
+\end{align}
+
+\begin{align}
+\begin{tabular}{c c c c c c c c c c c c c c c c c c c c c }
+& & & & & & & & & 1& \\
+& & & & & & & & 1& & 1& \\
+& & & & & & & 1& & 2& & 1& \\
+& & & & & & 1& & 3& & 3& &1 \\
+& & & & & 1& & 4& &6 & & 4& & 1& \\
+& & & & 1& & 5& & 10& & 10&  & 5& & 1& \\
+& & & 1& & 6& & 15& & 20& & 15& & 6&& 1& \\
+& & 1& & 7& & 21& &35& & 35&& 21 & & 7&& 1& \\
+& 1& & 8& & 28& & 56&& 70& & 56& & 28& & 8&& 1& \\
+1& & 9& & 36& & 84& & 126& & 126& & 84& & 36& & 9&& 1& \\
+\end{tabular}
+\end{align}
+%%public class binom
+%%{
+%%        public static void main(String[] args)
+%%        {
+%%                int[][] pascal = new int[20][20];
+%%                System.out.println(faculty(1));
+%%                System.out.println(faculty(2));
+%%                System.out.println(faculty(3));
+%%                System.out.println(faculty(4));
+%%                System.out.println(faculty(5));
+%%                System.out.println(faculty(6));
+%%                for(int i=0; i<10; i++)
+%%                {
+%%                        for(int j=i-5; j<0; j++) System.out.print("  ");
+%%                        for(int j=0; j<=i; j++)
+%%                        {
+%%                                if((j)%2==1) System.out.print("  ");
+%%                                System.out.print(binom(i,j)+" ");
+%%                        }
+%%                        System.out.println("\\\\");
+%%                }
+%%        }
+%%        public static int faculty(int i)
+%%        {
+%%                if(i==0) return 1;
+%%                int result = i;
+%%                result *= faculty(i-1);
+%%                return result;
+%%        }
+%%        public static int binom(int n, int k)
+%%        {
+%%                return faculty(n)/(faculty(k)*faculty(n-k));
+%%        }
+%%}
+Der Binomialkoeffizient kann aus den beiden Darüberliegenden werten berechnet werden: 
+\begin{align}
+\binom{n}{m-1}+\binom{n}{m} = \binom{n+1}{m}
+\end{align}
+\newpage
+\section{ggT, kgV und Euklid}
+\subsection{ggT}
+Der grösste gemeinsame Teiler $ggT(a,b)$ sind die Primfaktoren welche in beiden Zahlen a, b vorkommen, kommen sie in beiden Zahlen mehrfach vor so kommen sie im ggT auch mehrfach vor. \\
+Beispiel: \\
+\begin{align}
+\begin{tabular}{c c c c c c c c }
+ggT(84,56) \\
+84 =&2&2& &3&7 \\
+56 =&2&2&2&&7 \\
+\hline 
+&2&2&&&7&$= 2 \cdot 2 \cdot 7= 28$ \\
+\hline \hline
+\end{tabular}
+\end{align}
+$ \rightarrow ggT(84,56)=28$ \\
+\newline
+Dies kann man einfacher durch den Euklidschen Algorithmus berechnen \\
+Wenn $a, b \in \mathbb{Z} \wedge b \neq 0$ heisst $a$ durch $b$ teilbar wenn eine ganze Zahl $q \in \mathbb{Z}$ existiert für die gilt $a=q \cdot b$ \\
+\begin{align}
+\text{Man sagt: }b| \ a \hspace{20pt} \text{(b ist ein Teiler von a)}
+\end{align}
+Der $g=ggT(a,b)$ wird von jedem anderen Teiler der beiden Zahlen $a$, $b$ geteilt. \\
+\begin{align}
+g=ggT(a,b) \leftrightarrow ((t |a \wedge t |b) \leftarrow t |d)
+\end{align}
+
+\subsection{kgV}
+Das kleinste gemeinsame Vielfache $kgV(a,b)$ ist die kleinste Zahl die sowohl durch a wie auch durch b ohne Rest teilbar sind. Dazu nimmt man alle Primfaktoren der beiden Zahlen von der Zahl bei der sie in der höchsten Potzenz vorkommen. \\
+Beispiel: \\
+\begin{align}
+\begin{tabular}{c c c c c c c c }
+kgV(84,56) \\
+84 =&2&2& &3&7 \\
+56 =&2&2&2&&7 \\
+\hline 
+&2&2&2&3&7&$= 2 \cdot 2\cdot 2\cdot 3 \cdot 7= 168$ \\
+\hline \hline
+\end{tabular}
+\end{align}
+
+\subsection{$kgV \cdot ggT$}
+\begin{align}
+kgV(a,b) \cdot ggT(a,b) = a \cdot b
+\end{align}
+
+\subsection{Euklid}
+
+%%$\bigexists \text{Neurointerface} \rightarrow \text{für Verteilung von Gewaltaktionen sind  %%Gemeinden Strategisch wichtig}$ Mail / Brief
+
+\newpage
+\subsubsection{Pseudocode C64 Style}
+\begin{verbatim} 
+10 a=45, b=20
+20 r=a%b
+30 a=b
+40 b=r
+50 if b<>0 goto 20
+60 PRINT a
+\end{verbatim}
+
+\subsubsection{Code im Java Style (Rekursiv)}
+\begin{verbatim} 
+public static int euklid(int a, int b)
+{
+         int r=a%b;
+         a=b;
+         b=r;
+         if(r==0) return a;
+         else return euklid(a,b);
+}
+\end{verbatim}
+
+\subsubsection{Code im C++ Style}
+\begin{verbatim} 
+#include <iostream>
+int euklid( int a, int b);
+using namespace std;
+int main()
+{
+        std::cout << "ggT(33,99)" << euklid(33,99) << " ";
+        cout << " " << euklid(15,5) << " ";
+}
+int euklid( int a, int b)
+{
+        if (a==0) return 0;  //0 signalisiert dass etwas falsch ist
+        if (b==0) return 0;
+        if (a==b) return a;
+        int Qab;             //ziemlich nutzlos, mathematischen korrekt
+        int Rab = a%b;       //% ist der Modulo Operator
+        while(Rab!=0)
+        {       a=b;
+                Qab=a/b;     //Integer Division, keine Nachkommastellen
+                b=Rab;
+                Rab=a%b;
+        }
+        return b;
+}
+\end{verbatim}
+
+\subsection{Euklidscher Alogrithmus}
+Wenn $a \in \mathbb{Z}, \ b \in \mathbb{N} \wedge b \neq 0$ dann gibt es eindeutig bestimmbare zahlen $q \in \mathbb{Z} $ und $r \in \mathbb{N}$ mit $0 \leq r \leq b $ so dass gilt $a = q \cdot b + r$. \\
+\begin{align}
+q=a : b \text{ Ganzzahlige Division}\\
+a = q \cdot b + r \\
+a \equiv b (\text{mod q})
+\end{align}
+Dies wiederholt man solange bis $r=0$ dann ist $r_ab = a - q * b$ und somit der $ggT(a,b)$\\
+\subsubsection{Beweis Euklid}
+Seien $a, b \in \mathbb{N}$ beliebig, $a \neq b$, $a \neq 0$, $b \neq 0$ \\
+Seien $a, b, q_{xy}$ und $r_{xy}$ festgelegt wie in der Definition des Euklidschen Algorithmus: $a=q_{xy} \cdot b + r_{xy}$ mit $0 \leq r_{xy} < y$. \\
+Der Euklidsche Algorithmus benötige m Schleifendurchgänge bis er abbricht. \\
+$a_0$ = a-Wert bei der Initialisierung \\
+$b_0$ = b-Wert bei der Initialisierung \\
+$q_0$ = $q_{xy}$-Wert bei der Initialisierung \\
+$r_0$ = $r_{xy}$-Wert bei der Initialisierung \\
+\newline
+Für $1 \leq k \leq m$ setze man \\
+$a_k$ = a-Wert nach Schleifendruchgang k\\
+$b_k$ = b-Wert nach Schleifendruchgang k\\
+$q_k$ = $q_{xy}$-Wert nach Schleifendruchgang k\\
+$r_k$ = $r_{xy}$-Wert nach Schleifendruchgang k\\
+\newline
+Es existiert eine Zahl $g=s \cdot a + t \cdot b$ ($s,t \in \mathbb{Z} \setminus \{0\}$)
+
+\begin{align}
+\begin{tabular}{c c c c c c c c }
+ggT(147,56) \\
+147 =&&& &3&7&7 \\
+56 =&2&2&2&&7 \\
+\hline 
+&&&&&7&&$=7$ \\
+\hline \hline
+\end{tabular}
+\end{align}
+
+\begin{verbatim}
+147=2*56+35
+56=1*35+21
+35=1*21+14
+21=1*14+7
+14=1*7+0
+\end{verbatim}
+Bei der Modulooperation zweier zahlen beinhaltet das Resultat immer noch alle gemeinsam vorkommenden Primfaktoren wo hingegen Primfaktoren welche nicht in beiden Zahlen vorhanden sind eliminiert werden. Ausser $b$ ist Teiler von $a$
+
+S 72 ist noch ein Axiom dass nicht verarbeitet wurde
+
+21 * 7 = 147
+8 * 7 = 56
+
+%%würde man von einer Gesammtschweizerischen illegalen Datenbank ausgehen
+%%welche XING oder Facebook ähnliche funktionalitäten hätten, würden die eltern
+%%welche das nutzen in den schulen auffallen, da ihre kinder jewils mehr aufgaben
+%%lösen als das die anderen kinder tun würden die das illegale system nicht verwenden
+%%würden
+
+\subsection{erweiterter Euklid}
+Dieser berechnet noch $ggT(a,b)=s \cdot a + t \cdot b$ welchen wir später benötigen werden.
+\begin{verbatim}
+/*
+Es wird der ggT von a und b berechnet. Zusätzlich werden koeffizienten s und t berechnet, für die gilt: ggt = s*a + t*b.
+Falls die Berechnung des ggT nciht möglich ist, wird false zurückgemeldet. Andernfalls true
+*/
+
+#include <iostream>
+
+int euklid( int a, int b);
+bool ErwEuklidAlg( int a, int b, int &ggT, int &s, int &t);
+
+
+using namespace std;
+
+
+int main(int argc, char** argv)
+{
+  int a=147;
+  int b=56;
+  int ggT=0;
+  int s=0;
+  int t=0;
+  ErwEuklidAlg(a,b,ggT,s,t);
+  cout <<"ggT(55, 65)"<<a<<" "<<b<<" "<<ggT<<" "<<s<<" "<<t;
+}
+
+
+bool ErwEuklidAlg( int a, int b, int &ggT, int &s, int &t)
+{
+  if (a==0)return false;
+  if (b==0)return false;
+  if (a==b)return false;
+if (a<b)
+  {
+    int nTemp=b;
+    b=a;
+    a=nTemp;
+  }
+
+
+//nMax ist die maximale Anzahl der möglichen Schleifendruchläufe
+
+  int nMax=b;
+
+  int x, y, r;
+  int * q=new int[nMax];
+
+  //Initialisierung
+  int m=0;
+  x=a;
+  y=b;
+  q[m]=x/y;
+  r=x%y;
+
+  while (r!=0)
+  {
+    m++;
+    x=y; y=r;
+    q[m]=x/y;
+    r=x%y;
+  }
+
+  ggT=y;
+
+  //Spezialfall: b ist bereits Tailer von a
+  if (m==0)
+  {
+    s=1;
+    t=-a/b+1;
+    return true;
+  }
+
+  s=1;
+  t=-q[m-1];
+
+  for(int i=(m-2);i>=0;i--)
+  {
+    int nSalt=s;
+    s=t;
+    t=nSalt-t*q[i];
+  }
+
+  return true;
+}
+\end{verbatim}
+
+\section{Primzahlen}
+Eine Primzahl sei eine Zahl p $p \in \mathbb{N}, p \neq 0$ und $o \neq 1$ welche nur durch sich selber und durch 1 teilbar ist. \\
+\newline
+Beispiele: \\
+%%proc (n) options operator, arrow; ithprime(n) end proc; [seq(ithprime(i), i = 1 .. 100)]
+Im Maple erhält man die ersten 100 Primzahlen mit: \\
+$n \rightarrow ithprime(n);$ \\
+$seq (ithprime), i=1..100$ \\
+\newline
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541 \\
+\newline
+Es gibt unendlichviele Primzahlen, denn sind $p_i$ die Primzahlen der Reihe nach  von 2 her, so ist $1 + \prod\limits_{i=1}^n$ wieder eine Primzahl, aber nicht die nächste. \\
+\newline
+Eines der schnellsten verfahren Primzahlen zu finden ist das Sieb des Eratosthenes: \\
+1. Generiere eine Liste von Zahlen bis zu der Zahl man Primzahlen finden will \\
+2. für alle Primteiler $\leq \sqrt{g}$ gehe man durch die Liste und streiche alle Vielfachen des Primteilers \\
+3. man gehe zum nächsten Primteiler und streiche wieder alle vielfache durch \/
+Was übrig bleibt sind Primzahlen. Auf wikipedia gibt es eine schöne Animation davon \\
+\newline
+\newpage
+\subsection{Implementation in C++}
+\begin{verbatim}
+#include <iostream>
+bool eratosthenes(bool *nListe, int nGrenze);  //Forward Declaration
+using namespace std;
+int main(int argc, char** argv)
+{
+  int count=0;
+  int grenze=500;
+  bool *liste=new bool[grenze];
+  eratosthenes(liste, grenze);
+  for( int i=0;i<grenze;i++ )
+    if(liste[i]==false)
+    {
+      cout<<" "<<i;
+      count++;
+    }
+  cout<<endl<<count;
+ }
+
+bool eratosthenes(bool *nListe, int nGrenze)    //nListe ist true wenn teilbar
+{
+  if(nGrenze<2) return false;
+
+  int nPrimteiler=2,q=0;
+  while(nPrimteiler*nPrimteiler<=nGrenze)
+  {
+    q=2;
+    while(q*nPrimteiler<=nGrenze)
+    {
+      nListe[q*nPrimteiler]=true;
+      q++;
+    }
+
+    do
+    {
+      nPrimteiler++;
+    }
+    while(nListe[nPrimteiler]==true);
+  }
+  return true;
+}
+\end{verbatim}
+
+Sind $a, b, p \in \mathbb{n}$ und alles Primzahlen, und $p$ das Produkt $a \cdot b$ teilt, so gilt entweder $p | a \vee p | b$
+\begin{align}
+p | a \cdot b \rightarrow p |a \vee p| b  \text{ für Primzahlen}
+\end{align} 
+
+Allenfalls hier noch Beweis einfügen
+%%In Backup 0.0.15 gibt es noch Daten, bzw. eben nicht
+
+\subsection{Zahlen als Primfaktoren}
+Jede Natürliche Zahl $a>1$ lässt sich als Produkt von Primzahlen darstellen: \\
+\begin{align}
+a =\prod\limits_{i=1}^n p_i
+\end{align}
+Da einige Primfaktoren mehrfach vorkommen kann man diese in der Potenzschreibweise darstellen \\
+\begin{align}
+a =\prod\limits_{i=1}^n p_i^{m_i}
+\end{align}
+
+\begin{verbatim}
+public class systemumrechnung
+{
+
+        public static void main(String[] args)
+        {
+                System.out.println("b= "+toSystem(3091, 7));
+                System.out.println("b= "+toDecimal("12004",7));
+        }
+
+        public static String toSystem(int a, int sysb)
+        {
+                int stelleB=0;
+                String b=" ";
+                while(a>0)
+                {
+                        b+=(a%sysb);
+                        stelleB++;
+                        a=a-(a%sysb);
+                        a=a/sysb;
+                        System.out.println(a);
+                }
+                return new StringBuffer(b).reverse().toString();
+        }
+
+        public static int toDecimal(String a, int sysa)
+        {
+                int result=0;
+                for(int i=a.length(); i>0; i--)
+                {
+                        result+=(java.lang.Integer.parseInt(a.substring(i-1,i))) * Math.pow(sysa,a.length()-i);
+                }
+                return result;
+        }
+}
+\end{verbatim}
+
+\section{Allgemeine Zahlentheorie}
+\subsection{Zahlensysteme}
+Für alle Zahlensysteme, z.B. das Zehnersystem ($b=10$) gilt \\
+\begin{align}
+\bigforall_{0 \leq i < m} 0 \leq z_i < b \\
+z_m \neq 0 \\
+n=\sum\limits_{i=0}^m z_i \cdot b^i \\
+\end{align}
+
+\subsection{Zahlenmengen}
+{} = Leere Menge \\
+N  = Natürliche Zahlen \\
+Z  = Ganze Zahlen \\
+Q = Rationale Zahlen \\
+R = Reelle Zahlen \\
+C = Komplexe Zahlen \\
+
+\subsection{Die Ganzen Zahlen $\mathbb{Z}$}
+Subtraktion: abgeschlossen
+Multiplikation: abgeschlossen
+Division: nicht abgeschlossen, es fehlen Werte
+
+\begin{align}
+\begin{tabular}{l l l}
+Assoziativgesetz der Addition:& $\bigforall_{a,b,c \in \mathbb{Z}}  \ (a+b)+c= a+(b+c)   $ \\
+Kommutativgesetz der Addition:& $\bigforall_{a,b \in \mathbb{Z}} \ (a+b)=(b+a) $ \\
+Assoziativgesetz der Multiplikation:& $(a \cdot b) \cdot c = a \cdot (b \cdot c) $ \\
+Kommutativgesetz der Multiplikation:& $(a \cdot b)=(b \cdot a) $ \\
+Distributiv Gesetz: & $ a \cdot (b+c) = ab + cb $ \\
+Existenz eines Neutralen Elements: & \\
+\hspace{5pt}  0 für die Addition: & $\bigexists _{e \in \mathbb{Z}} \ \bigforall_{a \in \mathbb{Z}} \ a+e = e+a = a$&$ a + 0 = 0 + a = a $\\
+\hspace{5pt}  1 für die Multiplikation: & $\bigexists _{e \in \mathbb{Z}} \ \bigforall_{a \in \mathbb{Z}} \ a \cdot e = e \cdot a = a$& $ a \cdot 1 = 1 \cdot a = a $ \\
+Inverses Element: &$\bigforall_{z \in \mathbb{Z}} \ \bigexists_{-z \in \mathbb{Z}} \ z + (-z)=(-z)+z = e$
+\end{tabular}
+\end{align}
+\\
+\subsection{allgemeine Definition einer Gruppe}
+Das Tupel $(G, \otimes)$ aus der Menge G und der Verknüpfung $\otimes$ 
+$G \times G \rightarrow G$ heisst Gruppe wenn gilt \\ \\
+Assoziativgesetz: $\bigforall_{a,b,c \in G}  \ (a \otimes b) \otimes c= a \otimes (b \bigotimes c) $\\
+Neutrales Element: $\bigexists _{e \in G} \ \bigforall_{a \in G} \ a \otimes e = e \otimes a = a $ \\
+Inverses Element: $\bigforall_{x \in G} \ \bigexists_{y \in G} \ x \otimes y= y \otimes x = e $ \\ \\
+$y$ heisst das Inverse Element zu $x$ bezüglich der Operation $\otimes$ z.B. $(\mathbb{Z},+)$ ist eine Gruppe \\
+\begin{align}
+a \otimes x &= b \ \ \ | \otimes \alpha \\
+\alpha \otimes a \otimes x &= \alpha \otimes b \\
+e \otimes x &= \alpha \otimes b \\
+x &= \alpha \otimes b \\
+a \otimes x = b &\rightarrow x = \alpha \otimes b \\
+\alpha \otimes b &\rightarrow x = a \otimes x = b \\
+a \otimes x = b &\leftrightarrow x = \alpha \otimes b \\
+\end{align} \\
+\subsection{kommutative Gruppe oder Abelsche Gruppe}
+\begin{align}
+(G, \otimes) \text{ ist eine Gruppe} \\
+\bigforall_{x,y \in G} x \otimes y = y \otimes x
+\end{align}
+$(\mathbb{Z},+)$ ist eine Kommutative (bzw. Abelsche) Gruppe
+\subsection{Ganze Zahlen und Ringe}
+$(\mathbb{Z}, \cdot)$ ist keine Gruppe, denn folgendes ist nicht lösbar: \\
+$0 \cdot x = 0$ nicht eindeutig lösbar \\
+$0 \cdot x = 5$ oder $4 \cdot x = 7$ ist in $\mathbb{Z}$ überhaupt nicht lösbar \\ \\
+\subsubsection{Ring $(R,+, \cdot)$}
+\begin{tabular}{l l}
+$(R,+)$ & ist eine Kommutative Gruppe \\
+$\bigforall_{x,y,z \in R} \ x \cdot (y \cdot z) = (x \cdot y) \cdot z$ & Assoziativität gegenüber Multiplikation\\
+$\bigforall_{x,y,z \in R} \ x \cdot (y + z) = x \cdot y + x \cdot z$ & Distributivität \\
+$\bigforall_{x,y,z \in R} \ (y + z) \cdot x = y \cdot x + z \cdot x$ & Distributivität
+\end{tabular} \\
+\subsubsection{Kommutiativer Ring $(R,+, \cdot)$}
+\begin{tabular}{l l}
+$(R,+, \cdot)$ ist ein Ring \\
+$\bigforall_{x,y,z \in R} \ x \cdot y = y \cdot x$ & Kommutativgesetz der Multiplikation 
+\end{tabular}
+\subsection{Die Rationalen Zahlen}
+
+$\mathbb{Q} = \Big\{x | x = \frac{p}{q} $ für $p=\mathbb{Z}$ und $q=\mathbb{Z} \setminus \{0\} \Big\}$
+
+\begin{align}
+\begin{tabular}{l l l}
+Assoziativgesetz der Addition:& $\bigforall_{a,b,c \in \mathbb{Q}}  \ (a+b)+c= a+(b+c)   $ \\
+Kommutativgesetz der Addition:& $\bigforall_{a,b \in \mathbb{Q}} \ (a+b)=(b+a) $ \\
+Assoziativgesetz der Multiplikation:& $(a \cdot b) \cdot c = a \cdot (b \cdot c) $ \\
+Kommutativgesetz der Multiplikation:& $(a \cdot b)=(b \cdot a) $ \\
+Distributiv Gesetz: & $ a \cdot (b+c) = ab + cb $ \\
+Existenz eines Neutralen Elements: &  \\
+\hspace{5pt}  0 für die Addition: & $\bigexists _{e \in \mathbb{Z}} \ \bigforall_{a \in \mathbb{Z}} \ a+e = e+a = a$&$ a + 0 = 0 + a = a $ \\
+\hspace{5pt}  1 für die Multiplikation: & $\bigexists _{e \in \mathbb{Z}} \ \bigforall_{a \in \mathbb{Z}} \ a \cdot e = e \cdot a = a$& $ a \cdot 1 = 1 \cdot a = a $ \\ \\
+Inverses Element: & \\
+\hspace{5pt} für die Addition: &$\bigforall_{z \in \mathbb{Q}} \ \bigexists_{-z \in \mathbb{Q}} \ z + (-z)=(-z)+z = e$ & manchmal auch \huge$\tilde a$ \\
+\hspace{5pt} für die Multiplikation: &$\bigforall_{q \in \mathbb{Q} \setminus \{0\}} \ \bigexists_{\frac{1}{q} \in \mathbb{Q}} \ q \cdot \frac{1}{q} =\frac{1}{q} \cdot q = q \cdot q^{-1} = e$ \\
+\hspace{15pt} mit Brüchen: &$\bigforall_{\frac{p}{q} \in \mathbb{Q} \setminus \{0\}} \ \bigexists_{\frac{q}{p} \in \mathbb{Q}} \ \frac{p}{q} \cdot \frac{q}{p} =\frac{q}{p} \cdot \frac{p}{q} = e$ \\
+\end{tabular}
+\end{align}
+
+$(\mathbb{Q} \setminus \{0\}, \cdot )$ ist eine Abelsche Gruppe \\
+
+\subsection{Körper}
+\begin{tabular}{l l}
+$(K,+)$ & ist eine Kommutative Gruppe \\
+$(K \setminus \{0\}, \cdot)$ & ist eine Gruppe \\
+$\bigforall_{x,y,z \in K} \ x \cdot (y + z) = x \cdot y + x \cdot z $ & Distributivität \\
+$\bigforall_{x,y,z \in K} \ (y + z) \cdot x = y \cdot x + z \cdot x $ & Distributivität \\
+\end{tabular}
+
+\subsubsection{Kommutativer Körper}
+Ist $(K \setminus \{0\}, \cdot)$ eine abelsche Gruppe ist $(K \setminus \{0\}, +, \cdot )$ ein Kommutativer Körper
+
+\subsection{Dezimalstellen}
+\begin{align}
+0,a_1 a_2 a_3 a_4...a_n = \frac{a_1 a_2 a_3 a_4...a_n}{10^n} \\
+0,\overline{a_1 a_2 a_3 a_4...a_n} = \frac{a_1 a_2 a_3 a_4...a_n}{10^n-1} \\
+0,a_1 a_2 a_3 a_4...a_n \overline{b_1 b_2 b_3 b_4...b_m}= 0,a_1 a_2 a_3 a_4...a_n + \frac{1}{(10^n-1) \cdot 10^m}
+\end{align}
+
+
+\end{document} 
