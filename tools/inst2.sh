@@ -201,6 +201,7 @@ fi
 apt-get install -y apt-file
 apt-file update
 apt-get install -y espeak-ng
+apt-get install -y jackd2 qjackctl zita-ajbridge pulseaudio-module-jack 
 apt-get install -y pavumeter
 apt-get install -y callibre
 apt-get install -y iotop
