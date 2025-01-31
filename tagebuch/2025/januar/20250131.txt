@@ -59,3 +59,12 @@ Fri Jan 31 06:49:33 AM CET 2025
 c170c92e45a0079ebe055c95984c19be8cea54a6
 -------------
 
+interessanterweise lässt sich diese Datei jetzt nicht drucken...
+
+vermutlich cups tod oder mit dem update gestern sabotiert worden
+-------------
+c170c92e45a0079ebe055c95984c19be8cea54a6
+Fri Jan 31 06:54:01 AM CET 2025
+8d40118d53b7cf96251bca3f9da2a3c213390cc0
+-------------
+
