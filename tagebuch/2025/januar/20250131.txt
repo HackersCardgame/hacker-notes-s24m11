@@ -68,3 +68,11 @@ Fri Jan 31 06:54:01 AM CET 2025
 8d40118d53b7cf96251bca3f9da2a3c213390cc0
 -------------
 
+und auch print to pdf file geht nicht mehr
+
+-------------
+8d40118d53b7cf96251bca3f9da2a3c213390cc0
+Fri Jan 31 06:55:36 AM CET 2025
+6f423378e7cce6fb9ef02e2d63e1fd26165a8898
+-------------
+
