@@ -105,3 +105,20 @@ Sat Feb  1 07:55:19 PM CET 2025
 0d61bb73e175df26b3acf573ba25a02e2cbfa5ba
 -------------
 
+ihc vermute es ist cups selber, druckaufträge werden gar nicht mehr erfasst in der printer queue
+
+
+auch druck in ein pdf geht nciht mehr 
+
+korrektur, es ist wieder wie schon mal in der config von gedit
+
+-------------
+637b48e97850a8935389e618f2b2abce029049b7
+Sat Feb  1 08:04:48 PM CET 2025
+4310e0d7882bd0ca0eb76284dda31fa3edd3b579
+-------------
+
+=============
+4310e0d7882bd0ca0eb76284dda31fa3edd3b579 -- 20250201 20:02:27 
+=============
+
