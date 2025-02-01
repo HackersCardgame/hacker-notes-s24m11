@@ -93,3 +93,12 @@ Sat Feb  1 07:53:24 PM CET 2025
 dcd69d9a7ae31fcce67dd639e589c977cae96083
 -------------
 
+dann verhindert immer noch zensursoftware dass ich dieses dokument drucke
+
+systemctl restart cups hilft nicth
+-------------
+dcd69d9a7ae31fcce67dd639e589c977cae96083
+Sat Feb  1 07:55:19 PM CET 2025
+0d61bb73e175df26b3acf573ba25a02e2cbfa5ba
+-------------
+
