@@ -157,4 +157,7 @@ also das C4ISR System was auch die Polizei [1] nutzt bzw viel eher missbraucht i
 
 [1] apropos confidnetial ASN1 anleitungen vom Bund 
 
+=============
+49ec1f1b8bd3c8f8aa27cb2234fd58409d84a1b5 -- 20250201 20:02:45 
+=============
 
