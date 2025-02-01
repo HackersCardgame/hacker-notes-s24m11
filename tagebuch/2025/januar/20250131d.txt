@@ -96,6 +96,9 @@ dcd69d9a7ae31fcce67dd639e589c977cae96083
 dann verhindert immer noch zensursoftware dass ich dieses dokument drucke
 
 systemctl restart cups hilft nicth
+-> bzw. geht das afaik seit dem apt-get dist-upgrade in debian trixie nicht mehr
+
+
 -------------
 dcd69d9a7ae31fcce67dd639e589c977cae96083
 Sat Feb  1 07:55:19 PM CET 2025
