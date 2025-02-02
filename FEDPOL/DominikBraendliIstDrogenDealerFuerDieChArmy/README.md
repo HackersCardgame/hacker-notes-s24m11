@@ -25,3 +25,13 @@ UND
 "und es lenkt von neuroimplantaten ab, somit hat Hansjürg und Myrtha Pifsterer jetzt einfach den Dominik Brändli ans Messer geliefert"
 
 ... meldet mein Teddy Bär von Claudine dass er jetzt grad wieder draufgehen würde
+
+
+
+Mal RATEN:
+
+Dominik Br. verrät jetzt den Herrn Urs Bl. um
+A) ihn und die ganze Zürich Versichrung gegen mich in den Beissreflex zu schlaten
+B) weil er endlich mithilft die richtigen Täter zu fangen
+
+
