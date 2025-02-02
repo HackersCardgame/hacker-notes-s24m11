@@ -67,7 +67,15 @@ FALLS diese Übermittlungen stimmen wäre die Jursistische Person PrimeVision AG
 WICHTIGSTES wäre aber ...
 ===========
 
-... auch wenn die Firma regelmässig den Namen gewechselt hat, dass man dennoch in der Datenbank ehemaliger (jüngerer) Arbeitgeber [5] sehen würde wenn dort besonders viele Nerds, Autisten, Autisten mit Fehldiagnose Schizophrenie [6] [7]
+... auch wenn die Firma regelmässig den Namen gewechselt hat, dass man dennoch in der Datenbank ehemaliger (jüngerer) Arbeitgeber [5] sehen würde wenn dort besonders viele Nerds, Autisten, Autisten mit Fehldiagnose Schizophrenie [6] [7] nach dieser Arbeitsstelle
+
+* Burn-Out's hatten
+* Unfälle hatten
+* wegen falschen Terror-Anschuldigungen verhaftet wurden
+* Suizid begangen haben
+* in ungeklärten unfällen ums leben gekommen sind
+
+GERNE FALLS das FEDPOL / OSINT / ... das legal Abfragen machen darf auf solchen Datenbanken schauen das FALLS es vermutlich nicht nur eine solche Firma gibt, dass man dort die anderen noch lebenden Autisten retten kann.
 
 
 trophähben SELECT *
@@ -89,3 +97,8 @@ JakShaving (impliziert vorbereitung, impliziert vorsatz)
 [6] unbekannt: thomas zuber hat marc jr landolt als einstellungsbedingung gezwungen dass er (DELETED: Herr Dr. Hansjürg) pfisterer sagen muss dass thomas zuber zugriff auf marc jr landolts krankenakte bekommt
 
 [7] unbeknnat: schiessbefehjl afu marc jr landnort
+
+=============
+5beee508ff7964c6aa880a9f93ccfb0aee1459c5 -- 20250202 15:02:04 
+=============
+
