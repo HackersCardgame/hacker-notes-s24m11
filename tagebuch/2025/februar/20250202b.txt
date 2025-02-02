@@ -72,3 +72,8 @@ trophähben SELECT *
 [3] nachträglich eingefügt worden: "von Microsoft"
 
 [bas] Verrat an BAS AG
+
+=============
+95c45a548d0ab7218f922d8e3b383884a90b094c -- 20250202 15:02:30 
+=============
+
