@@ -13,3 +13,5 @@ im PDF wird erwähnt, dass viele Dealer ins "Event-Busines" abgewandert sind als
 rest steht im PDF von ChatGPT, nicht alles aber einige wichtige Dinge
 
 
+Sun Feb  2 09:58:55 AM CET 2025
+3ee1aa41d1cfb2b7fcc26f40ee186cf9235bc8d6
