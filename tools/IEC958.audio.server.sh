@@ -34,10 +34,10 @@ sleep 5
 
 
 # Das hier ist die onboard soundkarte für die billigen Funkkopfhörer mit schlechtem Frequenzgang, zum Musik MACHEN eher suboptimal 
+/usr/bin/alsa_out -j "onboard_out" -d hw:0 -r 48000 &
 
-/usr/bin/alsa_out -j “onboard_out" -d hw:0 -r 48000 &
 which alsa_in
+alsa_in -j "toslink1_in" -d hw:2 -r 48000 &
 
-alsa_in -j “toslinkl_in" -d hw:3 -r 48000 &
+alsa_in -j "toslink2_in" -d hw:3 -r 48000 &
 
-alsa_in -j "toslink2" -d hw:d -r 48000 &
