@@ -1,5 +1,4 @@
 aplay /usr/share/lmms/samples/shapes/*.wav
-play -l jgorep Icu
 
 aplay -l |grep ICU
 # card 2: ICUSBAUDIO7D [ICUSBAUDIO7D], device 0: USB Audio [USB Audio]
