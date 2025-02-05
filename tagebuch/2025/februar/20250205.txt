@@ -48,3 +48,16 @@ also somit bis das geklärt ist sollte die firma in internationalen datenbanken 
 f390954bb4190a3e7f23fcd191484b991ec0693c -- 20250205 14:02:15 
 =============
 
+marc@debian:~/hacker-notes-s24m11$ figlet Crypto AG
+  ____                  _             _    ____ 
+ / ___|_ __ _   _ _ __ | |_ ___      / \  / ___|
+| |   | '__| | | | '_ \| __/ _ \    / _ \| |  _ 
+| |___| |  | |_| | |_) | || (_) |  / ___ \ |_| |
+ \____|_|   \__, | .__/ \__\___/  /_/   \_\____|
+            |___/|_|                            
+marc@debian:~/hacker-notes-s24m11$ 
+
+
+somit wäre der Crypto-AG Leak eine fremdspur gewesen oder eine alte firma welche die schweizer armee liquidiet hat, logischewrweise würden militärsiche stalker ähm ich meine stalker mit offizierstitel des Terrornetzzwerks "Schbweizer Armme" grad dort sein wollen wo der Ton von einem mikrophon aufgezeichnet wird, also z.B. in bluetooth headsets oder in logitech funk-kanal kopfhörern, oder in tastaturen für das passwort
+
+
