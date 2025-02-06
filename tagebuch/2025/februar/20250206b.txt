@@ -127,13 +127,14 @@ zB. habe ich audio hicks auf meinem Glasfaser audio server, da wurde eingeblende
 
 also das konzept was mutmasslich pfisterer udn urs blum schon seit jahren an mir verüben, urs blum sabotiert etwas, nutzt dann die sprachsynthese von pfisterer und umgekehrt, so würde man immer gengen den falschen täter welcher dann ein alibi hätte ermitteln
 
-das wäre somit auch ein default design pattern von rechtsschutz versichrungen um Täter vor strafverfolgung zu schützen [2]
-
+das wäre somit auch ein default design pattern von > rechtsschutz versichrungen < um Täter vor strafverfolgung zu schützen [2]
+                                                     --------------------------
+                                                       -> da wurde jetzt beim erwähenen der "Rechsverdreher" ein weiterer 
+                                                          delay eingebaut um das zu verschleiern
 
 [2] 1e44589ffc4fd519bc830754f63eb67da5b1050c -- 20250206 12:02:44 Beim hangartner hört man wieder eine lauten knall
 
 =============
-1e44589ffc4fd519bc830754f63eb67da5b1050c -- 20250206 12:02:06 
+87b11c3dd5e189cce734437f6a4e9c3437678782 -- 20250206 12:02:09 
 =============
-
 
