@@ -97,3 +97,11 @@ etwas wie ein proximity sensor für EEG Action Prediction
 55c6d648b1ccd2140f0ad5a928bef076f26395ff -- 20250206 12:02:21 
 =============
 
+zeitgleich wird praktisch immer g40.2 eingeschaltet oder erhöht, und der loop abgespielt "its your own fault" -- was es eben genau nicht ist
+
+und sobald man das weiss triggert das einem auch nicht mehr so aber löst immer noch epilepsie anfälle aus
+
+=============
+2a66f2c84c44e417db46cb124ab3ff0e6efef6aa -- 20250206 12:02:58 
+=============
+
