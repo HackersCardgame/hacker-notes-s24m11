@@ -83,4 +83,9 @@ dann diese technischen probleme auch bereits bei Primevision von tomas zuber, od
 dee058b9bd1e07e1fb2621ae8e8f82c42a18bc9e -- 20250206 12:02:51 
 =============
 
+dann vermute ich in ALSA ist relcht viel interaktive malware (allenfalls auch nur statemachines) beriets eingebaut, was dann ausgänge nicht ans gui meldet, ... also alsa mit a16 karte infiziert worden, allenfalls nur armhf architektur, allenfalls aber auch andere
+
+=============
+111f293e7f6cfd8c37acf51d466ded982437648c -- 20250206 12:02:00 
+=============
 
