@@ -57,6 +57,9 @@ e03bbff6a578939a4997d571b90bac7f884185e9 -- 20250206 12:02:18
 =============
 
 jetzt grad im spezifischen scheint es das netzteil des raspberries gewesen zu sein
+-> das scheint (allenfalls vorsätzlich) nciht reproduzierbar zu sein, also da wird eine Sprengung eingetragen, löscht sich dann wieder heraus
+
+bzw. ladung 1, ladung 2, ladung 3...
 
 das hat einen modus dass es erkannt wenn man das kabel auszieht und wieder einsteckt, und liefert dann nicht mehr genug strom um den raspberry aufzustarten
 
