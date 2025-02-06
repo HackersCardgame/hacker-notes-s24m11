@@ -49,3 +49,10 @@ schlussendlcih eine bioterrorismus drohnung durch die schweizer armee gegen die 
 d27c1e417b4851ce009396d3e766829014507df8 -- 20250206 11:02:39 
 =============
 
+
+dann generell scheint viel des C4ISR systems bereits in der hardware oder in computer chips zu sein, und das wird immer dann gesprengt, wenn man selber etwas angefasst hat um vermeidungsverhalten zu erzeugen.
+
+=============
+e03bbff6a578939a4997d571b90bac7f884185e9 -- 20250206 12:02:18 
+=============
+
