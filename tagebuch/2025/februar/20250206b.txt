@@ -56,3 +56,13 @@ dann generell scheint viel des C4ISR systems bereits in der hardware oder in com
 e03bbff6a578939a4997d571b90bac7f884185e9 -- 20250206 12:02:18 
 =============
 
+jetzt grad im spezifischen scheint es das netzteil des raspberries gewesen zu sein
+
+das hat einen modus dass es erkannt wenn man das kabel auszieht und wieder einsteckt, und liefert dann nicht mehr genug strom um den raspberry aufzustarten
+
+dann würde man den fehler im raspberry oder in der usb verkableung welche man geändert hat suchen
+
+so wie das netzteil von galaxus dass 3 monate alt ist oder die logitech funkkofhörer welche einfach deaktiviert werden könnnen, dann dem steuertahler als "sicherheits funktion" verkauft wird aber de facto selber ein terrornetzwerk darastellt um mesnchen in suizide oder amokläufe zu treiben welche die ch-army mit solchen dingen in verbringen kann
+
+
+
