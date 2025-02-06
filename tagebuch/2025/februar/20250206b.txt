@@ -114,3 +114,14 @@ ich vermute die herren super duper retter helden offiziere sind grad am tote tie
 c5d5b1d66fa56f24d950e0c43caac34e38ff7f19 -- 20250206 12:02:38 
 =============
 
+
+dann technisch sind es mehere geräte, und es scheint jedem gerät ein täter team mit der möglichkeit sabotage loops mit falschen ursachen permanent einzutragen
+
+zB. habe ich audio hicks auf meinem Glasfaser audio server, da wurde eingeblendet, dass das sei weil ich jetzt einen zusätzlichen [1] SPDIF eingang an jackaudio angeschlossen hätte. de facto scheint es aber mein desktop zu sein der das auslöst, also desktop verursacht das problem und zeigt dann auf den glasfaser audio server als täter wo ich etwas daran gemacht habe, also wieder etwas was vermeidungsverhalten erzteugen sollte
+
+[1] bereits schon wieder geändert worden <- um die aussage zu verhindern
+
+=============
+49649afadb949d227672e845171463cbb6254dd7 -- 20250206 12:02:07 
+=============
+
