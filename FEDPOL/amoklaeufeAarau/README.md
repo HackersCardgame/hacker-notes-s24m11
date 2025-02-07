@@ -11,4 +11,6 @@ seit dort habe ich immer das gefühl ich hätte die türe ncith abgeschlossen, u
 
 bei der firma primevision / aartec von zuber wäre somit anzunehmen, dass im hintergrund zu meiner verrichteten arbeit der hansjürg pfisterer versucth hat mein eeg zu hacken und versichgdene eeg musster in nutzbare eeg-schnippsel zu ennumeraten (aufzählen) / footprinten
 
+das würde erklären weshalb der thomas zuber als einstellungsbedingung verlangt hat, dass ich pfisterer sage, dass pfisterer dem thomas zuber auskunftsrecht geben dürfe zu meiner krankheit, bzw. zu dem was sie mir grad antun und mich immer mehr und mehr psychotisch macht
+
 
