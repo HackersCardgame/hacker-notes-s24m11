@@ -19,4 +19,6 @@ alexander zschocke konnte vermutlcih damals 2000 bereits oben durhc und kannte d
 
 also wäre alexander zschocke allenfalls auch beteiligt, und alexander zschocke hatte auch 2 stockwerke über dem musikstudio was ich mit marc weber gemietet hatte die firma BAS AG
 
+dann ALLERSCHIMMSTEN FALLS hätten herren zuber, pfisterer und zschocke das mit Closed source gemacht, also mit einem API / Schamanischen Interface wie Natural Language processing wo die Drogen die lizenzgebühren für das C4ISR system waren, wo aber die herren keine möglichkeit hätten diesem system einhalt zu gebieten
+
 
