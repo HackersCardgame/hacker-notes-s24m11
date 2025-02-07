@@ -22,3 +22,6 @@ also wäre alexander zschocke allenfalls auch beteiligt, und alexander zschocke 
 dann ALLERSCHIMMSTEN FALLS hätten herren zuber, pfisterer und zschocke das mit Closed source gemacht, also mit einem API / Schamanischen Interface wie Natural Language processing wo die Drogen die lizenzgebühren für das C4ISR system waren, wo aber die herren keine möglichkeit hätten diesem system einhalt zu gebieten
 
 
+Fri Feb  7 06:08:58 PM CET 2025
+
+1196dc64835e7e5d7a6ec42a22cb25b9467d91b6
