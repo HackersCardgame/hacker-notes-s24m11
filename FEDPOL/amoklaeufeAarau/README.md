@@ -13,4 +13,10 @@ bei der firma primevision / aartec von zuber wäre somit anzunehmen, dass im hin
 
 das würde erklären weshalb der thomas zuber als einstellungsbedingung verlangt hat, dass ich pfisterer sage, dass pfisterer dem thomas zuber auskunftsrecht geben dürfe zu meiner krankheit, bzw. zu dem was sie mir grad antun und mich immer mehr und mehr psychotisch macht
 
+thomas zuber, hansjürg pfisterer und allenfalls auch dominic zschocke wären somti allenfalls ein engespieltes brainjackning team
+
+alexander zschocke konnte vermutlcih damals 2000 bereits oben durhc und kannte die leuzte im P & O des kantons / Steueramtes.
+
+also wäre alexander zschocke allenfalls auch beteiligt, und alexander zschocke hatte auch 2 stockwerke über dem musikstudio was ich mit marc weber gemietet hatte die firma BAS AG
+
 
