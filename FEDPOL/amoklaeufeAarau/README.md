@@ -28,4 +28,4 @@ Fri Feb  7 06:08:58 PM CET 2025
 
 dann das Buch "the SEARCH for the manchurian candidate" [1] impliziert ja auch irgendwie dass man nicht alle Menschen zu Amokläufern umprogrammieren kann
 
-[1] der film heisst interessanterweise nur "the manchurian candidate
+[1] der film heisst interessanterweise nur "the manchurian candidate"
