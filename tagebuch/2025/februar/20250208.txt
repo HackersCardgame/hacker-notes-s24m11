@@ -70,6 +70,7 @@ psychological/messaging-queue/
 
 A) von jemandem missbraucht
 B) ist ein teil einer grösser angelegten messaging queue im Kontext von Lara
+C) zeitgesteuert
 
 und die herren täter würden grad schauen dass sie das perfekte alibi haben
 
