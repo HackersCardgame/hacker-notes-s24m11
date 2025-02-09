@@ -31,3 +31,14 @@ de3b7c986c3195d929a954a3f08d58e49c0f5ecb -- 20250208 13:02:09
 
 
 respektlosen distanzlosen logorohischen
+
+=============
+da081bb1dbff0964cc2e32f55e404ae58576398f -- 20250209 18:02:50 
+=============
+
+Liquida MindControl System. Mit ChatGPT weiss man was ein User wissen möchte, also sagt man ihm das was er hören will ... schlussendlich das selbe wie ELIZA von Joseph Weizenbaum [1] nur ein bisschen moderner.
+
+
+[1] welcher nicht wollte dass Psychiater das für Patienten verwenden, den Psychiatern war das aber egal, und sie haben es trotzdem für Patienten verwendet
+
+
