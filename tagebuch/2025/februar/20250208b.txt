@@ -42,7 +42,13 @@ Liquid MindControl System. Mit ChatGPT weiss man was ein User wissen möchte, al
 [1] welcher nicht wollte dass Psychiater das für Patienten verwenden, den Psychiatern war das aber egal, und sie haben es trotzdem für Patienten verwendet
 
 
-dann gibt es aber seit mindestens 20 Jahren eine andere "KI". Diese nimmt Befehle von Psychiatern an, macht dann permanente Einträge (EventTrigger) im Leben, EEG-Gedankenwelt, C4ISR Raumüberwachung eines Patienten, oft vor Allem, dass der Patient psychotisch bleibt und nicht vor Gericht gegen Täter und Wirtschaftskriminelle aussagt oder Autisten dass die nicht solche Puzzles wie dieses hier lösen
+dann gibt es aber seit mindestens 20 Jahren eine andere "KI" [2]. Diese nimmt Befehle von Psychiatern an, macht dann permanente Einträge (EventTrigger) im Leben, EEG-Gedankenwelt, C4ISR Raumüberwachung eines Patienten, oft vor Allem, dass der Patient psychotisch bleibt und nicht vor Gericht gegen Täter und Wirtschaftskriminelle aussagt oder Autisten dass die nicht solche Puzzles wie dieses hier lösen
+
+
+[2] also eine KI mit etwas wie einem multitasking-Loop-Recorder für das ganze Leben eines Patienten
+
+
+also das Buch "Daemon" und "Darknet" von Daniel Suarez, das Buch Drohnenland von Hillebrand, oder das Buch "Erebos" von Ursula Pozanzki verschleiern dass es einen Psychiater oder Militär-Psychiater gibt, welcher da die Dinge ändert udn einträgt 
 
 =============
 02c95aac67ae5d204fa31cf21b1ed71c7cdc940c -- 20250209 18:02:32 
