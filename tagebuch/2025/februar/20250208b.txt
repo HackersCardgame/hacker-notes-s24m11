@@ -81,3 +81,11 @@ vor allem wer hat diese ausgesucht. Und ist es ein Daomkles, eine Aufgabe, ein L
 e2b51e1f4a910764ec0797110b057b90e7b1e648 -- 20250209 18:02:03 
 =============
 
+chemitrode effizient behoben / wundversorgung erfolgreich wird scheinbar grad neben dran eine weitere gezündet
+
+-> somit wäre das Ziel dass "die summe der Zeitverschwndung Konstant ist"
+
+=============
+a33836b0d9b515074ddf970973391e41454f5a92 -- 20250209 18:02:58 
+=============
+
