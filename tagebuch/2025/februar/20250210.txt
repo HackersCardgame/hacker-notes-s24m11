@@ -148,7 +148,10 @@ Also das Mathematische-Modell hinter diesem MUTMASSLICH Weltweiten Schlammasel w
 
 4. dann gibt es so halb beteiligte aber nicht eingeweihte welche einfach auch von dem geraubten Geld gefürttert werden und allenfalls in einer Abhängikeit deswegen stehen
 
-Das PDF dazu von ChatGPT, so richtig gut ist das aber nicht, entweder wird bereits in den Trainingsdaten dieses Konzept nie erwähnt oder wir brauchen einen Exorzisten für ChatGPT
+Das PDF dazu von ChatGPT, so richtig gut ist die Antwort von ChatGPT [] aber nicht, entweder wird bereits in den Trainingsdaten dieses Konzept nie erwähnt oder wir brauchen einen Exorzisten für ChatGPT
+
+[1] FEDPOL/iterativesPrisonersDilemma/iteratives-multiuser-prisoners-dilemma-PREMIUM-PLUS.pdfFEDPOL/iterativesPrisonersDilemma/iteratives-multiuser-prisoners-dilemma-PREMIUM-PLUS.pdf
+
 
 marc@debian:~/hacker-notes-s24m11/FEDPOL/iterativesPrisonersDilemma$ figlet INTERPOL
  ___ _   _ _____ _____ ____  ____   ___  _     
