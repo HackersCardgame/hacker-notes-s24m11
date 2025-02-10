@@ -9,3 +9,7 @@ Chat-GPT hat berechnet, dass wenn man mindestens 10 Täter von einem grösseren 
 
 Screenshot From 2025-02-10 11-30-22.png
 Screenshot From 2025-02-10 11-30-51.png
+
+also der Film "Band of Brothers" im Use Case dass man damit raubt, mordet und brandschatzt wäre voll die Verarsche wenn man diese berechnugnen berücksichtigt
+
+
