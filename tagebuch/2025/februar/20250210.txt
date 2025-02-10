@@ -129,3 +129,35 @@ der mord an der 14 jährigen cornelia utz als drogentote getarnt wäre somit vor
 a5d1cca1b54591059a06de3f68b01b26d802b5f9 -- 20250210 11:02:59 
 =============
 
+marc@debian:~/hacker-notes-s24m11/FEDPOL/iterativesPrisonersDilemma$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+Also das Mathematische-Modell hinter diesem MUTMASSLICH Weltweiten Schlammasel wäre
+         ====================
+
+1. es gibt eine Tätergruppe die viel miteinander interagiert und kommnuniziert
+
+2. sie wählen einen Sündenbock aus der kein Eingeweihter ist und keine Details zu den Taten hat und auch nicht beteiligt war ausser als Statist und Sündenbock
+
+3. ein Teil des Justiz- und Polizei-Wesens gehört gehört zur Täterschaft dazu, wurde explizit von Wirtschaftskriminellen oder Militärs auf wichtige Posten gesetzt
+
+4. dann gibt es so halb beteiligte aber nicht eingeweihte welche einfach auch von dem geraubten Geld gefürttert werden und allenfalls in einer Abhängikeit deswegen stehen
+
+Das PDF dazu von ChatGPT, so richtig gut ist das aber nicht, entweder wird bereits in den Trainingsdaten dieses Konzept nie erwähnt oder wir brauchen einen Exorzisten für ChatGPT
+
+marc@debian:~/hacker-notes-s24m11/FEDPOL/iterativesPrisonersDilemma$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+Dann nur spass: "Marcel Rüegg, Du hast mich mal Schach-Gross-Meister genannt, war das zynisch gemeint?"
+
+
