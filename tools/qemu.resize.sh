@@ -9,3 +9,13 @@ also die zahl gibt an was danach total verwendet werden soll, also das ist nicht
 # in der VM: growpart /dev/vda 1
 #
 # in der VM: resize2fs /dev/vda1
+#
+#
+
+dann in einigen distros scheint der Pfad zu fehlen
+
+dort wäre es
+
+PATH=$PATH growpart /dev/vda 1  (MIT einem abstand)
+dann
+/usr/sbin/resize2fs /dev/vda1
