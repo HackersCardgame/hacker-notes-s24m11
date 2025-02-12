@@ -61,3 +61,4 @@ nicht 100% sicher, aber dann scheint mein USB Stick mit /boot irgendwie unvorher
 ffadea0793a28a7071dac5c6e1d919cd7f6c01da -- 20250212 17:02:27 
 =============
 
+
