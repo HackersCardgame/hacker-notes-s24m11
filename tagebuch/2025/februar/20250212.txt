@@ -63,4 +63,6 @@ B) mobiles täternetzwerk mit solchem equipment
 ffadea0793a28a7071dac5c6e1d919cd7f6c01da -- 20250212 17:02:27 
 =============
 
+dann für die nerdigen nerds:
 
+Externer usb datenträger mit Hardware schreibschutz UND eine Blinkenden LED wenn da drauf zugegriffen wird IS YOUR FRIEND
