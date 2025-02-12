@@ -44,5 +44,6 @@ FEDPOL/buecherVerbrennungDurchSchlichtungsRichterAarau/RacheDurchINTEL.png
 
 somit hat Intel auch beweismittel zu den Morden im Rombachtäli. Was dann hiessen würde, dass diese MUTMASSLICHEN Intel Hardware Backdoor devices alles protokollieren und an USA übermitteln und dort auch eine Epresserdatenabank füllen
 
-
+dominic zschocke: fügt den Selektor "übergeordnetes Recht" in das Dokument ein
+Urs Blum: fügt die Zürich Verischrung in das Dokument ein, somit haben wir ca 10'000 Mitarbeiter zusätzlich um die zu verschleiern dass die Justiz aufgekauft wurde
 
