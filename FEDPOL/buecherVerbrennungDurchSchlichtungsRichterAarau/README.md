@@ -33,3 +33,16 @@ Marc jr Landolt hat dort informationen im Rombachtäli gefunden, dass es mindest
 die Kündigung wurde produziert von jürg stalder welcher für ruedi müller systematische morde der schweizer armee an zivilisten vertuschen sollte
 
 [FORK] die familie blum nach dem zureiten dem marc jr landolt die Wohnung im rombachtäli ausgesucht haben
+
+
+UNBEKANNT:
+Marc jr Landolt hat es technisch und komplett legal geschafft einen begründeten Verdacht wegen militärsichen Hardware Backdoors in INTEL CPU's zu legitimieren
+
+Somit hätte jetzt Intel diesen Datenpunkt welche die ganze Justiz in Aarau zurecht unter verdacht stellt freigeschaltet um die Justiz dazu anzutreiben den Zeugen und Autsiten Marc jr Landolt zu ermorde
+
+FEDPOL/buecherVerbrennungDurchSchlichtungsRichterAarau/RacheDurchINTEL.png
+
+somit hat Intel auch beweismittel zu den Morden im Rombachtäli. Was dann hiessen würde, dass diese MUTMASSLICHEN Intel Hardware Backdoor devices alles protokollieren und an USA übermitteln und dort auch eine Epresserdatenabank füllen
+
+
+
