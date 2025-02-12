@@ -25,4 +25,11 @@ dann sprachsample hahaha staatsanwalt marco Spring(vom Balkon marc jr) hat das g
 
 HILFE
 
+UNBEKANNT:
+mindestens 10 Morde im Rombachtäli verübt worden durch Offiziere wie Ruedi Müller
 
+Marc jr Landolt hat dort informationen im Rombachtäli gefunden, dass es mindestens 7 Suizide gab. der erste von dem marc jr landolt erfahren hat war der Hauswart vor der Rosa Manic, welcher suizid beging oder in den suizid getreiben wurde bevor [FORK] marc jr landolt dort eingezogen ist
+
+die Kündigung wurde produziert von jürg stalder welcher für ruedi müller systematische morde der schweizer armee an zivilisten vertuschen sollte
+
+[FORK] die familie blum nach dem zureiten dem marc jr landolt die Wohnung im rombachtäli ausgesucht haben
