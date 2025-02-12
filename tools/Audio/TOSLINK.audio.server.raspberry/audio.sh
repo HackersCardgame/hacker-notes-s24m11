@@ -54,7 +54,7 @@ die USB PnP karte macht irgendwie geräusche, bzw. ist es vermutlich sendeinfras
 im selben Verzeichnis: usbDevicesUndDAC.jpeg
  * die USB_PnP Karte ist die UGREEN auf dem Foto
  * dann die ICU... Karte ist das blaue Ding
- * für den DAC benötigt man noch ein übergangskabel von Stereo Chinch auf Klinke 3.5 Stecherbuchse ('weiblich')
+ * für den DAC benötigt man noch ein übergangskabel von Stereo Chinch auf Klinke 3.5 Stecherbuchse ('weiblich'), dann ist es komplett getrennt vom elektrischen stromkreis da der DAC ein eigenes Netzteil hat. ABER braucht man auch nicht weil man hat bei dem cm106 den normalen stereo kopfhörer out und kann es dort anstecken
 
 somit 3 von diesen ICUSBAUDIO (cm106 Chip) dingern mit je 1x spdif in und 1x spdif out verwendet
 
