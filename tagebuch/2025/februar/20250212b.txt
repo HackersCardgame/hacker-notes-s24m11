@@ -4,6 +4,9 @@ fd866f06e3903ab1eeaa6cd70f29af8c2043bc25 -- 20250212 22:02:04
 
 Algorithmus multiuser-interlocking-problems wo der "unterbrecher" beliebig gewäht wird aus verfügbaren Telegram Benutzern
 
+
+was dann sowieso nur etwas mächtiges wie ein C4ISR System sein kann wenn das über ganz europa funktionert und missbruacht wird
+
 =============
 fd866f06e3903ab1eeaa6cd70f29af8c2043bc25 -- 20250212 22:02:41 
 =============
