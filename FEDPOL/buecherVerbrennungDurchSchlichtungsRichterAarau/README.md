@@ -9,3 +9,10 @@ also schlussendlich drohte obdachlosigkeit und ich musste all meine Bücher fort
 Abgesegnet vom Schlichtungsrichter in Aarau und auch dem "Vertreter für die Mieter" (welcher angebeblich auf meiner Seite war -- und schuldig im Sinne der Anklage, ich bin irgendwie naiv)
 
 
+82b9d434ba1c8586eb5fc63d3e1256d301758433
+
+Wed Feb 12 03:27:08 PM CET 2025
+
+jemand ergänzt: Schlichtungs-Richter sind im normalfall militärsische Schächtungs-Richter
+
+
