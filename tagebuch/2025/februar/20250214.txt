@@ -210,6 +210,20 @@ ihc vermtue das wäre eine sprengung der ganzen file allocation table
 7bc284cafd251fdd3feb1a25e061516a61bbbf65 -- 20250214 13:02:36 
 =============
 
+...
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 FEDPOL/FallCorneliaUtz_Bildungselite/Screenshot From 2025-02-14 13-15-41.png
+ create mode 100644 FEDPOL/FallCorneliaUtz_Bildungselite/Screenshot From 2025-02-14 13-16-09.png
+Enumerating objects: 9, done.
+
+...
+
+somit wäre eine Anweisung des Terrornetzwerks von Dominic Zschocke, Urs Blum, Simon Härdi, Hansjürg Pfsitere die Backdoors im Host nicht zu verwenden nru diese in der VM, damit die noch reseve haben einen Zeugen oder autisten der wie ich puzzles löst wegsprengen kann
+
+=============
+ec72210e2d367b4ce9e17a257b94e8784c6369be -- 20250214 13:02:31 
+=============
+
 =============
 d5eff4d1564abecad28422278a946a075808d2f2 -- 20250214 13:02:50 
 =============
