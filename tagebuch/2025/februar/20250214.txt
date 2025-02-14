@@ -68,3 +68,11 @@ dann bedeutet "Notfall-Sprenung" aus dem Mund eines Offiziers der Schweizer Arme
 deadbc06e68f616728600024f0682086c0d83bb9 -- 20250214 10:02:13 
 =============
 
+
+erste stufe der sprengung durch die schweizer armee
+
+* audio server D-Link macht irgen ein mist, schiesst qJack ab
+* zweite stufe vermutlcih eine dDOS auf das USB System des Asus Tinkerboards
+* dritte stufe [1]
+
+[1] simon härdi, artillerie, ladung 100000
