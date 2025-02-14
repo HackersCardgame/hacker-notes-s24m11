@@ -75,6 +75,7 @@ erste stufe der sprengung durch die schweizer armee
 * zweite stufe vermutlcih eine dDOS auf das USB System des Asus Tinkerboards
 * dritte stufe [1] wirst case port nummern des USB Hubs umdefiniert
 * vierste Stufe, audio artefakte
+* fünfte stufe, interative audio incejctiosn oder ich sychnroch zu den audio artefakten gesteuert, heisst das C4ISR system ist damit verbunden
 
 -> 
 
