@@ -153,5 +153,10 @@ ANYBODY???
 604cb3e3950c5d07e1b2ff9cb7d5a91031bfd90c -- 20250214 11:02:45 
 =============
 
+somit wäre EIN USB Probleme Puzzle allenfalls auch gelöst (die D-Link USB Hubs haben funk-kanal backdoors drin, die habe ich beide bei Brack.ch betellt und der herr brack ist ein studienkollege von simon härdi oder ein verbindungsbrudi von simon härdi
+
+=============
+19c7479c7fb3043ecedfe1c67a716ab61c83dba2 -- 20250214 11:02:14 
+=============
 
 
