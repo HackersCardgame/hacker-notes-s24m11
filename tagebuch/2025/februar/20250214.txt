@@ -220,6 +220,11 @@ Enumerating objects: 9, done.
 
 somit wäre eine Anweisung des Terrornetzwerks von Dominic Zschocke, Urs Blum, Simon Härdi, Hansjürg Pfsitere die Backdoors im Host nicht zu verwenden nru diese in der VM, damit die noch reseve haben einen Zeugen oder autisten der wie ich puzzles löst wegsprengen kann
 
+
+korrektur:
+gnome nautilus sagt "unmounted" aber mount am bash sagt dass das gelogen ist
+
+
 =============
 ec72210e2d367b4ce9e17a257b94e8784c6369be -- 20250214 13:02:31 
 =============
@@ -227,4 +232,11 @@ ec72210e2d367b4ce9e17a257b94e8784c6369be -- 20250214 13:02:31
 =============
 d5eff4d1564abecad28422278a946a075808d2f2 -- 20250214 13:02:50 
 =============
+
+nächste stufe, doch auch host
+
+=============
+103042cb6ed4a3c580feb3f00a6a8a4711d87735 -- 20250214 13:02:00 
+=============
+
 
