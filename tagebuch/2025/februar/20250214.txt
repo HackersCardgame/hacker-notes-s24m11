@@ -71,11 +71,18 @@ deadbc06e68f616728600024f0682086c0d83bb9 -- 20250214 10:02:13
 
 erste stufe der sprengung durch die schweizer armee
 
-* audio server D-Link macht irgen ein mist, schiesst qJack ab
+* audio server D-Link [2] macht irgen ein mist, schiesst qJack ab
 * zweite stufe vermutlcih eine dDOS auf das USB System des Asus Tinkerboards
 * dritte stufe [1] wirst case port nummern des USB Hubs umdefiniert
 * vierste Stufe, audio artefakte
 
-
+-> 
 
 [1] simon härdi, artillerie, ladung 100000
+
+[2] D-Link würde so nacht Deutschland klingen, wäre wie immer eine fremdsprulegung zu DE, so wie schweizer offiziere welche sich einen hilterschnauz wachsen lassen
+
+=============
+9bb6930a94141533e953863b37dda033b25f6127 -- 20250214 10:02:22 
+=============
+
