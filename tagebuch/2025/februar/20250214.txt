@@ -204,6 +204,12 @@ dy/dt (mathematik: differenzieren)
 multisequenz cybersprengfalle, sowohl in der VM als auch auf dem Host, allenfals SD Karte remote eye-fi
 FEDPOL/FallCorneliaUtz_Bildungselite/ZuendungEinerCyberSprengfalleNahcDemIch.brainrain.ch.erwaehneScreenshot*
 
+ihc vermtue das wäre eine sprengung der ganzen file allocation table
+
+=============
+7bc284cafd251fdd3feb1a25e061516a61bbbf65 -- 20250214 13:02:36 
+=============
+
 =============
 d5eff4d1564abecad28422278a946a075808d2f2 -- 20250214 13:02:50 
 =============
