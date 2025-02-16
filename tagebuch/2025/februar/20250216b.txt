@@ -20,12 +20,9 @@ disassembly der aktuellen a16 Karte welche gegen mich aktiviert wurde
        -> impziert 3D modell überwachung wie zB ein C4-ISR System
 * dann diverse schmerzimplnatate jeweils creshendo
    -> die täter wissen, dass ich es als autist hasse bei 90% des aufräumens oder generel bei wenn eine aufgabe 90% erledigt ist aufzuhören
-   
-   
+* dann diverse cyber-dinge, wie z.B. dass chatgpt da ein komma vorschlägt in einem befehl wo es kein komma haben darf
 
 
 [1] hier verabschiedet sich weider mal meine logitech funk-tastatur
-=============
-418e2bbe50a4b20d8551a14cfd88e834170f68ff -- 20250216 05:02:20 
-=============
+
 
