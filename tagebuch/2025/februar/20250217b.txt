@@ -40,4 +40,7 @@ oder z.B bei weilchen handgriffen wenn ich mein Fahrrad repariere man mit minima
 
 also das wären MDO (Maximal Damage Optimization Algorihtmen, auch zB beim Tippen oder beim Dinge scannen etc... sowohl beim drucker-scanner in der pyhsikalischen welt als auch z.B. weg-verlängerung wenn man ein file im nautilus browser sucht
 
+=============
+62c67dc478396e8d8da7bfb647714ac92503d73e -- 20250217 06:02:03 
+=============
 
