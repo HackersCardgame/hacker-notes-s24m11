@@ -48,3 +48,10 @@ brainjacking durch die Psychiatrie Königsfelden (apropos dem Protokoll der Psyc
 9d54c28a8859ac97002ef6d95642ceaf1877dbbf -- 20250218 13:02:52 
 =============
 
+dann ab zeile 44:
+immmer aber wirklcih fast jedes einzelne mal wenn die schweizer armee und der Missbauch des Machtmittels C4-ISR systems auffliegt verraten die einfach die psychiatrie köngigsfelden welhce mutmasslich für den Auftraggeber Schweizer Armme zeugen zu suizidanten oder amokläufer abgerichtet haben
+
+=============
+2ac9b3eb66da82676f3351ca66b47930011f72fc -- 20250218 13:02:35 
+=============
+
