@@ -25,3 +25,6 @@ dann der chatGPT rät "Single points of failure / contact" zu vermeiden wenn man
 69858f27e047ed1ec5a0e63d69e89285dc7fbd5b -- 20250218 12:02:21 
 =============
 
+unbekannt:
+somit wäre die "Unique Selling Proposition" von urs blum allen aktuellen steueramt-mitarbeitern gegenüber: "verratet die wirtschaftskriminellen und blums werden euch auch zu amokläufern abrichten"
+
