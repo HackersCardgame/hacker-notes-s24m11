@@ -12,3 +12,7 @@ jakshaving: (um die eigentliche Aussage abzufangen, Rechtsverdreher Software, al
 [mher] kürzel von marc herrman, auch steueramt ca 2000
 
 [2] urs blum: fügt "von der Zürich versicheruzng" <- weitere täter verraten urs blum und so mehr personal gegen den Zeugen marc rj alndolt erzwignen?
+
+
+9330678f87a9c07806e7561e5d4e9aaec7ffc1e4
+Tue Feb 18 12:54:29 PM CET 2025
