@@ -41,3 +41,10 @@ somit würede das erklären weshalb urs blum mit sprengfallen anfängt zu drohen
 0c786519010cbd383d0591da293a88c2cb1b9498 -- 20250218 13:02:09 
 =============
 
+UNBEKANNT:
+brainjacking durch die Psychiatrie Königsfelden (apropos dem Protokoll der Psychiatrie: "Marc jr ist jetzt wieder gut fernsteuerbar") würde impolizieren dass das kantonale netzwerk, das Steueramt und auch die angeschlossenen gemeinden primär dazu missbraucht werden menschen zu amokläufern abzurichten, bzw. die Schweizer Armee redet nicht von Amokläufern sondern von "Soldaten"
+
+=============
+9d54c28a8859ac97002ef6d95642ceaf1877dbbf -- 20250218 13:02:52 
+=============
+
