@@ -74,3 +74,13 @@ bzw. der virtmanager hat sich verabschiedet
 8eb6a59271ca300f3e72f564d197d0e7c0dc5850 -- 20250218 14:02:38 
 =============
 
+
+urs blum und die zürich versicherung hat verträge [1] mit durchgeknallten militär-Psyhciatern und Militär-ärzten welcihe illegale menschenexperimente an kindern und lehrlingen macht
+
+
+urs blum: hans ueli thut der ABB Felxiblen Automation AG hat ausgesagt: "ich (hansueli) habe eine automatisierte Hühnerschlachtmaschine gebaut" was aber nur eine metapher für das automatisierte abschlachten von Linux-Pinguinen war
+
+=============
+2bba4e14cd2528a9604023863d37924bb821e8c9 -- 20250218 16:46:46 
+=============
+
