@@ -84,3 +84,15 @@ urs blum: hans ueli thut der ABB Felxiblen Automation AG hat ausgesagt: "ich (ha
 2bba4e14cd2528a9604023863d37924bb821e8c9 -- 20250218 16:46:46 
 =============
 
+offline, urs blum schient zur zeit über hardware backdoors zuzugreifen obwohl ich offline bin
++ körperfunktionen wurden gegen mich aktiveirt
++ urs lbum droth mit sprengfallen
+
+-> urs blum hat ein spezialisiertes bakcup sabotage team, das ist vermutlich der thomas zuber und der lukas weber
+----> mit dem verrat bläst urs blumn zusätzlich zu hansueli thut auch den terroristen thomas zuber in den angriff gegen marc jr landolt
+
+=============
+ce41709b480e57bcf1903afc4d3e5ad75e3a7a53 -- 20250218 17:02:15 
+=============
+
+
