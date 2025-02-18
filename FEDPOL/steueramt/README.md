@@ -28,3 +28,16 @@ dann der chatGPT rät "Single points of failure / contact" zu vermeiden wenn man
 unbekannt:
 somit wäre die "Unique Selling Proposition" von urs blum allen aktuellen steueramt-mitarbeitern gegenüber: "verratet die wirtschaftskriminellen und blums werden euch auch zu amokläufern abrichten"
 
+=============
+0c786519010cbd383d0591da293a88c2cb1b9498 -- 20250218 13:02:34 
+=============
+
+DELETED:
+in wiefern hängt das Steueramt am C4-ISR System der Schweizer armee dran, obwohl das übliche Narrativ wäre "die juden sind die banker" wären den meisten miilitärs weltweit einleuchtend, dass steuerämter und banken kreigswichtig sind
+
+somit würede das erklären weshalb urs blum mit sprengfallen anfängt zu drohen wenn auffliegt, dass das steueramt oder das ganze kantonale netzwerk von wirtschaftskrimnelleln und militiärs unterwandert wurde
+
+=============
+0c786519010cbd383d0591da293a88c2cb1b9498 -- 20250218 13:02:09 
+=============
+
