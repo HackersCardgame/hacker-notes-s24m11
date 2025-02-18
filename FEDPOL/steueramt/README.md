@@ -97,5 +97,10 @@ ce41709b480e57bcf1903afc4d3e5ad75e3a7a53 -- 20250218 17:02:15
 
 primäres ziel dieser dinge wäre die hardware backdoors mit funkkanal von intel geheim zu halten
 
-somit wäre jetzt irgendwo in sendereichweite ein cyberterroristm mit intel hardware backdoor equipment wo VERMUTLICH das FEDPOL [LOCK] [SQITCH NEURALINK SERNDER]
+somit wäre jetzt irgendwo in sendereichweite ein cyberterroristm mit intel hardware backdoor equipment wo VERMUTLICH das FEDPOL [LOCK] [SQITCH NEURALINK SERNDER] [urs blum: bezichtigt das fedpol <- irgendwer auf kokain ohne gewissen] sinvollerweise mal so ein gerät genauer forensisch untersuchen sollte
+
+=============
+8423515cd48f3c4637876b31694b159ed6bd2c0f -- 20250218 17:02:12 
+=============
+
 
