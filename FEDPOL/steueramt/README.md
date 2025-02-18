@@ -68,3 +68,9 @@ meine VM wo telegram drin ist versabschiedet sich ohne dass die VM am internetz 
 7e844bd2e142002a4fecdcb3fc7a007829cf0a35 -- 20250218 14:02:12 
 =============
 
+bzw. der virtmanager hat sich verabschiedet
+
+=============
+8eb6a59271ca300f3e72f564d197d0e7c0dc5850 -- 20250218 14:02:38 
+=============
+
