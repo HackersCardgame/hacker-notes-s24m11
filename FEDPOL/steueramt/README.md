@@ -143,3 +143,22 @@ Straffällige Mitarbetier der schweizer armee arbeiten mit straffälligen Mitarb
 1b02c8f67acb631fdf867ec55b5449882cbb5fdc -- 20250218 17:02:04 
 =============
 
+registerkarte mit git commit push springt vom rechten auf den linken bildschirm, API, etwas wie ein schiesskino, weil man will den git commit heruaszögern oder vertuschen ?
+
+=============
+03e59e1e2722e06efa47c720d4935c06ae836422 -- 20250218 17:02:38 
+=============
+
+backup sabotage vorlegung ist laufend
+
+* dump files in datenverzeichnisse wie debian iso images
+* backup datenträger nicht richtig dort hin legen wo sie hin gehören weil wieder irgendwer mit sprengallen droht und bei mrac xrj landolt ICD10 G40.2 paralell zu den drohungen aktiviert
+* brasero cd/dvd brenn program scheinbar bereits in der distro sabotiert worden
+* dann beim backup vorgang wird bronchitis, cyberwürgekette ... aktiviert um das backup zu verhindern
+* ...
+* ...
+
+=============
+03e59e1e2722e06efa47c720d4935c06ae836422 -- 20250218 17:02:09 
+=============
+
