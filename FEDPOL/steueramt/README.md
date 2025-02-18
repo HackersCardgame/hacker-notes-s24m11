@@ -16,3 +16,12 @@ jakshaving: (um die eigentliche Aussage abzufangen, Rechtsverdreher Software, al
 
 9330678f87a9c07806e7561e5d4e9aaec7ffc1e4
 Tue Feb 18 12:54:29 PM CET 2025
+
+dann der chatGPT rät "Single points of failure / contact" zu vermeiden wenn man zielperson von wirtschaftskriminellen ist ...
+
+... im Umkerschluss wäre es soweiso ein logishcer schachzug von wirtschaftskriminellen das Stueramt bzw. die steuerämter in allen kantonen einzunehmen, denn steuern zahlen und steuererklärunug ausfüllen müssen alle bürger der schweiz
+
+=============
+69858f27e047ed1ec5a0e63d69e89285dc7fbd5b -- 20250218 12:02:21 
+=============
+
