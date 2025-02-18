@@ -55,3 +55,16 @@ immmer aber wirklcih fast jedes einzelne mal wenn die schweizer armee und der Mi
 2ac9b3eb66da82676f3351ca66b47930011f72fc -- 20250218 13:02:35 
 =============
 
+
+=============
+7e844bd2e142002a4fecdcb3fc7a007829cf0a35 -- 20250218 14:02:13 
+=============
+
+ich vermute urs blum hat jetzt wieder die Infrastruktur (vermtuich ein militärisches gerät) welches zugriff auf intel hardware backdoors hat aufgestellt
+
+meine VM wo telegram drin ist versabschiedet sich ohne dass die VM am internetz hängt was sonst eigentlich nie passeirt
+
+=============
+7e844bd2e142002a4fecdcb3fc7a007829cf0a35 -- 20250218 14:02:12 
+=============
+
