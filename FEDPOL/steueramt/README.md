@@ -155,8 +155,12 @@ backup sabotage vorlegung ist laufend
 * backup datenträger nicht richtig dort hin legen wo sie hin gehören weil wieder irgendwer mit sprengallen droht und bei mrac xrj landolt ICD10 G40.2 paralell zu den drohungen aktiviert
 * brasero cd/dvd brenn program scheinbar bereits in der distro sabotiert worden
 * dann beim backup vorgang wird bronchitis, cyberwürgekette ... aktiviert um das backup zu verhindern
+* leaks oder verrat an jüngeren tätern die dann abgespielt werden, oder auch nur faslche bezichtigungen
+   -> beides aber immer nur mit so wenige evidence dass man abgelenkt wird, dass es allenfalls für nachforschung reicht oder man sihc wegen unterlassenreh hilfeleistung schuldig fühlen würde, aber nie genug für eine begründeten verdacht oder einen haftbefehl (so etwas wäre das spezialgebiet von jemandem der rechtswissenschfaten studiert hat, how far can you go ohne dass die mittäter im knast landen und alle anderen verraten)
 * ...
-* ...
+
+
+vorbereitung des terrorismus um zu verhindern dass marc jr landolt backup macht impliziert vorsatz durch eine unbekannte täterschaft
 
 =============
 03e59e1e2722e06efa47c720d4935c06ae836422 -- 20250218 17:02:09 
