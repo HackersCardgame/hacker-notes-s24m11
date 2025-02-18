@@ -103,4 +103,16 @@ somit wäre jetzt irgendwo in sendereichweite ein cyberterroristm mit intel hard
 8423515cd48f3c4637876b31694b159ed6bd2c0f -- 20250218 17:02:12 
 =============
 
+philipp blum mit urs blums sprachsynthese:
+
+sprengfalle
+sprengfalle
+sprengfalle
+sprengfalle
+sprengfalle
+sprengfalle
+sprengfalle
+sprengfalle
+
+
 
