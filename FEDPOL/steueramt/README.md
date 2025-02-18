@@ -115,4 +115,31 @@ sprengfalle
 sprengfalle
 
 
+backup-sabotage vorleger team lukas weber legt laufend sprengfallen vor über die intel hardware backdoors von urs und zuber welche gezündet werden wenn marc jr backup machen möchte
+
+=============
+1b02c8f67acb631fdf867ec55b5449882cbb5fdc -- 20250218 17:02:05 
+=============
+
+verrat durch lukas weber: bei jedem heroin trip spiele der konsument um sein leben
+
+verrat durch lukas weber: sabotagen werden immer in eine queue gestellt und erst dann wenn der benutzer selber etwas drückt aktiviiert
+
+verrat durch urs blum: luas weber hat in skype ausgesagt, es hätte tote gegeben bei den afrikanern im krieg, damit hat lukas gemeint, dass er afrikaner in aarau ermordet hat
+
+=============
+1b02c8f67acb631fdf867ec55b5449882cbb5fdc -- 20250218 17:02:57 
+=============
+
+sobald urs blum und die zürich verscihrung wegen systematischem vertuschen von Menschenexperimenten auffliegt wird lukas weber ans messer geliefert oder bezichtigt
+
+schweizer armee -> urs blum -> thomas zuber -> neffe lukas weber -> vater von lukas -> bnd Gebäude Deutschland archtekt
+
+das hiesse:
+Straffällige Mitarbetier der schweizer armee arbeiten mit straffälligen Mitarbeitern beim BND Deutschland zusammen
+
+
+=============
+1b02c8f67acb631fdf867ec55b5449882cbb5fdc -- 20250218 17:02:04 
+=============
 
