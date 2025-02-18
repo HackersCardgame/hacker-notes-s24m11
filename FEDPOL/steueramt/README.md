@@ -166,3 +166,17 @@ vorbereitung des terrorismus um zu verhindern dass marc jr landolt backup macht 
 03e59e1e2722e06efa47c720d4935c06ae836422 -- 20250218 17:02:09 
 =============
 
+dann vermtue ich dass diese Täterschaf für jede einzelne sabotage welche erst später gezündet wird wie wenn ich backup mache incentives bekommt
+
+also das wäre ein autonomes terrornetzwerk, und irgenwann sagt urs blum "ich will dass der computer von marc jr landolt jetzt gesprengt wird" und zu diesem zeitpunkt können die blackhats verlangen was sie wollen
+
+=============
+eb96a89a18884284a4c49af0596a24ae24462844 -- 20250218 18:01:08 
+=============
+
+somit müsste es irgend ein auftragssystem geben wo sowohl die Auftragnehmer als auch die auftraggeber dann irgendwann auffliegen 
+
+=============
+eb96a89a18884284a4c49af0596a24ae24462844 -- 20250218 18:02:12 
+=============
+
